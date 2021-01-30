@@ -1,0 +1,5 @@
+/build/lib/
+/.benchmarks
+/.pytest_cache
+/coverage/
+/dist

@@ -1,0 +1,7 @@
+include *.md
+exclude *.ini
+exclude .*
+include LICENSE.txt
+recursive-include src/text_normalizer/data *
+recursive-exclude tests *
+recursive-exclude integration *

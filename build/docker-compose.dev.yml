@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  dev:
+    build:
+      context: .
+      args:
+        MODE: DEV
+    image: 'ivr:dev'
+    stdin_open: true
+    tty: true
+    working_dir: /app/src/
+    stop_signal: sigint
+    cap_add:
+      - SYS_PTRACE  # pyspy requirement
+    env_file:
+      - .env
+    volumes:
+      - ../src/:/app/src
+      - ../tests:/app/tests
+      - ../coverage:/app/coverage
+      - ../.pytest_cache:/app/.pytest_cache
+      - ../pytest.ini:/app/pytest.ini
+      - ../benchmark.ini:/app/benchmark.ini
+      - ../.benchmarks:/app/.benchmarks
+
+  rtn:
+    image: 'ivr:dev'
+    ports:
+      - "3000:3000"
+    working_dir: /app/src/
+    stop_signal: sigint
+    env_file:
+      - .env
+    volumes:
+      - ../src/:/app/src
+    entrypoint: ['python', '-m', 'text_normalizer.api.ipc.server', '--all']

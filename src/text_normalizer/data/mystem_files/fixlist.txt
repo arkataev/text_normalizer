@@ -1,0 +1,4597 @@
+@language: ru
+
+ип
+[ип] S,m,nom,sg
+[ип] S,m,gen,sg
+[ип] S,m,dat,sg
+[ип] S,m,acc,sg
+[ип] S,m,ins,sg
+[ип] S,m,abl,sg
+[ип] S,m,nom,pl
+[ип] S,m,gen,pl
+[ип] S,m,dat,pl
+[ип] S,m,acc,pl
+[ип] S,m,ins,pl
+[ип] S,m,abl,pl   
+
+лям
+[лям] S,m,nom,sg,inan
+[лям]а S,m,gen,sg,inan
+[лям]у S,m,dat,sg,inan 
+[лям] S,m,acc,sg,inan 
+[лям]ом S,m,ins,sg,inan
+[лям]е S,m,abl,sg,inan
+[лям]ы S,m,nom,pl,inan
+[лям]ов S,m,gen,pl,inan
+[лям]ам S,m,dat,pl,inan
+[лям]ы S,m,acc,pl,inan
+[лям]ами S,m,ins,pl,inan
+[лям]ах S,m,abl,pl,inan
+
+бабло
+[бабл]о S,n,nom,sg,inan
+[бабл]а S,n,gen,sg,inan
+[бабл]у S,n,dat,sg,inan 
+[бабл]о S,n,acc,sg,inan
+[бабл]ом S,n,ins,sg,inan
+[бабл]е S,n,abl,sg,inan
+
+спасибка
+[спасибк]а S,f,nom,sg,inan 
+[спасибк]и S,f,gen,sg,inan
+[спасибк]е S,f,dat,sg,inan
+[спасибк]у S,f,acc,sg,inan
+[спасибк]ой S,f,ins,sg,inan
+[спасибк]е S,f,abl,sg,inan
+[спасибк]и S,f,nom,pl,inan
+[спасиб]ок S,f,gen,pl,inan
+[спасибк]ам S,f,dat,pl,inan
+[спасибк]и S,f,acc,pl,inan
+[спасибк]ами S,f,ins,pl,inan
+[спасибк]ах S,f,abl,pl,inan
+
+банк
+[банк] S,m,nom,sg,inan
+[банк]а S,m,gen,sg,inan
+[банк]у S,m,dat,sg,inan
+[банк] S,m,acc,sg,inan
+[банк]ом S,m,ins,sg,inan
+[банк]е S,m,abl,sg,inan
+[банк]и S,m,nom,pl,inan
+[банк]ов S,m,gen,pl,inan
+[банк]ам S,m,dat,pl,inan
+[банк]и S,m,acc,pl,inan
+[банк]ами S,m,ins,pl,inan
+[банк]ах S,m,abl,pl,inan
+
+сплит
+[сплит] S,m,nom,sg
+[сплит]а S,m,gen,sg
+[сплит]у S,m,dat,sg
+[сплит] S,m,acc,sg
+[сплит]ом S,m,ins,sg
+[сплит]е S,m,abl,sg
+[сплит]ы S,m,nom,pl
+[сплит]ов S,m,gen,pl
+[сплит]ам S,m,dat,pl
+[сплит]ы S,m,acc,pl
+[сплит]ами S,m,ins,pl
+[сплит]ах S,m,abl,pl
+
+вавилова
+[вавилов]а S,m,gen,sg,inan,geo
+
+куку
+[куку] INTJ
+
+оки
+[оки] INTJ
+
+пинг
+[пинг] INTJ    
+
+хах
+[хах] INTJ    
+
+хэло
+[хэло] INTJ
+
+хелло
+[хелло] INTJ
+
+дарова
+[дарова] INTJ
+
+хэллоу
+[хэллоу] INTJ
+
+гутен
+[гутен] INTJ
+
+тестово
+[тестово] ADV
+
+израиль
+[израиль] S,m,nom,sg,geo,inan
+[израил]я S,m,gen,sg,geo,inan
+[израил]ю S,m,dat,sg,geo,inan
+[израиль] S,m,acc,sg,geo,inan
+[израил]ем S,m,ins,sg,geo,inan
+[израил]е S,m,abl,sg,geo,inan
+
+курган
+[курган] S,m,nom,sg,geo,inan
+[курган]а S,m,gen,sg,geo,inan
+[курган]у S,m,dat,sg,geo,inan
+[курган] S,m,acc,sg,geo,inan
+[курган]ом S,m,ins,sg,geo,inan
+[курган]е S,m,abl,sg,geo,inan
+
+липецк
+[липецк] S,m,nom,sg,geo,inan
+[липецк]а S,m,gen,sg,geo,inan
+[липецк]у S,m,dat,sg,geo,inan
+[липецк] S,m,acc,sg,geo,inan
+[липецк]ом S,m,ins,sg,geo,inan
+[липецк]е S,m,abl,sg,geo,inan
+
+орел
+[орел] S,m,nom,sg,geo,inan
+[орл]а S,m,gen,sg,geo,inan
+[орл]у S,m,dat,sg,geo,inan
+[орел] S,m,acc,sg,geo,inan
+[орл]ом S,m,ins,sg,geo,inan
+[орл]е S,m,abl,sg,geo,inan
+
+питер
+[питер] S,m,nom,sg,geo,inan
+[питер]а S,m,gen,sg,geo,inan
+[питер]у S,m,dat,sg,geo,inan
+[питер] S,m,acc,sg,geo,inan
+[питер]ом S,m,ins,sg,geo,inan
+[питер]е S,m,abl,sg,geo,inan
+
+реутов
+[реутов] S,m,nom,sg,geo,inan
+[реутов]а S,m,gen,sg,geo,inan
+[реутов]у S,m,dat,sg,geo,inan
+[реутов] S,m,acc,sg,geo,inan
+[реутов]ом S,m,ins,sg,geo,inan
+[реутов]е S,m,abl,sg,geo,inan
+
+самара
+[самар]а S,f,nom,sg,geo,inan
+[самар]ы S,f,gen,sg,geo,inan 
+[самар]е S,f,dat,sg,geo,inan
+[самар]у S,f,acc,sg,geo,inan
+[самар]ой S,f,ins,sg,geo,inan
+[самар]е S,f,abl,sg,geo,inan
+
+шекель
+[шекель] S,m,nom,sg 
+[шекел]я S,m,gen,sg 
+[шекел]ю S,m,dat,sg 
+[шекель] S,m,acc,sg 
+[шекел]ем S,m,ins,sg 
+[шекел]е S,m,abl,sg 
+[шекел]и S,m,nom,pl 
+[шекел]ей S,m,gen,pl 
+[шекел]ям S,m,dat,pl 
+[шекел]и S,m,acc,pl 
+[шекел]ями S,m,ins,pl 
+[шекел]ях S,m,abl,pl
+
+алтайский
+[алтайск]ий A,nom,sg,plen,m,geo
+[алтайск]ого A,gen,sg,plen,m,geo
+[алтайск]ому A,dat,sg,plen,m,geo
+[алтайск]ого A,acc,sg,plen,m,anim,geo
+[алтайск]ий A,acc,sg,plen,m,inan,geo
+[алтайск]им A,ins,sg,plen,m,geo
+[алтайск]ом A,abl,sg,plen,m,geo
+[алтайск]ое A,nom,sg,plen,n,geo
+[алтайск]ого A,gen,sg,plen,n,geo
+[алтайск]ому A,dat,sg,plen,n,geo
+[алтайск]ое A,acc,sg,plen,n,geo
+[алтайск]им A,ins,sg,plen,n,geo
+[алтайск]ом A,abl,sg,plen,n,geo
+[алтайск]ая A,nom,sg,plen,f,geo
+[алтайск]ой A,gen,sg,plen,f,geo
+[алтайск]ой A,dat,sg,plen,f,geo
+[алтайск]ую A,acc,sg,plen,f,geo
+[алтайск]ой A,ins,sg,plen,f,geo
+[алтайск]ой A,abl,sg,plen,f,geo
+[алтайск]ие A,nom,pl,plen,geo
+[алтайск]их A,gen,pl,plen,geo
+[алтайск]им A,dat,pl,plen,geo
+[алтайск]их A,acc,pl,plen,anim,geo
+[алтайск]ие A,acc,pl,plen,inan,geo
+[алтайск]ими A,ins,pl,plen,geo
+[алтайск]их A,abl,pl,plen,geo
+
+амурский
+[амурск]ий A,nom,sg,plen,m,geo
+[амурск]ого A,gen,sg,plen,m,geo
+[амурск]ому A,dat,sg,plen,m,geo
+[амурск]ого A,acc,sg,plen,m,anim,geo
+[амурск]ий A,acc,sg,plen,m,inan,geo
+[амурск]им A,ins,sg,plen,m,geo
+[амурск]ом A,abl,sg,plen,m,geo
+[амурск]ое A,nom,sg,plen,n,geo
+[амурск]ого A,gen,sg,plen,n,geo
+[амурск]ому A,dat,sg,plen,n,geo
+[амурск]ое A,acc,sg,plen,n,geo
+[амурск]им A,ins,sg,plen,n,geo
+[амурск]ом A,abl,sg,plen,n,geo
+[амурск]ая A,nom,sg,plen,f,geo
+[амурск]ой A,gen,sg,plen,f,geo
+[амурск]ой A,dat,sg,plen,f,geo
+[амурск]ую A,acc,sg,plen,f,geo
+[амурск]ой A,ins,sg,plen,f,geo
+[амурск]ой A,abl,sg,plen,f,geo
+[амурск]ие A,nom,pl,plen,geo
+[амурск]их A,gen,pl,plen,geo
+[амурск]им A,dat,pl,plen,geo
+[амурск]их A,acc,pl,plen,anim,geo
+[амурск]ие A,acc,pl,plen,inan,geo
+[амурск]ими A,ins,pl,plen,geo
+[амурск]их A,abl,pl,plen,geo
+
+архангельский
+[архангельск]ий A,nom,sg,plen,m,geo
+[архангельск]ого A,gen,sg,plen,m,geo
+[архангельск]ому A,dat,sg,plen,m,geo
+[архангельск]ого A,acc,sg,plen,m,anim,geo
+[архангельск]ий A,acc,sg,plen,m,inan,geo
+[архангельск]им A,ins,sg,plen,m,geo
+[архангельск]ом A,abl,sg,plen,m,geo
+[архангельск]ое A,nom,sg,plen,n,geo
+[архангельск]ого A,gen,sg,plen,n,geo
+[архангельск]ому A,dat,sg,plen,n,geo
+[архангельск]ое A,acc,sg,plen,n,geo
+[архангельск]им A,ins,sg,plen,n,geo
+[архангельск]ом A,abl,sg,plen,n,geo
+[архангельск]ая A,nom,sg,plen,f,geo
+[архангельск]ой A,gen,sg,plen,f,geo
+[архангельск]ой A,dat,sg,plen,f,geo
+[архангельск]ую A,acc,sg,plen,f,geo
+[архангельск]ой A,ins,sg,plen,f,geo
+[архангельск]ой A,abl,sg,plen,f,geo
+[архангельск]ие A,nom,pl,plen,geo
+[архангельск]их A,gen,pl,plen,geo
+[архангельск]им A,dat,pl,plen,geo
+[архангельск]их A,acc,pl,plen,anim,geo
+[архангельск]ие A,acc,pl,plen,inan,geo
+[архангельск]ими A,ins,pl,plen,geo
+[архангельск]их A,abl,pl,plen,geo
+
+астраханский
+[астраханск]ий A,nom,sg,plen,m,geo
+[астраханск]ого A,gen,sg,plen,m,geo
+[астраханск]ому A,dat,sg,plen,m,geo
+[астраханск]ого A,acc,sg,plen,m,anim,geo
+[астраханск]ий A,acc,sg,plen,m,inan,geo
+[астраханск]им A,ins,sg,plen,m,geo
+[астраханск]ом A,abl,sg,plen,m,geo
+[астраханск]ое A,nom,sg,plen,n,geo
+[астраханск]ого A,gen,sg,plen,n,geo
+[астраханск]ому A,dat,sg,plen,n,geo
+[астраханск]ое A,acc,sg,plen,n,geo
+[астраханск]им A,ins,sg,plen,n,geo
+[астраханск]ом A,abl,sg,plen,n,geo
+[астраханск]ая A,nom,sg,plen,f,geo
+[астраханск]ой A,gen,sg,plen,f,geo
+[астраханск]ой A,dat,sg,plen,f,geo
+[астраханск]ую A,acc,sg,plen,f,geo
+[астраханск]ой A,ins,sg,plen,f,geo
+[астраханск]ой A,abl,sg,plen,f,geo
+[астраханск]ие A,nom,pl,plen,geo
+[астраханск]их A,gen,pl,plen,geo
+[астраханск]им A,dat,pl,plen,geo
+[астраханск]их A,acc,pl,plen,anim,geo
+[астраханск]ие A,acc,pl,plen,inan,geo
+[астраханск]ими A,ins,pl,plen,geo
+[астраханск]их A,abl,pl,plen,geo
+
+белгородский
+[белгородск]ий A,nom,sg,plen,m,geo
+[белгородск]ого A,gen,sg,plen,m,geo
+[белгородск]ому A,dat,sg,plen,m,geo
+[белгородск]ого A,acc,sg,plen,m,anim,geo
+[белгородск]ий A,acc,sg,plen,m,inan,geo
+[белгородск]им A,ins,sg,plen,m,geo
+[белгородск]ом A,abl,sg,plen,m,geo
+[белгородск]ое A,nom,sg,plen,n,geo
+[белгородск]ого A,gen,sg,plen,n,geo
+[белгородск]ому A,dat,sg,plen,n,geo
+[белгородск]ое A,acc,sg,plen,n,geo
+[белгородск]им A,ins,sg,plen,n,geo
+[белгородск]ом A,abl,sg,plen,n,geo
+[белгородск]ая A,nom,sg,plen,f,geo
+[белгородск]ой A,gen,sg,plen,f,geo
+[белгородск]ой A,dat,sg,plen,f,geo
+[белгородск]ую A,acc,sg,plen,f,geo
+[белгородск]ой A,ins,sg,plen,f,geo
+[белгородск]ой A,abl,sg,plen,f,geo
+[белгородск]ие A,nom,pl,plen,geo
+[белгородск]их A,gen,pl,plen,geo
+[белгородск]им A,dat,pl,plen,geo
+[белгородск]их A,acc,pl,plen,anim,geo
+[белгородск]ие A,acc,pl,plen,inan,geo
+[белгородск]ими A,ins,pl,plen,geo
+[белгородск]их A,abl,pl,plen,geo
+
+брянский
+[брянск]ий A,nom,sg,plen,m,geo
+[брянск]ого A,gen,sg,plen,m,geo
+[брянск]ому A,dat,sg,plen,m,geo
+[брянск]ого A,acc,sg,plen,m,anim,geo
+[брянск]ий A,acc,sg,plen,m,inan,geo
+[брянск]им A,ins,sg,plen,m,geo
+[брянск]ом A,abl,sg,plen,m,geo
+[брянск]ое A,nom,sg,plen,n,geo
+[брянск]ого A,gen,sg,plen,n,geo
+[брянск]ому A,dat,sg,plen,n,geo
+[брянск]ое A,acc,sg,plen,n,geo
+[брянск]им A,ins,sg,plen,n,geo
+[брянск]ом A,abl,sg,plen,n,geo
+[брянск]ая A,nom,sg,plen,f,geo
+[брянск]ой A,gen,sg,plen,f,geo
+[брянск]ой A,dat,sg,plen,f,geo
+[брянск]ую A,acc,sg,plen,f,geo
+[брянск]ой A,ins,sg,plen,f,geo
+[брянск]ой A,abl,sg,plen,f,geo
+[брянск]ие A,nom,pl,plen,geo
+[брянск]их A,gen,pl,plen,geo
+[брянск]им A,dat,pl,plen,geo
+[брянск]их A,acc,pl,plen,anim,geo
+[брянск]ие A,acc,pl,plen,inan,geo
+[брянск]ими A,ins,pl,plen,geo
+[брянск]их A,abl,pl,plen,geo
+
+владимирский
+[владимирск]ий A,nom,sg,plen,m,geo
+[владимирск]ого A,gen,sg,plen,m,geo
+[владимирск]ому A,dat,sg,plen,m,geo
+[владимирск]ого A,acc,sg,plen,m,anim,geo
+[владимирск]ий A,acc,sg,plen,m,inan,geo
+[владимирск]им A,ins,sg,plen,m,geo
+[владимирск]ом A,abl,sg,plen,m,geo
+[владимирск]ое A,nom,sg,plen,n,geo
+[владимирск]ого A,gen,sg,plen,n,geo
+[владимирск]ому A,dat,sg,plen,n,geo
+[владимирск]ое A,acc,sg,plen,n,geo
+[владимирск]им A,ins,sg,plen,n,geo
+[владимирск]ом A,abl,sg,plen,n,geo
+[владимирск]ая A,nom,sg,plen,f,geo
+[владимирск]ой A,gen,sg,plen,f,geo
+[владимирск]ой A,dat,sg,plen,f,geo
+[владимирск]ую A,acc,sg,plen,f,geo
+[владимирск]ой A,ins,sg,plen,f,geo
+[владимирск]ой A,abl,sg,plen,f,geo
+[владимирск]ие A,nom,pl,plen,geo
+[владимирск]их A,gen,pl,plen,geo
+[владимирск]им A,dat,pl,plen,geo
+[владимирск]их A,acc,pl,plen,anim,geo
+[владимирск]ие A,acc,pl,plen,inan,geo
+[владимирск]ими A,ins,pl,plen,geo
+[владимирск]их A,abl,pl,plen,geo
+
+волгоградский
+[волгоградск]ий A,nom,sg,plen,m,geo
+[волгоградск]ого A,gen,sg,plen,m,geo
+[волгоградск]ому A,dat,sg,plen,m,geo
+[волгоградск]ого A,acc,sg,plen,m,anim,geo
+[волгоградск]ий A,acc,sg,plen,m,inan,geo
+[волгоградск]им A,ins,sg,plen,m,geo
+[волгоградск]ом A,abl,sg,plen,m,geo
+[волгоградск]ое A,nom,sg,plen,n,geo
+[волгоградск]ого A,gen,sg,plen,n,geo
+[волгоградск]ому A,dat,sg,plen,n,geo
+[волгоградск]ое A,acc,sg,plen,n,geo
+[волгоградск]им A,ins,sg,plen,n,geo
+[волгоградск]ом A,abl,sg,plen,n,geo
+[волгоградск]ая A,nom,sg,plen,f,geo
+[волгоградск]ой A,gen,sg,plen,f,geo
+[волгоградск]ой A,dat,sg,plen,f,geo
+[волгоградск]ую A,acc,sg,plen,f,geo
+[волгоградск]ой A,ins,sg,plen,f,geo
+[волгоградск]ой A,abl,sg,plen,f,geo
+[волгоградск]ие A,nom,pl,plen,geo
+[волгоградск]их A,gen,pl,plen,geo
+[волгоградск]им A,dat,pl,plen,geo
+[волгоградск]их A,acc,pl,plen,anim,geo
+[волгоградск]ие A,acc,pl,plen,inan,geo
+[волгоградск]ими A,ins,pl,plen,geo
+[волгоградск]их A,abl,pl,plen,geo
+
+вологодский
+[вологодск]ий A,nom,sg,plen,m,geo
+[вологодск]ого A,gen,sg,plen,m,geo
+[вологодск]ому A,dat,sg,plen,m,geo
+[вологодск]ого A,acc,sg,plen,m,anim,geo
+[вологодск]ий A,acc,sg,plen,m,inan,geo
+[вологодск]им A,ins,sg,plen,m,geo
+[вологодск]ом A,abl,sg,plen,m,geo
+[вологодск]ое A,nom,sg,plen,n,geo
+[вологодск]ого A,gen,sg,plen,n,geo
+[вологодск]ому A,dat,sg,plen,n,geo
+[вологодск]ое A,acc,sg,plen,n,geo
+[вологодск]им A,ins,sg,plen,n,geo
+[вологодск]ом A,abl,sg,plen,n,geo
+[вологодск]ая A,nom,sg,plen,f,geo
+[вологодск]ой A,gen,sg,plen,f,geo
+[вологодск]ой A,dat,sg,plen,f,geo
+[вологодск]ую A,acc,sg,plen,f,geo
+[вологодск]ой A,ins,sg,plen,f,geo
+[вологодск]ой A,abl,sg,plen,f,geo
+[вологодск]ие A,nom,pl,plen,geo
+[вологодск]их A,gen,pl,plen,geo
+[вологодск]им A,dat,pl,plen,geo
+[вологодск]их A,acc,pl,plen,anim,geo
+[вологодск]ие A,acc,pl,plen,inan,geo
+[вологодск]ими A,ins,pl,plen,geo
+[вологодск]их A,abl,pl,plen,geo
+
+воронежский
+[воронежск]ий A,nom,sg,plen,m,geo
+[воронежск]ого A,gen,sg,plen,m,geo
+[воронежск]ому A,dat,sg,plen,m,geo
+[воронежск]ого A,acc,sg,plen,m,anim,geo
+[воронежск]ий A,acc,sg,plen,m,inan,geo
+[воронежск]им A,ins,sg,plen,m,geo
+[воронежск]ом A,abl,sg,plen,m,geo
+[воронежск]ое A,nom,sg,plen,n,geo
+[воронежск]ого A,gen,sg,plen,n,geo
+[воронежск]ому A,dat,sg,plen,n,geo
+[воронежск]ое A,acc,sg,plen,n,geo
+[воронежск]им A,ins,sg,plen,n,geo
+[воронежск]ом A,abl,sg,plen,n,geo
+[воронежск]ая A,nom,sg,plen,f,geo
+[воронежск]ой A,gen,sg,plen,f,geo
+[воронежск]ой A,dat,sg,plen,f,geo
+[воронежск]ую A,acc,sg,plen,f,geo
+[воронежск]ой A,ins,sg,plen,f,geo
+[воронежск]ой A,abl,sg,plen,f,geo
+[воронежск]ие A,nom,pl,plen,geo
+[воронежск]их A,gen,pl,plen,geo
+[воронежск]им A,dat,pl,plen,geo
+[воронежск]их A,acc,pl,plen,anim,geo
+[воронежск]ие A,acc,pl,plen,inan,geo
+[воронежск]ими A,ins,pl,plen,geo
+[воронежск]их A,abl,pl,plen,geo
+
+забайкальский
+[забайкальск]ий A,nom,sg,plen,m,geo
+[забайкальск]ого A,gen,sg,plen,m,geo
+[забайкальск]ому A,dat,sg,plen,m,geo
+[забайкальск]ого A,acc,sg,plen,m,anim,geo
+[забайкальск]ий A,acc,sg,plen,m,inan,geo
+[забайкальск]им A,ins,sg,plen,m,geo
+[забайкальск]ом A,abl,sg,plen,m,geo
+[забайкальск]ое A,nom,sg,plen,n,geo
+[забайкальск]ого A,gen,sg,plen,n,geo
+[забайкальск]ому A,dat,sg,plen,n,geo
+[забайкальск]ое A,acc,sg,plen,n,geo
+[забайкальск]им A,ins,sg,plen,n,geo
+[забайкальск]ом A,abl,sg,plen,n,geo
+[забайкальск]ая A,nom,sg,plen,f,geo
+[забайкальск]ой A,gen,sg,plen,f,geo
+[забайкальск]ой A,dat,sg,plen,f,geo
+[забайкальск]ую A,acc,sg,plen,f,geo
+[забайкальск]ой A,ins,sg,plen,f,geo
+[забайкальск]ой A,abl,sg,plen,f,geo
+[забайкальск]ие A,nom,pl,plen,geo
+[забайкальск]их A,gen,pl,plen,geo
+[забайкальск]им A,dat,pl,plen,geo
+[забайкальск]их A,acc,pl,plen,anim,geo
+[забайкальск]ие A,acc,pl,plen,inan,geo
+[забайкальск]ими A,ins,pl,plen,geo
+[забайкальск]их A,abl,pl,plen,geo
+
+ивановский
+[ивановск]ий A,nom,sg,plen,m,geo
+[ивановск]ого A,gen,sg,plen,m,geo
+[ивановск]ому A,dat,sg,plen,m,geo
+[ивановск]ого A,acc,sg,plen,m,anim,geo
+[ивановск]ий A,acc,sg,plen,m,inan,geo
+[ивановск]им A,ins,sg,plen,m,geo
+[ивановск]ом A,abl,sg,plen,m,geo
+[ивановск]ое A,nom,sg,plen,n,geo
+[ивановск]ого A,gen,sg,plen,n,geo
+[ивановск]ому A,dat,sg,plen,n,geo
+[ивановск]ое A,acc,sg,plen,n,geo
+[ивановск]им A,ins,sg,plen,n,geo
+[ивановск]ом A,abl,sg,plen,n,geo
+[ивановск]ая A,nom,sg,plen,f,geo
+[ивановск]ой A,gen,sg,plen,f,geo
+[ивановск]ой A,dat,sg,plen,f,geo
+[ивановск]ую A,acc,sg,plen,f,geo
+[ивановск]ой A,ins,sg,plen,f,geo
+[ивановск]ой A,abl,sg,plen,f,geo
+[ивановск]ие A,nom,pl,plen,geo
+[ивановск]их A,gen,pl,plen,geo
+[ивановск]им A,dat,pl,plen,geo
+[ивановск]их A,acc,pl,plen,anim,geo
+[ивановск]ие A,acc,pl,plen,inan,geo
+[ивановск]ими A,ins,pl,plen,geo
+[ивановск]их A,abl,pl,plen,geo
+
+иркутский
+[иркутск]ий A,nom,sg,plen,m,geo
+[иркутск]ого A,gen,sg,plen,m,geo
+[иркутск]ому A,dat,sg,plen,m,geo
+[иркутск]ого A,acc,sg,plen,m,anim,geo
+[иркутск]ий A,acc,sg,plen,m,inan,geo
+[иркутск]им A,ins,sg,plen,m,geo
+[иркутск]ом A,abl,sg,plen,m,geo
+[иркутск]ое A,nom,sg,plen,n,geo
+[иркутск]ого A,gen,sg,plen,n,geo
+[иркутск]ому A,dat,sg,plen,n,geo
+[иркутск]ое A,acc,sg,plen,n,geo
+[иркутск]им A,ins,sg,plen,n,geo
+[иркутск]ом A,abl,sg,plen,n,geo
+[иркутск]ая A,nom,sg,plen,f,geo
+[иркутск]ой A,gen,sg,plen,f,geo
+[иркутск]ой A,dat,sg,plen,f,geo
+[иркутск]ую A,acc,sg,plen,f,geo
+[иркутск]ой A,ins,sg,plen,f,geo
+[иркутск]ой A,abl,sg,plen,f,geo
+[иркутск]ие A,nom,pl,plen,geo
+[иркутск]их A,gen,pl,plen,geo
+[иркутск]им A,dat,pl,plen,geo
+[иркутск]их A,acc,pl,plen,anim,geo
+[иркутск]ие A,acc,pl,plen,inan,geo
+[иркутск]ими A,ins,pl,plen,geo
+[иркутск]их A,abl,pl,plen,geo
+
+кабардино-балкарский
+[кабардино-балкарск]ий A,nom,sg,plen,m,geo
+[кабардино-балкарск]ого A,gen,sg,plen,m,geo
+[кабардино-балкарск]ому A,dat,sg,plen,m,geo
+[кабардино-балкарск]ого A,acc,sg,plen,m,anim,geo
+[кабардино-балкарск]ий A,acc,sg,plen,m,inan,geo
+[кабардино-балкарск]им A,ins,sg,plen,m,geo
+[кабардино-балкарск]ом A,abl,sg,plen,m,geo
+[кабардино-балкарск]ое A,nom,sg,plen,n,geo
+[кабардино-балкарск]ого A,gen,sg,plen,n,geo
+[кабардино-балкарск]ому A,dat,sg,plen,n,geo
+[кабардино-балкарск]ое A,acc,sg,plen,n,geo
+[кабардино-балкарск]им A,ins,sg,plen,n,geo
+[кабардино-балкарск]ом A,abl,sg,plen,n,geo
+[кабардино-балкарск]ая A,nom,sg,plen,f,geo
+[кабардино-балкарск]ой A,gen,sg,plen,f,geo
+[кабардино-балкарск]ой A,dat,sg,plen,f,geo
+[кабардино-балкарск]ую A,acc,sg,plen,f,geo
+[кабардино-балкарск]ой A,ins,sg,plen,f,geo
+[кабардино-балкарск]ой A,abl,sg,plen,f,geo
+[кабардино-балкарск]ие A,nom,pl,plen,geo
+[кабардино-балкарск]их A,gen,pl,plen,geo
+[кабардино-балкарск]им A,dat,pl,plen,geo
+[кабардино-балкарск]их A,acc,pl,plen,anim,geo
+[кабардино-балкарск]ие A,acc,pl,plen,inan,geo
+[кабардино-балкарск]ими A,ins,pl,plen,geo
+[кабардино-балкарск]их A,abl,pl,plen,geo
+
+калининградский
+[калининградск]ий A,nom,sg,plen,m,geo
+[калининградск]ого A,gen,sg,plen,m,geo
+[калининградск]ому A,dat,sg,plen,m,geo
+[калининградск]ого A,acc,sg,plen,m,anim,geo
+[калининградск]ий A,acc,sg,plen,m,inan,geo
+[калининградск]им A,ins,sg,plen,m,geo
+[калининградск]ом A,abl,sg,plen,m,geo
+[калининградск]ое A,nom,sg,plen,n,geo
+[калининградск]ого A,gen,sg,plen,n,geo
+[калининградск]ому A,dat,sg,plen,n,geo
+[калининградск]ое A,acc,sg,plen,n,geo
+[калининградск]им A,ins,sg,plen,n,geo
+[калининградск]ом A,abl,sg,plen,n,geo
+[калининградск]ая A,nom,sg,plen,f,geo
+[калининградск]ой A,gen,sg,plen,f,geo
+[калининградск]ой A,dat,sg,plen,f,geo
+[калининградск]ую A,acc,sg,plen,f,geo
+[калининградск]ой A,ins,sg,plen,f,geo
+[калининградск]ой A,abl,sg,plen,f,geo
+[калининградск]ие A,nom,pl,plen,geo
+[калининградск]их A,gen,pl,plen,geo
+[калининградск]им A,dat,pl,plen,geo
+[калининградск]их A,acc,pl,plen,anim,geo
+[калининградск]ие A,acc,pl,plen,inan,geo
+[калининградск]ими A,ins,pl,plen,geo
+[калининградск]их A,abl,pl,plen,geo
+
+калужский
+[калужск]ий A,nom,sg,plen,m,geo
+[калужск]ого A,gen,sg,plen,m,geo
+[калужск]ому A,dat,sg,plen,m,geo
+[калужск]ого A,acc,sg,plen,m,anim,geo
+[калужск]ий A,acc,sg,plen,m,inan,geo
+[калужск]им A,ins,sg,plen,m,geo
+[калужск]ом A,abl,sg,plen,m,geo
+[калужск]ое A,nom,sg,plen,n,geo
+[калужск]ого A,gen,sg,plen,n,geo
+[калужск]ому A,dat,sg,plen,n,geo
+[калужск]ое A,acc,sg,plen,n,geo
+[калужск]им A,ins,sg,plen,n,geo
+[калужск]ом A,abl,sg,plen,n,geo
+[калужск]ая A,nom,sg,plen,f,geo
+[калужск]ой A,gen,sg,plen,f,geo
+[калужск]ой A,dat,sg,plen,f,geo
+[калужск]ую A,acc,sg,plen,f,geo
+[калужск]ой A,ins,sg,plen,f,geo
+[калужск]ой A,abl,sg,plen,f,geo
+[калужск]ие A,nom,pl,plen,geo
+[калужск]их A,gen,pl,plen,geo
+[калужск]им A,dat,pl,plen,geo
+[калужск]их A,acc,pl,plen,anim,geo
+[калужск]ие A,acc,pl,plen,inan,geo
+[калужск]ими A,ins,pl,plen,geo
+[калужск]их A,abl,pl,plen,geo
+
+камчатский
+[камчатск]ий A,nom,sg,plen,m,geo
+[камчатск]ого A,gen,sg,plen,m,geo
+[камчатск]ому A,dat,sg,plen,m,geo
+[камчатск]ого A,acc,sg,plen,m,anim,geo
+[камчатск]ий A,acc,sg,plen,m,inan,geo
+[камчатск]им A,ins,sg,plen,m,geo
+[камчатск]ом A,abl,sg,plen,m,geo
+[камчатск]ое A,nom,sg,plen,n,geo
+[камчатск]ого A,gen,sg,plen,n,geo
+[камчатск]ому A,dat,sg,plen,n,geo
+[камчатск]ое A,acc,sg,plen,n,geo
+[камчатск]им A,ins,sg,plen,n,geo
+[камчатск]ом A,abl,sg,plen,n,geo
+[камчатск]ая A,nom,sg,plen,f,geo
+[камчатск]ой A,gen,sg,plen,f,geo
+[камчатск]ой A,dat,sg,plen,f,geo
+[камчатск]ую A,acc,sg,plen,f,geo
+[камчатск]ой A,ins,sg,plen,f,geo
+[камчатск]ой A,abl,sg,plen,f,geo
+[камчатск]ие A,nom,pl,plen,geo
+[камчатск]их A,gen,pl,plen,geo
+[камчатск]им A,dat,pl,plen,geo
+[камчатск]их A,acc,pl,plen,anim,geo
+[камчатск]ие A,acc,pl,plen,inan,geo
+[камчатск]ими A,ins,pl,plen,geo
+[камчатск]их A,abl,pl,plen,geo
+
+карачаево-черкесский
+[карачаево-черкесск]ий A,nom,sg,plen,m,geo
+[карачаево-черкесск]ого A,gen,sg,plen,m,geo
+[карачаево-черкесск]ому A,dat,sg,plen,m,geo
+[карачаево-черкесск]ого A,acc,sg,plen,m,anim,geo
+[карачаево-черкесск]ий A,acc,sg,plen,m,inan,geo
+[карачаево-черкесск]им A,ins,sg,plen,m,geo
+[карачаево-черкесск]ом A,abl,sg,plen,m,geo
+[карачаево-черкесск]ое A,nom,sg,plen,n,geo
+[карачаево-черкесск]ого A,gen,sg,plen,n,geo
+[карачаево-черкесск]ому A,dat,sg,plen,n,geo
+[карачаево-черкесск]ое A,acc,sg,plen,n,geo
+[карачаево-черкесск]им A,ins,sg,plen,n,geo
+[карачаево-черкесск]ом A,abl,sg,plen,n,geo
+[карачаево-черкесск]ая A,nom,sg,plen,f,geo
+[карачаево-черкесск]ой A,gen,sg,plen,f,geo
+[карачаево-черкесск]ой A,dat,sg,plen,f,geo
+[карачаево-черкесск]ую A,acc,sg,plen,f,geo
+[карачаево-черкесск]ой A,ins,sg,plen,f,geo
+[карачаево-черкесск]ой A,abl,sg,plen,f,geo
+[карачаево-черкесск]ие A,nom,pl,plen,geo
+[карачаево-черкесск]их A,gen,pl,plen,geo
+[карачаево-черкесск]им A,dat,pl,plen,geo
+[карачаево-черкесск]их A,acc,pl,plen,anim,geo
+[карачаево-черкесск]ие A,acc,pl,plen,inan,geo
+[карачаево-черкесск]ими A,ins,pl,plen,geo
+[карачаево-черкесск]их A,abl,pl,plen,geo
+
+кемеровский
+[кемеровск]ий A,nom,sg,plen,m,geo
+[кемеровск]ого A,gen,sg,plen,m,geo
+[кемеровск]ому A,dat,sg,plen,m,geo
+[кемеровск]ого A,acc,sg,plen,m,anim,geo
+[кемеровск]ий A,acc,sg,plen,m,inan,geo
+[кемеровск]им A,ins,sg,plen,m,geo
+[кемеровск]ом A,abl,sg,plen,m,geo
+[кемеровск]ое A,nom,sg,plen,n,geo
+[кемеровск]ого A,gen,sg,plen,n,geo
+[кемеровск]ому A,dat,sg,plen,n,geo
+[кемеровск]ое A,acc,sg,plen,n,geo
+[кемеровск]им A,ins,sg,plen,n,geo
+[кемеровск]ом A,abl,sg,plen,n,geo
+[кемеровск]ая A,nom,sg,plen,f,geo
+[кемеровск]ой A,gen,sg,plen,f,geo
+[кемеровск]ой A,dat,sg,plen,f,geo
+[кемеровск]ую A,acc,sg,plen,f,geo
+[кемеровск]ой A,ins,sg,plen,f,geo
+[кемеровск]ой A,abl,sg,plen,f,geo
+[кемеровск]ие A,nom,pl,plen,geo
+[кемеровск]их A,gen,pl,plen,geo
+[кемеровск]им A,dat,pl,plen,geo
+[кемеровск]их A,acc,pl,plen,anim,geo
+[кемеровск]ие A,acc,pl,plen,inan,geo
+[кемеровск]ими A,ins,pl,plen,geo
+[кемеровск]их A,abl,pl,plen,geo
+
+кировский
+[кировск]ий A,nom,sg,plen,m,geo
+[кировск]ого A,gen,sg,plen,m,geo
+[кировск]ому A,dat,sg,plen,m,geo
+[кировск]ого A,acc,sg,plen,m,anim,geo
+[кировск]ий A,acc,sg,plen,m,inan,geo
+[кировск]им A,ins,sg,plen,m,geo
+[кировск]ом A,abl,sg,plen,m,geo
+[кировск]ое A,nom,sg,plen,n,geo
+[кировск]ого A,gen,sg,plen,n,geo
+[кировск]ому A,dat,sg,plen,n,geo
+[кировск]ое A,acc,sg,plen,n,geo
+[кировск]им A,ins,sg,plen,n,geo
+[кировск]ом A,abl,sg,plen,n,geo
+[кировск]ая A,nom,sg,plen,f,geo
+[кировск]ой A,gen,sg,plen,f,geo
+[кировск]ой A,dat,sg,plen,f,geo
+[кировск]ую A,acc,sg,plen,f,geo
+[кировск]ой A,ins,sg,plen,f,geo
+[кировск]ой A,abl,sg,plen,f,geo
+[кировск]ие A,nom,pl,plen,geo
+[кировск]их A,gen,pl,plen,geo
+[кировск]им A,dat,pl,plen,geo
+[кировск]их A,acc,pl,plen,anim,geo
+[кировск]ие A,acc,pl,plen,inan,geo
+[кировск]ими A,ins,pl,plen,geo
+[кировск]их A,abl,pl,plen,geo
+
+костромской
+[костромск]ой A,nom,sg,plen,m,geo
+[костромск]ого A,gen,sg,plen,m,geo
+[костромск]ому A,dat,sg,plen,m,geo
+[костромск]ого A,acc,sg,plen,m,anim,geo
+[костромск]ий A,acc,sg,plen,m,inan,geo
+[костромск]им A,ins,sg,plen,m,geo
+[костромск]ом A,abl,sg,plen,m,geo
+[костромск]ое A,nom,sg,plen,n,geo
+[костромск]ого A,gen,sg,plen,n,geo
+[костромск]ому A,dat,sg,plen,n,geo
+[костромск]ое A,acc,sg,plen,n,geo
+[костромск]им A,ins,sg,plen,n,geo
+[костромск]ом A,abl,sg,plen,n,geo
+[костромск]ая A,nom,sg,plen,f,geo
+[костромск]ой A,gen,sg,plen,f,geo
+[костромск]ой A,dat,sg,plen,f,geo
+[костромск]ую A,acc,sg,plen,f,geo
+[костромск]ой A,ins,sg,plen,f,geo
+[костромск]ой A,abl,sg,plen,f,geo
+[костромск]ие A,nom,pl,plen,geo
+[костромск]их A,gen,pl,plen,geo
+[костромск]им A,dat,pl,plen,geo
+[костромск]их A,acc,pl,plen,anim,geo
+[костромск]ие A,acc,pl,plen,inan,geo
+[костромск]ими A,ins,pl,plen,geo
+[костромск]их A,abl,pl,plen,geo
+
+краснодарский
+[краснодарск]ий A,nom,sg,plen,m,geo
+[краснодарск]ого A,gen,sg,plen,m,geo
+[краснодарск]ому A,dat,sg,plen,m,geo
+[краснодарск]ого A,acc,sg,plen,m,anim,geo
+[краснодарск]ий A,acc,sg,plen,m,inan,geo
+[краснодарск]им A,ins,sg,plen,m,geo
+[краснодарск]ом A,abl,sg,plen,m,geo
+[краснодарск]ое A,nom,sg,plen,n,geo
+[краснодарск]ого A,gen,sg,plen,n,geo
+[краснодарск]ому A,dat,sg,plen,n,geo
+[краснодарск]ое A,acc,sg,plen,n,geo
+[краснодарск]им A,ins,sg,plen,n,geo
+[краснодарск]ом A,abl,sg,plen,n,geo
+[краснодарск]ая A,nom,sg,plen,f,geo
+[краснодарск]ой A,gen,sg,plen,f,geo
+[краснодарск]ой A,dat,sg,plen,f,geo
+[краснодарск]ую A,acc,sg,plen,f,geo
+[краснодарск]ой A,ins,sg,plen,f,geo
+[краснодарск]ой A,abl,sg,plen,f,geo
+[краснодарск]ие A,nom,pl,plen,geo
+[краснодарск]их A,gen,pl,plen,geo
+[краснодарск]им A,dat,pl,plen,geo
+[краснодарск]их A,acc,pl,plen,anim,geo
+[краснодарск]ие A,acc,pl,plen,inan,geo
+[краснодарск]ими A,ins,pl,plen,geo
+[краснодарск]их A,abl,pl,plen,geo
+
+красноярский
+[красноярск]ий A,nom,sg,plen,m,geo
+[красноярск]ого A,gen,sg,plen,m,geo
+[красноярск]ому A,dat,sg,plen,m,geo
+[красноярск]ого A,acc,sg,plen,m,anim,geo
+[красноярск]ий A,acc,sg,plen,m,inan,geo
+[красноярск]им A,ins,sg,plen,m,geo
+[красноярск]ом A,abl,sg,plen,m,geo
+[красноярск]ое A,nom,sg,plen,n,geo
+[красноярск]ого A,gen,sg,plen,n,geo
+[красноярск]ому A,dat,sg,plen,n,geo
+[красноярск]ое A,acc,sg,plen,n,geo
+[красноярск]им A,ins,sg,plen,n,geo
+[красноярск]ом A,abl,sg,plen,n,geo
+[красноярск]ая A,nom,sg,plen,f,geo
+[красноярск]ой A,gen,sg,plen,f,geo
+[красноярск]ой A,dat,sg,plen,f,geo
+[красноярск]ую A,acc,sg,plen,f,geo
+[красноярск]ой A,ins,sg,plen,f,geo
+[красноярск]ой A,abl,sg,plen,f,geo
+[красноярск]ие A,nom,pl,plen,geo
+[красноярск]их A,gen,pl,plen,geo
+[красноярск]им A,dat,pl,plen,geo
+[красноярск]их A,acc,pl,plen,anim,geo
+[красноярск]ие A,acc,pl,plen,inan,geo
+[красноярск]ими A,ins,pl,plen,geo
+[красноярск]их A,abl,pl,plen,geo
+
+курганский
+[курганск]ий A,nom,sg,plen,m,geo
+[курганск]ого A,gen,sg,plen,m,geo
+[курганск]ому A,dat,sg,plen,m,geo
+[курганск]ого A,acc,sg,plen,m,anim,geo
+[курганск]ий A,acc,sg,plen,m,inan,geo
+[курганск]им A,ins,sg,plen,m,geo
+[курганск]ом A,abl,sg,plen,m,geo
+[курганск]ое A,nom,sg,plen,n,geo
+[курганск]ого A,gen,sg,plen,n,geo
+[курганск]ому A,dat,sg,plen,n,geo
+[курганск]ое A,acc,sg,plen,n,geo
+[курганск]им A,ins,sg,plen,n,geo
+[курганск]ом A,abl,sg,plen,n,geo
+[курганск]ая A,nom,sg,plen,f,geo
+[курганск]ой A,gen,sg,plen,f,geo
+[курганск]ой A,dat,sg,plen,f,geo
+[курганск]ую A,acc,sg,plen,f,geo
+[курганск]ой A,ins,sg,plen,f,geo
+[курганск]ой A,abl,sg,plen,f,geo
+[курганск]ие A,nom,pl,plen,geo
+[курганск]их A,gen,pl,plen,geo
+[курганск]им A,dat,pl,plen,geo
+[курганск]их A,acc,pl,plen,anim,geo
+[курганск]ие A,acc,pl,plen,inan,geo
+[курганск]ими A,ins,pl,plen,geo
+[курганск]их A,abl,pl,plen,geo
+
+курский
+[курск]ий A,nom,sg,plen,m,geo
+[курск]ого A,gen,sg,plen,m,geo
+[курск]ому A,dat,sg,plen,m,geo
+[курск]ого A,acc,sg,plen,m,anim,geo
+[курск]ий A,acc,sg,plen,m,inan,geo
+[курск]им A,ins,sg,plen,m,geo
+[курск]ом A,abl,sg,plen,m,geo
+[курск]ое A,nom,sg,plen,n,geo
+[курск]ого A,gen,sg,plen,n,geo
+[курск]ому A,dat,sg,plen,n,geo
+[курск]ое A,acc,sg,plen,n,geo
+[курск]им A,ins,sg,plen,n,geo
+[курск]ом A,abl,sg,plen,n,geo
+[курск]ая A,nom,sg,plen,f,geo
+[курск]ой A,gen,sg,plen,f,geo
+[курск]ой A,dat,sg,plen,f,geo
+[курск]ую A,acc,sg,plen,f,geo
+[курск]ой A,ins,sg,plen,f,geo
+[курск]ой A,abl,sg,plen,f,geo
+[курск]ие A,nom,pl,plen,geo
+[курск]их A,gen,pl,plen,geo
+[курск]им A,dat,pl,plen,geo
+[курск]их A,acc,pl,plen,anim,geo
+[курск]ие A,acc,pl,plen,inan,geo
+[курск]ими A,ins,pl,plen,geo
+[курск]их A,abl,pl,plen,geo
+
+ленинградский
+[ленинградск]ий A,nom,sg,plen,m,geo
+[ленинградск]ого A,gen,sg,plen,m,geo
+[ленинградск]ому A,dat,sg,plen,m,geo
+[ленинградск]ого A,acc,sg,plen,m,anim,geo
+[ленинградск]ий A,acc,sg,plen,m,inan,geo
+[ленинградск]им A,ins,sg,plen,m,geo
+[ленинградск]ом A,abl,sg,plen,m,geo
+[ленинградск]ое A,nom,sg,plen,n,geo
+[ленинградск]ого A,gen,sg,plen,n,geo
+[ленинградск]ому A,dat,sg,plen,n,geo
+[ленинградск]ое A,acc,sg,plen,n,geo
+[ленинградск]им A,ins,sg,plen,n,geo
+[ленинградск]ом A,abl,sg,plen,n,geo
+[ленинградск]ая A,nom,sg,plen,f,geo
+[ленинградск]ой A,gen,sg,plen,f,geo
+[ленинградск]ой A,dat,sg,plen,f,geo
+[ленинградск]ую A,acc,sg,plen,f,geo
+[ленинградск]ой A,ins,sg,plen,f,geo
+[ленинградск]ой A,abl,sg,plen,f,geo
+[ленинградск]ие A,nom,pl,plen,geo
+[ленинградск]их A,gen,pl,plen,geo
+[ленинградск]им A,dat,pl,plen,geo
+[ленинградск]их A,acc,pl,plen,anim,geo
+[ленинградск]ие A,acc,pl,plen,inan,geo
+[ленинградск]ими A,ins,pl,plen,geo
+[ленинградск]их A,abl,pl,plen,geo
+
+липецкий
+[липецк]ий A,nom,sg,plen,m,geo
+[липецк]ого A,gen,sg,plen,m,geo
+[липецк]ому A,dat,sg,plen,m,geo
+[липецк]ого A,acc,sg,plen,m,anim,geo
+[липецк]ий A,acc,sg,plen,m,inan,geo
+[липецк]им A,ins,sg,plen,m,geo
+[липецк]ом A,abl,sg,plen,m,geo
+[липецк]ое A,nom,sg,plen,n,geo
+[липецк]ого A,gen,sg,plen,n,geo
+[липецк]ому A,dat,sg,plen,n,geo
+[липецк]ое A,acc,sg,plen,n,geo
+[липецк]им A,ins,sg,plen,n,geo
+[липецк]ом A,abl,sg,plen,n,geo
+[липецк]ая A,nom,sg,plen,f,geo
+[липецк]ой A,gen,sg,plen,f,geo
+[липецк]ой A,dat,sg,plen,f,geo
+[липецк]ую A,acc,sg,plen,f,geo
+[липецк]ой A,ins,sg,plen,f,geo
+[липецк]ой A,abl,sg,plen,f,geo
+[липецк]ие A,nom,pl,plen,geo
+[липецк]их A,gen,pl,plen,geo
+[липецк]им A,dat,pl,plen,geo
+[липецк]их A,acc,pl,plen,anim,geo
+[липецк]ие A,acc,pl,plen,inan,geo
+[липецк]ими A,ins,pl,plen,geo
+[липецк]их A,abl,pl,plen,geo
+
+магаданский
+[магаданск]ий A,nom,sg,plen,m,geo
+[магаданск]ого A,gen,sg,plen,m,geo
+[магаданск]ому A,dat,sg,plen,m,geo
+[магаданск]ого A,acc,sg,plen,m,anim,geo
+[магаданск]ий A,acc,sg,plen,m,inan,geo
+[магаданск]им A,ins,sg,plen,m,geo
+[магаданск]ом A,abl,sg,plen,m,geo
+[магаданск]ое A,nom,sg,plen,n,geo
+[магаданск]ого A,gen,sg,plen,n,geo
+[магаданск]ому A,dat,sg,plen,n,geo
+[магаданск]ое A,acc,sg,plen,n,geo
+[магаданск]им A,ins,sg,plen,n,geo
+[магаданск]ом A,abl,sg,plen,n,geo
+[магаданск]ая A,nom,sg,plen,f,geo
+[магаданск]ой A,gen,sg,plen,f,geo
+[магаданск]ой A,dat,sg,plen,f,geo
+[магаданск]ую A,acc,sg,plen,f,geo
+[магаданск]ой A,ins,sg,plen,f,geo
+[магаданск]ой A,abl,sg,plen,f,geo
+[магаданск]ие A,nom,pl,plen,geo
+[магаданск]их A,gen,pl,plen,geo
+[магаданск]им A,dat,pl,plen,geo
+[магаданск]их A,acc,pl,plen,anim,geo
+[магаданск]ие A,acc,pl,plen,inan,geo
+[магаданск]ими A,ins,pl,plen,geo
+[магаданск]их A,abl,pl,plen,geo
+
+московский
+[московск]ий A,nom,sg,plen,m,geo
+[московск]ого A,gen,sg,plen,m,geo
+[московск]ому A,dat,sg,plen,m,geo
+[московск]ого A,acc,sg,plen,m,anim,geo
+[московск]ий A,acc,sg,plen,m,inan,geo
+[московск]им A,ins,sg,plen,m,geo
+[московск]ом A,abl,sg,plen,m,geo
+[московск]ое A,nom,sg,plen,n,geo
+[московск]ого A,gen,sg,plen,n,geo
+[московск]ому A,dat,sg,plen,n,geo
+[московск]ое A,acc,sg,plen,n,geo
+[московск]им A,ins,sg,plen,n,geo
+[московск]ом A,abl,sg,plen,n,geo
+[московск]ая A,nom,sg,plen,f,geo
+[московск]ой A,gen,sg,plen,f,geo
+[московск]ой A,dat,sg,plen,f,geo
+[московск]ую A,acc,sg,plen,f,geo
+[московск]ой A,ins,sg,plen,f,geo
+[московск]ой A,abl,sg,plen,f,geo
+[московск]ие A,nom,pl,plen,geo
+[московск]их A,gen,pl,plen,geo
+[московск]им A,dat,pl,plen,geo
+[московск]их A,acc,pl,plen,anim,geo
+[московск]ие A,acc,pl,plen,inan,geo
+[московск]ими A,ins,pl,plen,geo
+[московск]их A,abl,pl,plen,geo
+
+мурманский
+[мурманск]ий A,nom,sg,plen,m,geo
+[мурманск]ого A,gen,sg,plen,m,geo
+[мурманск]ому A,dat,sg,plen,m,geo
+[мурманск]ого A,acc,sg,plen,m,anim,geo
+[мурманск]ий A,acc,sg,plen,m,inan,geo
+[мурманск]им A,ins,sg,plen,m,geo
+[мурманск]ом A,abl,sg,plen,m,geo
+[мурманск]ое A,nom,sg,plen,n,geo
+[мурманск]ого A,gen,sg,plen,n,geo
+[мурманск]ому A,dat,sg,plen,n,geo
+[мурманск]ое A,acc,sg,plen,n,geo
+[мурманск]им A,ins,sg,plen,n,geo
+[мурманск]ом A,abl,sg,plen,n,geo
+[мурманск]ая A,nom,sg,plen,f,geo
+[мурманск]ой A,gen,sg,plen,f,geo
+[мурманск]ой A,dat,sg,plen,f,geo
+[мурманск]ую A,acc,sg,plen,f,geo
+[мурманск]ой A,ins,sg,plen,f,geo
+[мурманск]ой A,abl,sg,plen,f,geo
+[мурманск]ие A,nom,pl,plen,geo
+[мурманск]их A,gen,pl,plen,geo
+[мурманск]им A,dat,pl,plen,geo
+[мурманск]их A,acc,pl,plen,anim,geo
+[мурманск]ие A,acc,pl,plen,inan,geo
+[мурманск]ими A,ins,pl,plen,geo
+[мурманск]их A,abl,pl,plen,geo
+
+ненецкий
+[ненецк]ий A,nom,sg,plen,m,geo
+[ненецк]ого A,gen,sg,plen,m,geo
+[ненецк]ому A,dat,sg,plen,m,geo
+[ненецк]ого A,acc,sg,plen,m,anim,geo
+[ненецк]ий A,acc,sg,plen,m,inan,geo
+[ненецк]им A,ins,sg,plen,m,geo
+[ненецк]ом A,abl,sg,plen,m,geo
+[ненецк]ое A,nom,sg,plen,n,geo
+[ненецк]ого A,gen,sg,plen,n,geo
+[ненецк]ому A,dat,sg,plen,n,geo
+[ненецк]ое A,acc,sg,plen,n,geo
+[ненецк]им A,ins,sg,plen,n,geo
+[ненецк]ом A,abl,sg,plen,n,geo
+[ненецк]ая A,nom,sg,plen,f,geo
+[ненецк]ой A,gen,sg,plen,f,geo
+[ненецк]ой A,dat,sg,plen,f,geo
+[ненецк]ую A,acc,sg,plen,f,geo
+[ненецк]ой A,ins,sg,plen,f,geo
+[ненецк]ой A,abl,sg,plen,f,geo
+[ненецк]ие A,nom,pl,plen,geo
+[ненецк]их A,gen,pl,plen,geo
+[ненецк]им A,dat,pl,plen,geo
+[ненецк]их A,acc,pl,plen,anim,geo
+[ненецк]ие A,acc,pl,plen,inan,geo
+[ненецк]ими A,ins,pl,plen,geo
+[ненецк]их A,abl,pl,plen,geo
+
+нижегородский
+[нижегородск]ий A,nom,sg,plen,m,geo
+[нижегородск]ого A,gen,sg,plen,m,geo
+[нижегородск]ому A,dat,sg,plen,m,geo
+[нижегородск]ого A,acc,sg,plen,m,anim,geo
+[нижегородск]ий A,acc,sg,plen,m,inan,geo
+[нижегородск]им A,ins,sg,plen,m,geo
+[нижегородск]ом A,abl,sg,plen,m,geo
+[нижегородск]ое A,nom,sg,plen,n,geo
+[нижегородск]ого A,gen,sg,plen,n,geo
+[нижегородск]ому A,dat,sg,plen,n,geo
+[нижегородск]ое A,acc,sg,plen,n,geo
+[нижегородск]им A,ins,sg,plen,n,geo
+[нижегородск]ом A,abl,sg,plen,n,geo
+[нижегородск]ая A,nom,sg,plen,f,geo
+[нижегородск]ой A,gen,sg,plen,f,geo
+[нижегородск]ой A,dat,sg,plen,f,geo
+[нижегородск]ую A,acc,sg,plen,f,geo
+[нижегородск]ой A,ins,sg,plen,f,geo
+[нижегородск]ой A,abl,sg,plen,f,geo
+[нижегородск]ие A,nom,pl,plen,geo
+[нижегородск]их A,gen,pl,plen,geo
+[нижегородск]им A,dat,pl,plen,geo
+[нижегородск]их A,acc,pl,plen,anim,geo
+[нижегородск]ие A,acc,pl,plen,inan,geo
+[нижегородск]ими A,ins,pl,plen,geo
+[нижегородск]их A,abl,pl,plen,geo
+
+новгородский
+[новгородск]ий A,nom,sg,plen,m,geo
+[новгородск]ого A,gen,sg,plen,m,geo
+[новгородск]ому A,dat,sg,plen,m,geo
+[новгородск]ого A,acc,sg,plen,m,anim,geo
+[новгородск]ий A,acc,sg,plen,m,inan,geo
+[новгородск]им A,ins,sg,plen,m,geo
+[новгородск]ом A,abl,sg,plen,m,geo
+[новгородск]ое A,nom,sg,plen,n,geo
+[новгородск]ого A,gen,sg,plen,n,geo
+[новгородск]ому A,dat,sg,plen,n,geo
+[новгородск]ое A,acc,sg,plen,n,geo
+[новгородск]им A,ins,sg,plen,n,geo
+[новгородск]ом A,abl,sg,plen,n,geo
+[новгородск]ая A,nom,sg,plen,f,geo
+[новгородск]ой A,gen,sg,plen,f,geo
+[новгородск]ой A,dat,sg,plen,f,geo
+[новгородск]ую A,acc,sg,plen,f,geo
+[новгородск]ой A,ins,sg,plen,f,geo
+[новгородск]ой A,abl,sg,plen,f,geo
+[новгородск]ие A,nom,pl,plen,geo
+[новгородск]их A,gen,pl,plen,geo
+[новгородск]им A,dat,pl,plen,geo
+[новгородск]их A,acc,pl,plen,anim,geo
+[новгородск]ие A,acc,pl,plen,inan,geo
+[новгородск]ими A,ins,pl,plen,geo
+[новгородск]их A,abl,pl,plen,geo
+
+новосибирский
+[новосибирск]ий A,nom,sg,plen,m,geo
+[новосибирск]ого A,gen,sg,plen,m,geo
+[новосибирск]ому A,dat,sg,plen,m,geo
+[новосибирск]ого A,acc,sg,plen,m,anim,geo
+[новосибирск]ий A,acc,sg,plen,m,inan,geo
+[новосибирск]им A,ins,sg,plen,m,geo
+[новосибирск]ом A,abl,sg,plen,m,geo
+[новосибирск]ое A,nom,sg,plen,n,geo
+[новосибирск]ого A,gen,sg,plen,n,geo
+[новосибирск]ому A,dat,sg,plen,n,geo
+[новосибирск]ое A,acc,sg,plen,n,geo
+[новосибирск]им A,ins,sg,plen,n,geo
+[новосибирск]ом A,abl,sg,plen,n,geo
+[новосибирск]ая A,nom,sg,plen,f,geo
+[новосибирск]ой A,gen,sg,plen,f,geo
+[новосибирск]ой A,dat,sg,plen,f,geo
+[новосибирск]ую A,acc,sg,plen,f,geo
+[новосибирск]ой A,ins,sg,plen,f,geo
+[новосибирск]ой A,abl,sg,plen,f,geo
+[новосибирск]ие A,nom,pl,plen,geo
+[новосибирск]их A,gen,pl,plen,geo
+[новосибирск]им A,dat,pl,plen,geo
+[новосибирск]их A,acc,pl,plen,anim,geo
+[новосибирск]ие A,acc,pl,plen,inan,geo
+[новосибирск]ими A,ins,pl,plen,geo
+[новосибирск]их A,abl,pl,plen,geo
+
+омский
+[омск]ий A,nom,sg,plen,m,geo
+[омск]ого A,gen,sg,plen,m,geo
+[омск]ому A,dat,sg,plen,m,geo
+[омск]ого A,acc,sg,plen,m,anim,geo
+[омск]ий A,acc,sg,plen,m,inan,geo
+[омск]им A,ins,sg,plen,m,geo
+[омск]ом A,abl,sg,plen,m,geo
+[омск]ое A,nom,sg,plen,n,geo
+[омск]ого A,gen,sg,plen,n,geo
+[омск]ому A,dat,sg,plen,n,geo
+[омск]ое A,acc,sg,plen,n,geo
+[омск]им A,ins,sg,plen,n,geo
+[омск]ом A,abl,sg,plen,n,geo
+[омск]ая A,nom,sg,plen,f,geo
+[омск]ой A,gen,sg,plen,f,geo
+[омск]ой A,dat,sg,plen,f,geo
+[омск]ую A,acc,sg,plen,f,geo
+[омск]ой A,ins,sg,plen,f,geo
+[омск]ой A,abl,sg,plen,f,geo
+[омск]ие A,nom,pl,plen,geo
+[омск]их A,gen,pl,plen,geo
+[омск]им A,dat,pl,plen,geo
+[омск]их A,acc,pl,plen,anim,geo
+[омск]ие A,acc,pl,plen,inan,geo
+[омск]ими A,ins,pl,plen,geo
+[омск]их A,abl,pl,plen,geo
+
+оренбургский
+[оренбургск]ий A,nom,sg,plen,m,geo
+[оренбургск]ого A,gen,sg,plen,m,geo
+[оренбургск]ому A,dat,sg,plen,m,geo
+[оренбургск]ого A,acc,sg,plen,m,anim,geo
+[оренбургск]ий A,acc,sg,plen,m,inan,geo
+[оренбургск]им A,ins,sg,plen,m,geo
+[оренбургск]ом A,abl,sg,plen,m,geo
+[оренбургск]ое A,nom,sg,plen,n,geo
+[оренбургск]ого A,gen,sg,plen,n,geo
+[оренбургск]ому A,dat,sg,plen,n,geo
+[оренбургск]ое A,acc,sg,plen,n,geo
+[оренбургск]им A,ins,sg,plen,n,geo
+[оренбургск]ом A,abl,sg,plen,n,geo
+[оренбургск]ая A,nom,sg,plen,f,geo
+[оренбургск]ой A,gen,sg,plen,f,geo
+[оренбургск]ой A,dat,sg,plen,f,geo
+[оренбургск]ую A,acc,sg,plen,f,geo
+[оренбургск]ой A,ins,sg,plen,f,geo
+[оренбургск]ой A,abl,sg,plen,f,geo
+[оренбургск]ие A,nom,pl,plen,geo
+[оренбургск]их A,gen,pl,plen,geo
+[оренбургск]им A,dat,pl,plen,geo
+[оренбургск]их A,acc,pl,plen,anim,geo
+[оренбургск]ие A,acc,pl,plen,inan,geo
+[оренбургск]ими A,ins,pl,plen,geo
+[оренбургск]их A,abl,pl,plen,geo
+
+орловский
+[орловск]ий A,nom,sg,plen,m,geo
+[орловск]ого A,gen,sg,plen,m,geo
+[орловск]ому A,dat,sg,plen,m,geo
+[орловск]ого A,acc,sg,plen,m,anim,geo
+[орловск]ий A,acc,sg,plen,m,inan,geo
+[орловск]им A,ins,sg,plen,m,geo
+[орловск]ом A,abl,sg,plen,m,geo
+[орловск]ое A,nom,sg,plen,n,geo
+[орловск]ого A,gen,sg,plen,n,geo
+[орловск]ому A,dat,sg,plen,n,geo
+[орловск]ое A,acc,sg,plen,n,geo
+[орловск]им A,ins,sg,plen,n,geo
+[орловск]ом A,abl,sg,plen,n,geo
+[орловск]ая A,nom,sg,plen,f,geo
+[орловск]ой A,gen,sg,plen,f,geo
+[орловск]ой A,dat,sg,plen,f,geo
+[орловск]ую A,acc,sg,plen,f,geo
+[орловск]ой A,ins,sg,plen,f,geo
+[орловск]ой A,abl,sg,plen,f,geo
+[орловск]ие A,nom,pl,plen,geo
+[орловск]их A,gen,pl,plen,geo
+[орловск]им A,dat,pl,plen,geo
+[орловск]их A,acc,pl,plen,anim,geo
+[орловск]ие A,acc,pl,plen,inan,geo
+[орловск]ими A,ins,pl,plen,geo
+[орловск]их A,abl,pl,plen,geo
+
+пензенский
+[пензенск]ий A,nom,sg,plen,m,geo
+[пензенск]ого A,gen,sg,plen,m,geo
+[пензенск]ому A,dat,sg,plen,m,geo
+[пензенск]ого A,acc,sg,plen,m,anim,geo
+[пензенск]ий A,acc,sg,plen,m,inan,geo
+[пензенск]им A,ins,sg,plen,m,geo
+[пензенск]ом A,abl,sg,plen,m,geo
+[пензенск]ое A,nom,sg,plen,n,geo
+[пензенск]ого A,gen,sg,plen,n,geo
+[пензенск]ому A,dat,sg,plen,n,geo
+[пензенск]ое A,acc,sg,plen,n,geo
+[пензенск]им A,ins,sg,plen,n,geo
+[пензенск]ом A,abl,sg,plen,n,geo
+[пензенск]ая A,nom,sg,plen,f,geo
+[пензенск]ой A,gen,sg,plen,f,geo
+[пензенск]ой A,dat,sg,plen,f,geo
+[пензенск]ую A,acc,sg,plen,f,geo
+[пензенск]ой A,ins,sg,plen,f,geo
+[пензенск]ой A,abl,sg,plen,f,geo
+[пензенск]ие A,nom,pl,plen,geo
+[пензенск]их A,gen,pl,plen,geo
+[пензенск]им A,dat,pl,plen,geo
+[пензенск]их A,acc,pl,plen,anim,geo
+[пензенск]ие A,acc,pl,plen,inan,geo
+[пензенск]ими A,ins,pl,plen,geo
+[пензенск]их A,abl,pl,plen,geo
+
+пермский
+[пермск]ий A,nom,sg,plen,m,geo
+[пермск]ого A,gen,sg,plen,m,geo
+[пермск]ому A,dat,sg,plen,m,geo
+[пермск]ого A,acc,sg,plen,m,anim,geo
+[пермск]ий A,acc,sg,plen,m,inan,geo
+[пермск]им A,ins,sg,plen,m,geo
+[пермск]ом A,abl,sg,plen,m,geo
+[пермск]ое A,nom,sg,plen,n,geo
+[пермск]ого A,gen,sg,plen,n,geo
+[пермск]ому A,dat,sg,plen,n,geo
+[пермск]ое A,acc,sg,plen,n,geo
+[пермск]им A,ins,sg,plen,n,geo
+[пермск]ом A,abl,sg,plen,n,geo
+[пермск]ая A,nom,sg,plen,f,geo
+[пермск]ой A,gen,sg,plen,f,geo
+[пермск]ой A,dat,sg,plen,f,geo
+[пермск]ую A,acc,sg,plen,f,geo
+[пермск]ой A,ins,sg,plen,f,geo
+[пермск]ой A,abl,sg,plen,f,geo
+[пермск]ие A,nom,pl,plen,geo
+[пермск]их A,gen,pl,plen,geo
+[пермск]им A,dat,pl,plen,geo
+[пермск]их A,acc,pl,plen,anim,geo
+[пермск]ие A,acc,pl,plen,inan,geo
+[пермск]ими A,ins,pl,plen,geo
+[пермск]их A,abl,pl,plen,geo
+
+приморский
+[приморск]ий A,nom,sg,plen,m,geo
+[приморск]ого A,gen,sg,plen,m,geo
+[приморск]ому A,dat,sg,plen,m,geo
+[приморск]ого A,acc,sg,plen,m,anim,geo
+[приморск]ий A,acc,sg,plen,m,inan,geo
+[приморск]им A,ins,sg,plen,m,geo
+[приморск]ом A,abl,sg,plen,m,geo
+[приморск]ое A,nom,sg,plen,n,geo
+[приморск]ого A,gen,sg,plen,n,geo
+[приморск]ому A,dat,sg,plen,n,geo
+[приморск]ое A,acc,sg,plen,n,geo
+[приморск]им A,ins,sg,plen,n,geo
+[приморск]ом A,abl,sg,plen,n,geo
+[приморск]ая A,nom,sg,plen,f,geo
+[приморск]ой A,gen,sg,plen,f,geo
+[приморск]ой A,dat,sg,plen,f,geo
+[приморск]ую A,acc,sg,plen,f,geo
+[приморск]ой A,ins,sg,plen,f,geo
+[приморск]ой A,abl,sg,plen,f,geo
+[приморск]ие A,nom,pl,plen,geo
+[приморск]их A,gen,pl,plen,geo
+[приморск]им A,dat,pl,plen,geo
+[приморск]их A,acc,pl,plen,anim,geo
+[приморск]ие A,acc,pl,plen,inan,geo
+[приморск]ими A,ins,pl,plen,geo
+[приморск]их A,abl,pl,plen,geo
+
+псковский
+[псковск]ий A,nom,sg,plen,m,geo
+[псковск]ого A,gen,sg,plen,m,geo
+[псковск]ому A,dat,sg,plen,m,geo
+[псковск]ого A,acc,sg,plen,m,anim,geo
+[псковск]ий A,acc,sg,plen,m,inan,geo
+[псковск]им A,ins,sg,plen,m,geo
+[псковск]ом A,abl,sg,plen,m,geo
+[псковск]ое A,nom,sg,plen,n,geo
+[псковск]ого A,gen,sg,plen,n,geo
+[псковск]ому A,dat,sg,plen,n,geo
+[псковск]ое A,acc,sg,plen,n,geo
+[псковск]им A,ins,sg,plen,n,geo
+[псковск]ом A,abl,sg,plen,n,geo
+[псковск]ая A,nom,sg,plen,f,geo
+[псковск]ой A,gen,sg,plen,f,geo
+[псковск]ой A,dat,sg,plen,f,geo
+[псковск]ую A,acc,sg,plen,f,geo
+[псковск]ой A,ins,sg,plen,f,geo
+[псковск]ой A,abl,sg,plen,f,geo
+[псковск]ие A,nom,pl,plen,geo
+[псковск]их A,gen,pl,plen,geo
+[псковск]им A,dat,pl,plen,geo
+[псковск]их A,acc,pl,plen,anim,geo
+[псковск]ие A,acc,pl,plen,inan,geo
+[псковск]ими A,ins,pl,plen,geo
+[псковск]их A,abl,pl,plen,geo
+
+ростовский
+[ростовск]ий A,nom,sg,plen,m,geo
+[ростовск]ого A,gen,sg,plen,m,geo
+[ростовск]ому A,dat,sg,plen,m,geo
+[ростовск]ого A,acc,sg,plen,m,anim,geo
+[ростовск]ий A,acc,sg,plen,m,inan,geo
+[ростовск]им A,ins,sg,plen,m,geo
+[ростовск]ом A,abl,sg,plen,m,geo
+[ростовск]ое A,nom,sg,plen,n,geo
+[ростовск]ого A,gen,sg,plen,n,geo
+[ростовск]ому A,dat,sg,plen,n,geo
+[ростовск]ое A,acc,sg,plen,n,geo
+[ростовск]им A,ins,sg,plen,n,geo
+[ростовск]ом A,abl,sg,plen,n,geo
+[ростовск]ая A,nom,sg,plen,f,geo
+[ростовск]ой A,gen,sg,plen,f,geo
+[ростовск]ой A,dat,sg,plen,f,geo
+[ростовск]ую A,acc,sg,plen,f,geo
+[ростовск]ой A,ins,sg,plen,f,geo
+[ростовск]ой A,abl,sg,plen,f,geo
+[ростовск]ие A,nom,pl,plen,geo
+[ростовск]их A,gen,pl,plen,geo
+[ростовск]им A,dat,pl,plen,geo
+[ростовск]их A,acc,pl,plen,anim,geo
+[ростовск]ие A,acc,pl,plen,inan,geo
+[ростовск]ими A,ins,pl,plen,geo
+[ростовск]их A,abl,pl,plen,geo
+
+рязанский
+[рязанск]ий A,nom,sg,plen,m,geo
+[рязанск]ого A,gen,sg,plen,m,geo
+[рязанск]ому A,dat,sg,plen,m,geo
+[рязанск]ого A,acc,sg,plen,m,anim,geo
+[рязанск]ий A,acc,sg,plen,m,inan,geo
+[рязанск]им A,ins,sg,plen,m,geo
+[рязанск]ом A,abl,sg,plen,m,geo
+[рязанск]ое A,nom,sg,plen,n,geo
+[рязанск]ого A,gen,sg,plen,n,geo
+[рязанск]ому A,dat,sg,plen,n,geo
+[рязанск]ое A,acc,sg,plen,n,geo
+[рязанск]им A,ins,sg,plen,n,geo
+[рязанск]ом A,abl,sg,plen,n,geo
+[рязанск]ая A,nom,sg,plen,f,geo
+[рязанск]ой A,gen,sg,plen,f,geo
+[рязанск]ой A,dat,sg,plen,f,geo
+[рязанск]ую A,acc,sg,plen,f,geo
+[рязанск]ой A,ins,sg,plen,f,geo
+[рязанск]ой A,abl,sg,plen,f,geo
+[рязанск]ие A,nom,pl,plen,geo
+[рязанск]их A,gen,pl,plen,geo
+[рязанск]им A,dat,pl,plen,geo
+[рязанск]их A,acc,pl,plen,anim,geo
+[рязанск]ие A,acc,pl,plen,inan,geo
+[рязанск]ими A,ins,pl,plen,geo
+[рязанск]их A,abl,pl,plen,geo
+
+самарский
+[самарск]ий A,nom,sg,plen,m,geo
+[самарск]ого A,gen,sg,plen,m,geo
+[самарск]ому A,dat,sg,plen,m,geo
+[самарск]ого A,acc,sg,plen,m,anim,geo
+[самарск]ий A,acc,sg,plen,m,inan,geo
+[самарск]им A,ins,sg,plen,m,geo
+[самарск]ом A,abl,sg,plen,m,geo
+[самарск]ое A,nom,sg,plen,n,geo
+[самарск]ого A,gen,sg,plen,n,geo
+[самарск]ому A,dat,sg,plen,n,geo
+[самарск]ое A,acc,sg,plen,n,geo
+[самарск]им A,ins,sg,plen,n,geo
+[самарск]ом A,abl,sg,plen,n,geo
+[самарск]ая A,nom,sg,plen,f,geo
+[самарск]ой A,gen,sg,plen,f,geo
+[самарск]ой A,dat,sg,plen,f,geo
+[самарск]ую A,acc,sg,plen,f,geo
+[самарск]ой A,ins,sg,plen,f,geo
+[самарск]ой A,abl,sg,plen,f,geo
+[самарск]ие A,nom,pl,plen,geo
+[самарск]их A,gen,pl,plen,geo
+[самарск]им A,dat,pl,plen,geo
+[самарск]их A,acc,pl,plen,anim,geo
+[самарск]ие A,acc,pl,plen,inan,geo
+[самарск]ими A,ins,pl,plen,geo
+[самарск]их A,abl,pl,plen,geo
+
+саратовский
+[саратовск]ий A,nom,sg,plen,m,geo
+[саратовск]ого A,gen,sg,plen,m,geo
+[саратовск]ому A,dat,sg,plen,m,geo
+[саратовск]ого A,acc,sg,plen,m,anim,geo
+[саратовск]ий A,acc,sg,plen,m,inan,geo
+[саратовск]им A,ins,sg,plen,m,geo
+[саратовск]ом A,abl,sg,plen,m,geo
+[саратовск]ое A,nom,sg,plen,n,geo
+[саратовск]ого A,gen,sg,plen,n,geo
+[саратовск]ому A,dat,sg,plen,n,geo
+[саратовск]ое A,acc,sg,plen,n,geo
+[саратовск]им A,ins,sg,plen,n,geo
+[саратовск]ом A,abl,sg,plen,n,geo
+[саратовск]ая A,nom,sg,plen,f,geo
+[саратовск]ой A,gen,sg,plen,f,geo
+[саратовск]ой A,dat,sg,plen,f,geo
+[саратовск]ую A,acc,sg,plen,f,geo
+[саратовск]ой A,ins,sg,plen,f,geo
+[саратовск]ой A,abl,sg,plen,f,geo
+[саратовск]ие A,nom,pl,plen,geo
+[саратовск]их A,gen,pl,plen,geo
+[саратовск]им A,dat,pl,plen,geo
+[саратовск]их A,acc,pl,plen,anim,geo
+[саратовск]ие A,acc,pl,plen,inan,geo
+[саратовск]ими A,ins,pl,plen,geo
+[саратовск]их A,abl,pl,plen,geo
+
+сахалинский
+[сахалинск]ий A,nom,sg,plen,m,geo
+[сахалинск]ого A,gen,sg,plen,m,geo
+[сахалинск]ому A,dat,sg,plen,m,geo
+[сахалинск]ого A,acc,sg,plen,m,anim,geo
+[сахалинск]ий A,acc,sg,plen,m,inan,geo
+[сахалинск]им A,ins,sg,plen,m,geo
+[сахалинск]ом A,abl,sg,plen,m,geo
+[сахалинск]ое A,nom,sg,plen,n,geo
+[сахалинск]ого A,gen,sg,plen,n,geo
+[сахалинск]ому A,dat,sg,plen,n,geo
+[сахалинск]ое A,acc,sg,plen,n,geo
+[сахалинск]им A,ins,sg,plen,n,geo
+[сахалинск]ом A,abl,sg,plen,n,geo
+[сахалинск]ая A,nom,sg,plen,f,geo
+[сахалинск]ой A,gen,sg,plen,f,geo
+[сахалинск]ой A,dat,sg,plen,f,geo
+[сахалинск]ую A,acc,sg,plen,f,geo
+[сахалинск]ой A,ins,sg,plen,f,geo
+[сахалинск]ой A,abl,sg,plen,f,geo
+[сахалинск]ие A,nom,pl,plen,geo
+[сахалинск]их A,gen,pl,plen,geo
+[сахалинск]им A,dat,pl,plen,geo
+[сахалинск]их A,acc,pl,plen,anim,geo
+[сахалинск]ие A,acc,pl,plen,inan,geo
+[сахалинск]ими A,ins,pl,plen,geo
+[сахалинск]их A,abl,pl,plen,geo
+
+свердловский
+[свердловск]ий A,nom,sg,plen,m,geo
+[свердловск]ого A,gen,sg,plen,m,geo
+[свердловск]ому A,dat,sg,plen,m,geo
+[свердловск]ого A,acc,sg,plen,m,anim,geo
+[свердловск]ий A,acc,sg,plen,m,inan,geo
+[свердловск]им A,ins,sg,plen,m,geo
+[свердловск]ом A,abl,sg,plen,m,geo
+[свердловск]ое A,nom,sg,plen,n,geo
+[свердловск]ого A,gen,sg,plen,n,geo
+[свердловск]ому A,dat,sg,plen,n,geo
+[свердловск]ое A,acc,sg,plen,n,geo
+[свердловск]им A,ins,sg,plen,n,geo
+[свердловск]ом A,abl,sg,plen,n,geo
+[свердловск]ая A,nom,sg,plen,f,geo
+[свердловск]ой A,gen,sg,plen,f,geo
+[свердловск]ой A,dat,sg,plen,f,geo
+[свердловск]ую A,acc,sg,plen,f,geo
+[свердловск]ой A,ins,sg,plen,f,geo
+[свердловск]ой A,abl,sg,plen,f,geo
+[свердловск]ие A,nom,pl,plen,geo
+[свердловск]их A,gen,pl,plen,geo
+[свердловск]им A,dat,pl,plen,geo
+[свердловск]их A,acc,pl,plen,anim,geo
+[свердловск]ие A,acc,pl,plen,inan,geo
+[свердловск]ими A,ins,pl,plen,geo
+[свердловск]их A,abl,pl,plen,geo
+
+смоленский
+[смоленск]ий A,nom,sg,plen,m,geo
+[смоленск]ого A,gen,sg,plen,m,geo
+[смоленск]ому A,dat,sg,plen,m,geo
+[смоленск]ого A,acc,sg,plen,m,anim,geo
+[смоленск]ий A,acc,sg,plen,m,inan,geo
+[смоленск]им A,ins,sg,plen,m,geo
+[смоленск]ом A,abl,sg,plen,m,geo
+[смоленск]ое A,nom,sg,plen,n,geo
+[смоленск]ого A,gen,sg,plen,n,geo
+[смоленск]ому A,dat,sg,plen,n,geo
+[смоленск]ое A,acc,sg,plen,n,geo
+[смоленск]им A,ins,sg,plen,n,geo
+[смоленск]ом A,abl,sg,plen,n,geo
+[смоленск]ая A,nom,sg,plen,f,geo
+[смоленск]ой A,gen,sg,plen,f,geo
+[смоленск]ой A,dat,sg,plen,f,geo
+[смоленск]ую A,acc,sg,plen,f,geo
+[смоленск]ой A,ins,sg,plen,f,geo
+[смоленск]ой A,abl,sg,plen,f,geo
+[смоленск]ие A,nom,pl,plen,geo
+[смоленск]их A,gen,pl,plen,geo
+[смоленск]им A,dat,pl,plen,geo
+[смоленск]их A,acc,pl,plen,anim,geo
+[смоленск]ие A,acc,pl,plen,inan,geo
+[смоленск]ими A,ins,pl,plen,geo
+[смоленск]их A,abl,pl,plen,geo
+
+ставропольский
+[ставропольск]ий A,nom,sg,plen,m,geo
+[ставропольск]ого A,gen,sg,plen,m,geo
+[ставропольск]ому A,dat,sg,plen,m,geo
+[ставропольск]ого A,acc,sg,plen,m,anim,geo
+[ставропольск]ий A,acc,sg,plen,m,inan,geo
+[ставропольск]им A,ins,sg,plen,m,geo
+[ставропольск]ом A,abl,sg,plen,m,geo
+[ставропольск]ое A,nom,sg,plen,n,geo
+[ставропольск]ого A,gen,sg,plen,n,geo
+[ставропольск]ому A,dat,sg,plen,n,geo
+[ставропольск]ое A,acc,sg,plen,n,geo
+[ставропольск]им A,ins,sg,plen,n,geo
+[ставропольск]ом A,abl,sg,plen,n,geo
+[ставропольск]ая A,nom,sg,plen,f,geo
+[ставропольск]ой A,gen,sg,plen,f,geo
+[ставропольск]ой A,dat,sg,plen,f,geo
+[ставропольск]ую A,acc,sg,plen,f,geo
+[ставропольск]ой A,ins,sg,plen,f,geo
+[ставропольск]ой A,abl,sg,plen,f,geo
+[ставропольск]ие A,nom,pl,plen,geo
+[ставропольск]их A,gen,pl,plen,geo
+[ставропольск]им A,dat,pl,plen,geo
+[ставропольск]их A,acc,pl,plen,anim,geo
+[ставропольск]ие A,acc,pl,plen,inan,geo
+[ставропольск]ими A,ins,pl,plen,geo
+[ставропольск]их A,abl,pl,plen,geo
+
+тамбовский
+[тамбовск]ий A,nom,sg,plen,m,geo
+[тамбовск]ого A,gen,sg,plen,m,geo
+[тамбовск]ому A,dat,sg,plen,m,geo
+[тамбовск]ого A,acc,sg,plen,m,anim,geo
+[тамбовск]ий A,acc,sg,plen,m,inan,geo
+[тамбовск]им A,ins,sg,plen,m,geo
+[тамбовск]ом A,abl,sg,plen,m,geo
+[тамбовск]ое A,nom,sg,plen,n,geo
+[тамбовск]ого A,gen,sg,plen,n,geo
+[тамбовск]ому A,dat,sg,plen,n,geo
+[тамбовск]ое A,acc,sg,plen,n,geo
+[тамбовск]им A,ins,sg,plen,n,geo
+[тамбовск]ом A,abl,sg,plen,n,geo
+[тамбовск]ая A,nom,sg,plen,f,geo
+[тамбовск]ой A,gen,sg,plen,f,geo
+[тамбовск]ой A,dat,sg,plen,f,geo
+[тамбовск]ую A,acc,sg,plen,f,geo
+[тамбовск]ой A,ins,sg,plen,f,geo
+[тамбовск]ой A,abl,sg,plen,f,geo
+[тамбовск]ие A,nom,pl,plen,geo
+[тамбовск]их A,gen,pl,plen,geo
+[тамбовск]им A,dat,pl,plen,geo
+[тамбовск]их A,acc,pl,plen,anim,geo
+[тамбовск]ие A,acc,pl,plen,inan,geo
+[тамбовск]ими A,ins,pl,plen,geo
+[тамбовск]их A,abl,pl,plen,geo
+
+тверский
+[тверск]ий A,nom,sg,plen,m,geo
+[тверск]ого A,gen,sg,plen,m,geo
+[тверск]ому A,dat,sg,plen,m,geo
+[тверск]ого A,acc,sg,plen,m,anim,geo
+[тверск]ий A,acc,sg,plen,m,inan,geo
+[тверск]им A,ins,sg,plen,m,geo
+[тверск]ом A,abl,sg,plen,m,geo
+[тверск]ое A,nom,sg,plen,n,geo
+[тверск]ого A,gen,sg,plen,n,geo
+[тверск]ому A,dat,sg,plen,n,geo
+[тверск]ое A,acc,sg,plen,n,geo
+[тверск]им A,ins,sg,plen,n,geo
+[тверск]ом A,abl,sg,plen,n,geo
+[тверск]ая A,nom,sg,plen,f,geo
+[тверск]ой A,gen,sg,plen,f,geo
+[тверск]ой A,dat,sg,plen,f,geo
+[тверск]ую A,acc,sg,plen,f,geo
+[тверск]ой A,ins,sg,plen,f,geo
+[тверск]ой A,abl,sg,plen,f,geo
+[тверск]ие A,nom,pl,plen,geo
+[тверск]их A,gen,pl,plen,geo
+[тверск]им A,dat,pl,plen,geo
+[тверск]их A,acc,pl,plen,anim,geo
+[тверск]ие A,acc,pl,plen,inan,geo
+[тверск]ими A,ins,pl,plen,geo
+[тверск]их A,abl,pl,plen,geo
+
+томский
+[томск]ий A,nom,sg,plen,m,geo
+[томск]ого A,gen,sg,plen,m,geo
+[томск]ому A,dat,sg,plen,m,geo
+[томск]ого A,acc,sg,plen,m,anim,geo
+[томск]ий A,acc,sg,plen,m,inan,geo
+[томск]им A,ins,sg,plen,m,geo
+[томск]ом A,abl,sg,plen,m,geo
+[томск]ое A,nom,sg,plen,n,geo
+[томск]ого A,gen,sg,plen,n,geo
+[томск]ому A,dat,sg,plen,n,geo
+[томск]ое A,acc,sg,plen,n,geo
+[томск]им A,ins,sg,plen,n,geo
+[томск]ом A,abl,sg,plen,n,geo
+[томск]ая A,nom,sg,plen,f,geo
+[томск]ой A,gen,sg,plen,f,geo
+[томск]ой A,dat,sg,plen,f,geo
+[томск]ую A,acc,sg,plen,f,geo
+[томск]ой A,ins,sg,plen,f,geo
+[томск]ой A,abl,sg,plen,f,geo
+[томск]ие A,nom,pl,plen,geo
+[томск]их A,gen,pl,plen,geo
+[томск]им A,dat,pl,plen,geo
+[томск]их A,acc,pl,plen,anim,geo
+[томск]ие A,acc,pl,plen,inan,geo
+[томск]ими A,ins,pl,plen,geo
+[томск]их A,abl,pl,plen,geo
+
+тульский
+[тульск]ий A,nom,sg,plen,m,geo
+[тульск]ого A,gen,sg,plen,m,geo
+[тульск]ому A,dat,sg,plen,m,geo
+[тульск]ого A,acc,sg,plen,m,anim,geo
+[тульск]ий A,acc,sg,plen,m,inan,geo
+[тульск]им A,ins,sg,plen,m,geo
+[тульск]ом A,abl,sg,plen,m,geo
+[тульск]ое A,nom,sg,plen,n,geo
+[тульск]ого A,gen,sg,plen,n,geo
+[тульск]ому A,dat,sg,plen,n,geo
+[тульск]ое A,acc,sg,plen,n,geo
+[тульск]им A,ins,sg,plen,n,geo
+[тульск]ом A,abl,sg,plen,n,geo
+[тульск]ая A,nom,sg,plen,f,geo
+[тульск]ой A,gen,sg,plen,f,geo
+[тульск]ой A,dat,sg,plen,f,geo
+[тульск]ую A,acc,sg,plen,f,geo
+[тульск]ой A,ins,sg,plen,f,geo
+[тульск]ой A,abl,sg,plen,f,geo
+[тульск]ие A,nom,pl,plen,geo
+[тульск]их A,gen,pl,plen,geo
+[тульск]им A,dat,pl,plen,geo
+[тульск]их A,acc,pl,plen,anim,geo
+[тульск]ие A,acc,pl,plen,inan,geo
+[тульск]ими A,ins,pl,plen,geo
+[тульск]их A,abl,pl,plen,geo
+
+тюменский
+[тюменск]ий A,nom,sg,plen,m,geo
+[тюменск]ого A,gen,sg,plen,m,geo
+[тюменск]ому A,dat,sg,plen,m,geo
+[тюменск]ого A,acc,sg,plen,m,anim,geo
+[тюменск]ий A,acc,sg,plen,m,inan,geo
+[тюменск]им A,ins,sg,plen,m,geo
+[тюменск]ом A,abl,sg,plen,m,geo
+[тюменск]ое A,nom,sg,plen,n,geo
+[тюменск]ого A,gen,sg,plen,n,geo
+[тюменск]ому A,dat,sg,plen,n,geo
+[тюменск]ое A,acc,sg,plen,n,geo
+[тюменск]им A,ins,sg,plen,n,geo
+[тюменск]ом A,abl,sg,plen,n,geo
+[тюменск]ая A,nom,sg,plen,f,geo
+[тюменск]ой A,gen,sg,plen,f,geo
+[тюменск]ой A,dat,sg,plen,f,geo
+[тюменск]ую A,acc,sg,plen,f,geo
+[тюменск]ой A,ins,sg,plen,f,geo
+[тюменск]ой A,abl,sg,plen,f,geo
+[тюменск]ие A,nom,pl,plen,geo
+[тюменск]их A,gen,pl,plen,geo
+[тюменск]им A,dat,pl,plen,geo
+[тюменск]их A,acc,pl,plen,anim,geo
+[тюменск]ие A,acc,pl,plen,inan,geo
+[тюменск]ими A,ins,pl,plen,geo
+[тюменск]их A,abl,pl,plen,geo
+
+удмуртский
+[удмуртск]ий A,nom,sg,plen,m,geo
+[удмуртск]ого A,gen,sg,plen,m,geo
+[удмуртск]ому A,dat,sg,plen,m,geo
+[удмуртск]ого A,acc,sg,plen,m,anim,geo
+[удмуртск]ий A,acc,sg,plen,m,inan,geo
+[удмуртск]им A,ins,sg,plen,m,geo
+[удмуртск]ом A,abl,sg,plen,m,geo
+[удмуртск]ое A,nom,sg,plen,n,geo
+[удмуртск]ого A,gen,sg,plen,n,geo
+[удмуртск]ому A,dat,sg,plen,n,geo
+[удмуртск]ое A,acc,sg,plen,n,geo
+[удмуртск]им A,ins,sg,plen,n,geo
+[удмуртск]ом A,abl,sg,plen,n,geo
+[удмуртск]ая A,nom,sg,plen,f,geo
+[удмуртск]ой A,gen,sg,plen,f,geo
+[удмуртск]ой A,dat,sg,plen,f,geo
+[удмуртск]ую A,acc,sg,plen,f,geo
+[удмуртск]ой A,ins,sg,plen,f,geo
+[удмуртск]ой A,abl,sg,plen,f,geo
+[удмуртск]ие A,nom,pl,plen,geo
+[удмуртск]их A,gen,pl,plen,geo
+[удмуртск]им A,dat,pl,plen,geo
+[удмуртск]их A,acc,pl,plen,anim,geo
+[удмуртск]ие A,acc,pl,plen,inan,geo
+[удмуртск]ими A,ins,pl,plen,geo
+[удмуртск]их A,abl,pl,plen,geo
+
+ульяновский
+[ульяновск]ий A,nom,sg,plen,m,geo
+[ульяновск]ого A,gen,sg,plen,m,geo
+[ульяновск]ому A,dat,sg,plen,m,geo
+[ульяновск]ого A,acc,sg,plen,m,anim,geo
+[ульяновск]ий A,acc,sg,plen,m,inan,geo
+[ульяновск]им A,ins,sg,plen,m,geo
+[ульяновск]ом A,abl,sg,plen,m,geo
+[ульяновск]ое A,nom,sg,plen,n,geo
+[ульяновск]ого A,gen,sg,plen,n,geo
+[ульяновск]ому A,dat,sg,plen,n,geo
+[ульяновск]ое A,acc,sg,plen,n,geo
+[ульяновск]им A,ins,sg,plen,n,geo
+[ульяновск]ом A,abl,sg,plen,n,geo
+[ульяновск]ая A,nom,sg,plen,f,geo
+[ульяновск]ой A,gen,sg,plen,f,geo
+[ульяновск]ой A,dat,sg,plen,f,geo
+[ульяновск]ую A,acc,sg,plen,f,geo
+[ульяновск]ой A,ins,sg,plen,f,geo
+[ульяновск]ой A,abl,sg,plen,f,geo
+[ульяновск]ие A,nom,pl,plen,geo
+[ульяновск]их A,gen,pl,plen,geo
+[ульяновск]им A,dat,pl,plen,geo
+[ульяновск]их A,acc,pl,plen,anim,geo
+[ульяновск]ие A,acc,pl,plen,inan,geo
+[ульяновск]ими A,ins,pl,plen,geo
+[ульяновск]их A,abl,pl,plen,geo
+
+хабаровский
+[хабаровск]ий A,nom,sg,plen,m,geo
+[хабаровск]ого A,gen,sg,plen,m,geo
+[хабаровск]ому A,dat,sg,plen,m,geo
+[хабаровск]ого A,acc,sg,plen,m,anim,geo
+[хабаровск]ий A,acc,sg,plen,m,inan,geo
+[хабаровск]им A,ins,sg,plen,m,geo
+[хабаровск]ом A,abl,sg,plen,m,geo
+[хабаровск]ое A,nom,sg,plen,n,geo
+[хабаровск]ого A,gen,sg,plen,n,geo
+[хабаровск]ому A,dat,sg,plen,n,geo
+[хабаровск]ое A,acc,sg,plen,n,geo
+[хабаровск]им A,ins,sg,plen,n,geo
+[хабаровск]ом A,abl,sg,plen,n,geo
+[хабаровск]ая A,nom,sg,plen,f,geo
+[хабаровск]ой A,gen,sg,plen,f,geo
+[хабаровск]ой A,dat,sg,plen,f,geo
+[хабаровск]ую A,acc,sg,plen,f,geo
+[хабаровск]ой A,ins,sg,plen,f,geo
+[хабаровск]ой A,abl,sg,plen,f,geo
+[хабаровск]ие A,nom,pl,plen,geo
+[хабаровск]их A,gen,pl,plen,geo
+[хабаровск]им A,dat,pl,plen,geo
+[хабаровск]их A,acc,pl,plen,anim,geo
+[хабаровск]ие A,acc,pl,plen,inan,geo
+[хабаровск]ими A,ins,pl,plen,geo
+[хабаровск]их A,abl,pl,plen,geo
+
+челябинский
+[челябинск]ий A,nom,sg,plen,m,geo
+[челябинск]ого A,gen,sg,plen,m,geo
+[челябинск]ому A,dat,sg,plen,m,geo
+[челябинск]ого A,acc,sg,plen,m,anim,geo
+[челябинск]ий A,acc,sg,plen,m,inan,geo
+[челябинск]им A,ins,sg,plen,m,geo
+[челябинск]ом A,abl,sg,plen,m,geo
+[челябинск]ое A,nom,sg,plen,n,geo
+[челябинск]ого A,gen,sg,plen,n,geo
+[челябинск]ому A,dat,sg,plen,n,geo
+[челябинск]ое A,acc,sg,plen,n,geo
+[челябинск]им A,ins,sg,plen,n,geo
+[челябинск]ом A,abl,sg,plen,n,geo
+[челябинск]ая A,nom,sg,plen,f,geo
+[челябинск]ой A,gen,sg,plen,f,geo
+[челябинск]ой A,dat,sg,plen,f,geo
+[челябинск]ую A,acc,sg,plen,f,geo
+[челябинск]ой A,ins,sg,plen,f,geo
+[челябинск]ой A,abl,sg,plen,f,geo
+[челябинск]ие A,nom,pl,plen,geo
+[челябинск]их A,gen,pl,plen,geo
+[челябинск]им A,dat,pl,plen,geo
+[челябинск]их A,acc,pl,plen,anim,geo
+[челябинск]ие A,acc,pl,plen,inan,geo
+[челябинск]ими A,ins,pl,plen,geo
+[челябинск]их A,abl,pl,plen,geo
+
+чеченский
+[чеченск]ий A,nom,sg,plen,m,geo
+[чеченск]ого A,gen,sg,plen,m,geo
+[чеченск]ому A,dat,sg,plen,m,geo
+[чеченск]ого A,acc,sg,plen,m,anim,geo
+[чеченск]ий A,acc,sg,plen,m,inan,geo
+[чеченск]им A,ins,sg,plen,m,geo
+[чеченск]ом A,abl,sg,plen,m,geo
+[чеченск]ое A,nom,sg,plen,n,geo
+[чеченск]ого A,gen,sg,plen,n,geo
+[чеченск]ому A,dat,sg,plen,n,geo
+[чеченск]ое A,acc,sg,plen,n,geo
+[чеченск]им A,ins,sg,plen,n,geo
+[чеченск]ом A,abl,sg,plen,n,geo
+[чеченск]ая A,nom,sg,plen,f,geo
+[чеченск]ой A,gen,sg,plen,f,geo
+[чеченск]ой A,dat,sg,plen,f,geo
+[чеченск]ую A,acc,sg,plen,f,geo
+[чеченск]ой A,ins,sg,plen,f,geo
+[чеченск]ой A,abl,sg,plen,f,geo
+[чеченск]ие A,nom,pl,plen,geo
+[чеченск]их A,gen,pl,plen,geo
+[чеченск]им A,dat,pl,plen,geo
+[чеченск]их A,acc,pl,plen,anim,geo
+[чеченск]ие A,acc,pl,plen,inan,geo
+[чеченск]ими A,ins,pl,plen,geo
+[чеченск]их A,abl,pl,plen,geo
+
+чувашский
+[чувашск]ий A,nom,sg,plen,m,geo
+[чувашск]ого A,gen,sg,plen,m,geo
+[чувашск]ому A,dat,sg,plen,m,geo
+[чувашск]ого A,acc,sg,plen,m,anim,geo
+[чувашск]ий A,acc,sg,plen,m,inan,geo
+[чувашск]им A,ins,sg,plen,m,geo
+[чувашск]ом A,abl,sg,plen,m,geo
+[чувашск]ое A,nom,sg,plen,n,geo
+[чувашск]ого A,gen,sg,plen,n,geo
+[чувашск]ому A,dat,sg,plen,n,geo
+[чувашск]ое A,acc,sg,plen,n,geo
+[чувашск]им A,ins,sg,plen,n,geo
+[чувашск]ом A,abl,sg,plen,n,geo
+[чувашск]ая A,nom,sg,plen,f,geo
+[чувашск]ой A,gen,sg,plen,f,geo
+[чувашск]ой A,dat,sg,plen,f,geo
+[чувашск]ую A,acc,sg,plen,f,geo
+[чувашск]ой A,ins,sg,plen,f,geo
+[чувашск]ой A,abl,sg,plen,f,geo
+[чувашск]ие A,nom,pl,plen,geo
+[чувашск]их A,gen,pl,plen,geo
+[чувашск]им A,dat,pl,plen,geo
+[чувашск]их A,acc,pl,plen,anim,geo
+[чувашск]ие A,acc,pl,plen,inan,geo
+[чувашск]ими A,ins,pl,plen,geo
+[чувашск]их A,abl,pl,plen,geo
+
+чукотский
+[чукотск]ий A,nom,sg,plen,m,geo
+[чукотск]ого A,gen,sg,plen,m,geo
+[чукотск]ому A,dat,sg,plen,m,geo
+[чукотск]ого A,acc,sg,plen,m,anim,geo
+[чукотск]ий A,acc,sg,plen,m,inan,geo
+[чукотск]им A,ins,sg,plen,m,geo
+[чукотск]ом A,abl,sg,plen,m,geo
+[чукотск]ое A,nom,sg,plen,n,geo
+[чукотск]ого A,gen,sg,plen,n,geo
+[чукотск]ому A,dat,sg,plen,n,geo
+[чукотск]ое A,acc,sg,plen,n,geo
+[чукотск]им A,ins,sg,plen,n,geo
+[чукотск]ом A,abl,sg,plen,n,geo
+[чукотск]ая A,nom,sg,plen,f,geo
+[чукотск]ой A,gen,sg,plen,f,geo
+[чукотск]ой A,dat,sg,plen,f,geo
+[чукотск]ую A,acc,sg,plen,f,geo
+[чукотск]ой A,ins,sg,plen,f,geo
+[чукотск]ой A,abl,sg,plen,f,geo
+[чукотск]ие A,nom,pl,plen,geo
+[чукотск]их A,gen,pl,plen,geo
+[чукотск]им A,dat,pl,plen,geo
+[чукотск]их A,acc,pl,plen,anim,geo
+[чукотск]ие A,acc,pl,plen,inan,geo
+[чукотск]ими A,ins,pl,plen,geo
+[чукотск]их A,abl,pl,plen,geo
+
+ямало-ненецкий
+[ямало-ненецкий]ий A,nom,sg,plen,m,geo
+[ямало-ненецкий]ого A,gen,sg,plen,m,geo
+[ямало-ненецкий]ому A,dat,sg,plen,m,geo
+[ямало-ненецкий]ого A,acc,sg,plen,m,anim,geo
+[ямало-ненецкий]ий A,acc,sg,plen,m,inan,geo
+[ямало-ненецкий]им A,ins,sg,plen,m,geo
+[ямало-ненецкий]ом A,abl,sg,plen,m,geo
+[ямало-ненецкий]ое A,nom,sg,plen,n,geo
+[ямало-ненецкий]ого A,gen,sg,plen,n,geo
+[ямало-ненецкий]ому A,dat,sg,plen,n,geo
+[ямало-ненецкий]ое A,acc,sg,plen,n,geo
+[ямало-ненецкий]им A,ins,sg,plen,n,geo
+[ямало-ненецкий]ом A,abl,sg,plen,n,geo
+[ямало-ненецкий]ая A,nom,sg,plen,f,geo
+[ямало-ненецкий]ой A,gen,sg,plen,f,geo
+[ямало-ненецкий]ой A,dat,sg,plen,f,geo
+[ямало-ненецкий]ую A,acc,sg,plen,f,geo
+[ямало-ненецкий]ой A,ins,sg,plen,f,geo
+[ямало-ненецкий]ой A,abl,sg,plen,f,geo
+[ямало-ненецкий]ие A,nom,pl,plen,geo
+[ямало-ненецкий]их A,gen,pl,plen,geo
+[ямало-ненецкий]им A,dat,pl,plen,geo
+[ямало-ненецкий]их A,acc,pl,plen,anim,geo
+[ямало-ненецкий]ие A,acc,pl,plen,inan,geo
+[ямало-ненецкий]ими A,ins,pl,plen,geo
+[ямало-ненецкий]их A,abl,pl,plen,geo
+
+ярославский
+[ярославск]ий A,nom,sg,plen,m,geo
+[ярославск]ого A,gen,sg,plen,m,geo
+[ярославск]ому A,dat,sg,plen,m,geo
+[ярославск]ого A,acc,sg,plen,m,anim,geo
+[ярославск]ий A,acc,sg,plen,m,inan,geo
+[ярославск]им A,ins,sg,plen,m,geo
+[ярославск]ом A,abl,sg,plen,m,geo
+[ярославск]ое A,nom,sg,plen,n,geo
+[ярославск]ого A,gen,sg,plen,n,geo
+[ярославск]ому A,dat,sg,plen,n,geo
+[ярославск]ое A,acc,sg,plen,n,geo
+[ярославск]им A,ins,sg,plen,n,geo
+[ярославск]ом A,abl,sg,plen,n,geo
+[ярославск]ая A,nom,sg,plen,f,geo
+[ярославск]ой A,gen,sg,plen,f,geo
+[ярославск]ой A,dat,sg,plen,f,geo
+[ярославск]ую A,acc,sg,plen,f,geo
+[ярославск]ой A,ins,sg,plen,f,geo
+[ярославск]ой A,abl,sg,plen,f,geo
+[ярославск]ие A,nom,pl,plen,geo
+[ярославск]их A,gen,pl,plen,geo
+[ярославск]им A,dat,pl,plen,geo
+[ярославск]их A,acc,pl,plen,anim,geo
+[ярославск]ие A,acc,pl,plen,inan,geo
+[ярославск]ими A,ins,pl,plen,geo
+[ярославск]их A,abl,pl,plen,geo
+
+пингануть
+[пинган]и V,pf,intr=sg,imper,2p
+[пинган]ите V,pf,intr=pl,imper,2p
+[пинган]у V,pf,intr=inpraes,sg,indic,1p
+[пинган]ешь V,pf,intr=inpraes,sg,indic,2p
+[пинган]ет V,pf,intr=inpraes,sg,indic,3p
+[пинган]ем V,pf,intr=inpraes,pl,indic,1p
+[пинган]ете V,pf,intr=inpraes,pl,indic,2p
+[пинган]ут V,pf,intr=inpraes,pl,indic,3p
+[пинган]ул V,pf,intr=praet,sg,indic,m
+[пинган]ула V,pf,intr=praet,sg,indic,f
+[пинган]ули V,pf,intr=praet,pl,indic
+[пинган]уть V,pf,intr=inf
+
+афина
+[афин]а S,f,nom,sg,anim,persn
+[афин]ы S,f,gen,sg,anim,persn
+[афин]е S,f,dat,sg,anim,persn
+[афин]у S,f,acc,sg,anim,persn
+[афин]ой S,f,ins,sg,anim,persn
+[афин]е S,f,abl,sg,anim,persn
+[афин] S,f,voc,sg,anim,persn
+
+перу
+[перу] S,geo,n,nom,sg,inan
+[перу] S,geo,n,gen,sg,inan
+[перу] S,geo,n,dat,sg,inan
+[перу] S,geo,n,acc,sg,inan
+[перу] S,geo,n,ins,sg,inan
+[перу] S,geo,n,abl,sg,inan
+
+чад
+[чад] S,geo,m,nom,sg,inan
+[чад]а S,geo,m,gen,sg,inan
+[чад]у S,geo,m,dat,sg,inan
+[чад] S,geo,m,acc,sg,inan
+[чад]ом S,geo,m,ins,sg,inan
+[чад]е S,geo,m,abl,sg,inan
+
+ливия
+[ливи]я S,geo,f,nom,sg,inan
+[ливи]и S,geo,f,gen,sg,inan
+[ливи]и S,geo,f,dat,sg,inan
+[ливи]ю S,geo,f,acc,sg,inan
+[ливи]ей S,geo,f,ins,sg,inan
+[ливи]и S,geo,f,abl,sg,inan
+
+гана
+[ган]а S,geo,f,nom,sg,inan
+[ган]ы S,geo,f,gen,sg,inan
+[ган]е S,geo,f,dat,sg,inan
+[ган]у S,geo,f,acc,sg,inan
+[ган]ой S,geo,f,ins,sg,inan
+[ган]е S,geo,f,abl,sg,inan
+
+куба
+[куб]а S,geo,f,nom,sg,inan
+[куб]ы S,geo,f,gen,sg,inan
+[куб]е S,geo,f,dat,sg,inan
+[куб]у S,geo,f,acc,sg,inan
+[куб]ой S,geo,f,ins,sg,inan
+[куб]е S,geo,f,abl,sg,inan
+
+науру
+[науру] S,geo,n,nom,sg,inan
+[науру] S,geo,n,gen,sg,inan
+[науру] S,geo,n,dat,sg,inan
+[науру] S,geo,n,acc,sg,inan
+[науру] S,geo,n,ins,sg,inan
+[науру] S,geo,n,abl,sg,inan
+
+тонга
+[тонг]а S,geo,f,nom,sg,inan
+[тонг]и S,geo,f,gen,sg,inan
+[тонг]е S,geo,f,dat,sg,inan
+[тонг]у S,geo,f,acc,sg,inan
+[тонг]ой S,geo,f,ins,sg,inan
+[тонг]е S,geo,f,abl,sg,inan
+
+доминика
+[доминик]а S,geo,f,nom,sg,inan
+[доминик]и S,geo,f,gen,sg,inan
+[доминик]е S,geo,f,dat,sg,inan
+[доминик]у S,geo,f,acc,sg,inan
+[доминик]ой S,geo,f,ins,sg,inan
+[доминик]е S,geo,f,abl,sg,inan
+
+доминикана
+[доминикан]а S,geo,f,nom,sg,inan
+[доминикан]ы S,geo,f,gen,sg,inan
+[доминикан]е S,geo,f,dat,sg,inan
+[доминикан]у S,geo,f,acc,sg,inan
+[доминикан]ой S,geo,f,ins,sg,inan
+[доминикан]е S,geo,f,abl,sg,inan
+
+бруней
+[бруне]й S,geo,m,nom,sg,inan
+[бруне]я S,geo,m,gen,sg,inan
+[бруне]ю S,geo,m,dat,sg,inan
+[бруне]й S,geo,m,acc,sg,inan
+[бруне]ем S,geo,m,ins,sg,inan
+[бруне]е S,geo,m,abl,sg,inan
+
+того
+[того] S,geo,n,nom,sg,inan
+[того] S,geo,n,gen,sg,inan
+[того] S,geo,n,dat,sg,inan
+[того] S,geo,n,acc,sg,inan
+[того] S,geo,n,ins,sg,inan
+[того] S,geo,n,abl,sg,inan
+
+сейшелы
+[сейшел]ы S,geo,m,nom,pl,inan
+[сейшел] S,geo,m,gen,pl,inan
+[сейшел]ам S,geo,m,dat,pl,inan
+[сейшел]ы S,geo,m,acc,pl,inan
+[сейшел]ами S,geo,m,ins,pl,inan
+[сейшел]ах S,geo,m,abl,pl,inan
+
+филиппины
+[филиппин]ы S,geo,m,nom,pl,inan
+[филиппин] S,geo,m,gen,pl,inan
+[филиппин]ам S,geo,m,dat,pl,inan
+[филиппин]ы S,geo,m,acc,pl,inan
+[филиппин]ами S,geo,m,ins,pl,inan
+[филиппин]ах S,geo,m,abl,pl,inan
+
+ясенево
+[ясенев]о S,geo,n,nom,sg,inan
+[ясенев]о S,geo,n,acc,sg,inan
+[ясенев]ом S,geo,n,ins,sg,inan
+
+щукино
+[щукин]о S,geo,n,nom,sg,inan
+[щукин]о S,geo,n,acc,sg,inan
+[щукин]ом S,geo,n,ins,sg,inan
+
+царицыно
+[царицын]о S,geo,n,nom,sg,inan
+[царицын]а S,geo,n,gen,sg,inan
+[царицын]у S,geo,n,dat,sg,inan
+[царицын]о S,geo,n,acc,sg,inan
+[царицын]ом S,geo,n,ins,sg,inan
+[царицын]е S,geo,n,abl,sg,inan
+
+ховрино
+[ховрин]о S,geo,n,nom,sg,inan
+[ховрин]о S,geo,n,acc,sg,inan
+[ховрин]ом S,geo,n,ins,sg,inan
+
+фили-давыдково
+[фили-давыдков]о S,geo,n,nom,sg,inan
+[фили-давыдков]а S,geo,n,gen,sg,inan
+[фили-давыдков]у S,geo,n,dat,sg,inan
+[фили-давыдков]о S,geo,n,acc,sg,inan
+[фили-давыдков]ом S,geo,n,ins,sg,inan
+[фили-давыдков]е S,geo,n,abl,sg,inan
+
+фили-давыдково
+[фили-давыдков]о S,geo,n,nom,sg,inan
+[филей-давыдков]а S,geo,n,gen,sg,inan
+[филям-давыдков]у S,geo,n,dat,sg,inan
+[фили-давыдков]о S,geo,n,acc,sg,inan
+[филями-давыдков]ом S,geo,n,ins,sg,inan
+[филях-давыдков]е S,geo,n,abl,sg,inan
+
+фили
+[фил]и S,geo,n,nom,pl,inan
+[фил]ей S,geo,n,gen,pl,inan
+[фил]ям S,geo,n,dat,pl,inan
+[фил]и S,geo,n,acc,pl,inan
+[фил]ями S,geo,n,ins,pl,inan
+[фил]ях S,geo,n,abl,pl,inan
+
+тропарево-никулино
+[тропарево-никулин]о S,geo,n,nom,sg,inan
+[тропарева-никулин]а S,geo,n,gen,sg,inan
+[тропареву-никулин]у S,geo,n,dat,sg,inan
+[тропарево-никулин]о S,geo,n,acc,sg,inan
+[тропаревом-никулин]ом S,geo,n,ins,sg,inan
+[тропареве-никулин]е S,geo,n,abl,sg,inan
+
+никулино
+[никулин]о S,geo,n,nom,sg,inan
+[никулин]о S,geo,n,acc,sg,inan
+[никулин]ом S,geo,n,ins,sg,inan
+
+солнцево
+[солнцев]о S,geo,n,nom,sg,inan
+[солнцев]о S,geo,n,acc,sg,inan
+[солнцев]ом S,geo,n,ins,sg,inan
+
+силино
+[силин]о S,geo,n,nom,sg,inan
+[силин]о S,geo,n,acc,sg,inan
+[силин]ом S,geo,n,ins,sg,inan
+
+свиблово
+[свиблов]о S,geo,n,nom,sg,inan
+[свиблов]о S,geo,n,acc,sg,inan
+[свиблов]ом S,geo,n,ins,sg,inan
+
+покровское-стрешнево
+[покровское-стрешнев]о S,geo,n,nom,sg,inan
+[покровского-стрешнев]а S,geo,n,gen,sg,inan
+[покровскому-стрешнев]у S,geo,n,dat,sg,inan
+[покровское-стрешнев]о S,geo,n,acc,sg,inan
+[покровским-стрешнев]ом S,geo,n,ins,sg,inan
+[покровском-стрешнев]е S,geo,n,abl,sg,inan
+
+перово
+[перов]о S,geo,n,nom,sg,inan
+[перов]о S,geo,n,acc,sg,inan
+[перов]ом S,geo,n,ins,sg,inan
+
+очаково-матвеевское
+[очаково-матвеевск]ое S,geo,n,nom,sg,inan
+[очаково-матвеевск]ого S,geo,n,gen,sg,inan
+[очаково-матвеевск]ому S,geo,n,dat,sg,inan
+[очаково-матвеевск]ое S,geo,n,acc,sg,inan
+[очаково-матвеевск]им S,geo,n,ins,sg,inan
+[очаково-матвеевск]ом S,geo,n,abl,sg,inan
+
+очаково-матвеевское
+[очаково-матвеевск]ое S,geo,n,nom,sg,inan
+[очакова-матвеевск]ого S,geo,n,gen,sg,inan
+[очакову-матвеевск]ому S,geo,n,dat,sg,inan
+[очаково-матвеевск]ое S,geo,n,acc,sg,inan
+[очаковом-матвеевск]им S,geo,n,ins,sg,inan
+[очакове-матвеевск]ом S,geo,n,abl,sg,inan
+
+очаково
+[очаков]о S,geo,n,nom,sg,inan
+[очаков]а S,geo,n,gen,sg,inan
+[очаков]у S,geo,n,dat,sg,inan
+[очаков]о S,geo,n,acc,sg,inan
+[очаков]ом S,geo,n,ins,sg,inan
+[очаков]е S,geo,n,abl,sg,inan
+
+отрадное
+[отрадн]ое S,geo,n,nom,sg,inan
+[отрадн]ого S,geo,n,gen,sg,inan
+[отрадн]ому S,geo,n,dat,sg,inan
+[отрадн]ое S,geo,n,acc,sg,inan
+[отрадн]ым S,geo,n,ins,sg,inan
+[отрадн]ом S,geo,n,abl,sg,inan
+
+нагатино-садовники
+[нагатино-садовник]и S,geo,n,nom,pl,inan
+[нагатино-садовник]ов S,geo,n,gen,pl,inan
+[нагатино-садовник]ам S,geo,n,dat,pl,inan
+[нагатино-садовник]и S,geo,n,acc,pl,inan
+[нагатино-садовник]ами S,geo,n,ins,pl,inan
+[нагатино-садовник]ах S,geo,n,abl,pl,inan
+
+нагатино
+[нагатин]о S,geo,n,nom,sg,inan
+[нагатин]а S,geo,n,gen,sg,inan
+[нагатин]у S,geo,n,dat,sg,inan
+[нагатин]о S,geo,n,acc,sg,inan
+[нагатин]ом S,geo,n,ins,sg,inan
+[нагатин]е S,geo,n,abl,sg,inan
+
+москворечье-сабурово
+[москворечье-сабуров]о S,geo,n,nom,sg,inan
+[москворечья-сабуров]а S,geo,n,gen,sg,inan
+[москворечью-сабуров]у S,geo,n,dat,sg,inan
+[москворечье-сабуров]о S,geo,n,acc,sg,inan
+[москворечьем-сабуров]ом S,geo,n,ins,sg,inan
+[москворечье-сабуров]е S,geo,n,abl,sg,inan
+
+сабурово
+[сабуров]о S,geo,n,nom,sg,inan
+[сабуров]о S,geo,n,acc,sg,inan
+[сабуров]ом S,geo,n,ins,sg,inan
+
+митино
+[митин]о S,geo,n,nom,sg,inan
+[митин]о S,geo,n,acc,sg,inan
+[митин]ом S,geo,n,ins,sg,inan
+
+бутово
+[бутов]о S,geo,n,nom,sg,inan
+[бутов]а S,geo,n,gen,sg,inan
+[бутов]у S,geo,n,dat,sg,inan
+[бутов]о S,geo,n,acc,sg,inan
+[бутов]ом S,geo,n,ins,sg,inan
+[бутов]е S,geo,n,abl,sg,inan
+
+матушкино
+[матушкин]о S,geo,n,nom,sg,inan
+[матушкин]о S,geo,n,acc,sg,inan
+[матушкин]ом S,geo,n,ins,sg,inan
+
+марьино
+[марьин]о S,geo,n,nom,sg,inan
+[марьин]о S,geo,n,acc,sg,inan
+[марьин]ом S,geo,n,ins,sg,inan
+
+марфино
+[марфин]о S,geo,n,nom,sg,inan
+[марфин]о S,geo,n,acc,sg,inan
+[марфин]ом S,geo,n,ins,sg,inan
+
+люблино
+[люблин]о S,geo,n,nom,sg,inan
+[люблин]о S,geo,n,acc,sg,inan
+[люблин]ом S,geo,n,ins,sg,inan
+
+куркино
+[куркин]о S,geo,n,nom,sg,inan
+[куркин]о S,geo,n,acc,sg,inan
+[куркин]ом S,geo,n,ins,sg,inan
+
+крюково
+[крюков]о S,geo,n,nom,sg,inan
+[крюков]о S,geo,n,acc,sg,inan
+[крюков]ом S,geo,n,ins,sg,inan
+
+крылатское
+[крылатск]ое S,geo,n,nom,sg,inan
+[крылатск]ого S,geo,n,gen,sg,inan
+[крылатск]ому S,geo,n,dat,sg,inan
+[крылатск]ое S,geo,n,acc,sg,inan
+[крылатск]им S,geo,n,ins,sg,inan
+[крылатск]ом S,geo,n,abl,sg,inan
+
+коптево
+[коптев]о S,geo,n,nom,sg,inan
+[коптев]о S,geo,n,acc,sg,inan
+[коптев]ом S,geo,n,ins,sg,inan
+
+коньково
+[коньков]о S,geo,n,nom,sg,inan
+[коньков]о S,geo,n,acc,sg,inan
+[коньков]ом S,geo,n,ins,sg,inan
+
+измайлово
+[измайлов]о S,geo,n,nom,sg,inan
+[измайлов]о S,geo,n,acc,sg,inan
+[измайлов]ом S,geo,n,ins,sg,inan
+
+зябликово
+[зябликов]о S,geo,n,nom,sg,inan
+[зябликов]о S,geo,n,acc,sg,inan
+[зябликов]ом S,geo,n,ins,sg,inan
+
+зюзино
+[зюзин]о S,geo,n,nom,sg,inan
+[зюзин]о S,geo,n,acc,sg,inan
+[зюзин]ом S,geo,n,ins,sg,inan
+
+ивановское
+[ивановск]ое S,geo,n,nom,sg,inan
+[ивановск]ого S,geo,n,gen,sg,inan
+[ивановск]ому S,geo,n,dat,sg,inan
+[ивановск]ое S,geo,n,acc,sg,inan
+[ивановск]им S,geo,n,ins,sg,inan
+[ивановск]ом S,geo,n,abl,sg,inan
+
+гольяново
+[гольянов]о S,geo,n,nom,sg,inan
+[гольянов]о S,geo,n,acc,sg,inan
+[гольянов]ом S,geo,n,ins,sg,inan
+
+внуково
+[внуков]о S,geo,n,nom,sg,inan
+[внуков]а S,geo,n,gen,sg,inan
+[внуков]у S,geo,n,dat,sg,inan
+[внуков]о S,geo,n,acc,sg,inan
+[внуков]ом S,geo,n,ins,sg,inan
+[внуков]е S,geo,n,abl,sg,inan
+
+братеево
+[братеев]о S,geo,n,nom,sg,inan
+[братеев]а S,geo,n,gen,sg,inan
+[братеев]у S,geo,n,dat,sg,inan
+[братеев]о S,geo,n,acc,sg,inan
+[братеев]ом S,geo,n,ins,sg,inan
+[братеев]е S,geo,n,abl,sg,inan
+
+богородское
+[богородск]ое S,geo,n,nom,sg,inan
+[богородск]ого S,geo,n,gen,sg,inan
+[богородск]ому S,geo,n,dat,sg,inan
+[богородск]ое S,geo,n,acc,sg,inan
+[богородск]им S,geo,n,ins,sg,inan
+[богородск]ом S,geo,n,abl,sg,inan
+
+преображенское
+[преображенск]ое S,geo,n,nom,sg,inan
+[преображенск]ого S,geo,n,gen,sg,inan
+[преображенск]ому S,geo,n,dat,sg,inan
+[преображенск]ое S,geo,n,acc,sg,inan
+[преображенск]им S,geo,n,ins,sg,inan
+[преображенск]ом S,geo,n,abl,sg,inan
+
+хамовники
+[хамовник]и S,geo,n,nom,pl,inan
+[хамовник]ов S,geo,n,gen,pl,inan
+[хамовник]ам S,geo,n,dat,pl,inan
+[хамовник]и S,geo,n,acc,pl,inan
+[хамовник]ами S,geo,n,ins,pl,inan
+[хамовник]ах S,geo,n,abl,pl,inan
+
+текстильщики
+[текстильщик]и S,geo,n,nom,pl,inan
+[текстильщик]ов S,geo,n,gen,pl,inan
+[текстильщик]ам S,geo,n,dat,pl,inan
+[текстильщик]и S,geo,n,acc,pl,inan
+[текстильщик]ами S,geo,n,ins,pl,inan
+[текстильщик]ах S,geo,n,abl,pl,inan
+
+сокольники
+[сокольник]и S,geo,n,nom,pl,inan
+[сокольник]ов S,geo,n,gen,pl,inan
+[сокольник]ам S,geo,n,dat,pl,inan
+[сокольник]и S,geo,n,acc,pl,inan
+[сокольник]ами S,geo,n,ins,pl,inan
+[сокольник]ах S,geo,n,abl,pl,inan
+
+савелки
+[савелк]и S,geo,n,nom,pl,inan
+[савел]ок S,geo,n,gen,pl,inan
+[савелк]ам S,geo,n,dat,pl,inan
+[савелк]и S,geo,n,acc,pl,inan
+[савелк]ами S,geo,n,ins,pl,inan
+[савелк]ах S,geo,n,abl,pl,inan
+
+печатники
+[печатник]и S,geo,n,nom,pl,inan
+[печатник]ов S,geo,n,gen,pl,inan
+[печатник]ам S,geo,n,dat,pl,inan
+[печатник]и S,geo,n,acc,pl,inan
+[печатник]ами S,geo,n,ins,pl,inan
+[печатник]ах S,geo,n,abl,pl,inan
+
+вешняки
+[вешняк]и S,geo,n,nom,pl,inan
+[вешняк]ам S,geo,n,dat,pl,inan
+[вешняк]и S,geo,n,acc,pl,inan
+[вешняк]ами S,geo,n,ins,pl,inan
+[вешняк]ах S,geo,n,abl,pl,inan
+
+наволоки
+[наволок]и S,geo,n,nom,pl,inan
+[наволок] S,geo,n,gen,pl,inan
+[наволок]ам S,geo,n,dat,pl,inan
+[наволок]и S,geo,n,acc,pl,inan
+[наволок]ами S,geo,n,ins,pl,inan
+[наволок]ах S,geo,n,abl,pl,inan
+
+озерки
+[озерк]и S,geo,n,nom,pl,inan
+[озерк]ов S,geo,n,gen,pl,inan
+[озерк]ам S,geo,n,dat,pl,inan
+[озерк]и S,geo,n,acc,pl,inan
+[озерк]ами S,geo,n,ins,pl,inan
+[озерк]ах S,geo,n,abl,pl,inan
+
+тверской
+[тверск]ой S,geo,m,nom,sg,inan
+[тверск]ого S,geo,m,gen,sg,inan
+[тверск]ому S,geo,m,dat,sg,inan
+[тверск]ой S,geo,m,acc,sg,inan
+[тверск]им S,geo,m,ins,sg,inan
+[тверск]ом S,geo,m,abl,sg,inan
+
+донской
+[донск]ой S,geo,m,nom,sg,inan
+[донск]ого S,geo,m,gen,sg,inan
+[донск]ому S,geo,m,dat,sg,inan
+[донск]ой S,geo,m,acc,sg,inan
+[донск]им S,geo,m,ins,sg,inan
+[донск]ом S,geo,m,abl,sg,inan
+
+беговой
+[бегов]ой S,geo,m,nom,sg,inan
+[бегов]ого S,geo,m,gen,sg,inan
+[бегов]ому S,geo,m,dat,sg,inan
+[бегов]ой S,geo,m,acc,sg,inan
+[бегов]ым S,geo,m,ins,sg,inan
+[бегов]ом S,geo,m,abl,sg,inan
+
+амурск
+[амурск] S,geo,m,nom,sg,inan
+[амурск]а S,geo,m,gen,sg,inan
+[амурск]у S,geo,m,dat,sg,inan
+[амурск] S,geo,m,acc,sg,inan
+[амурск]ом S,geo,m,ins,sg,inan
+[амурск]е S,geo,m,abl,sg,inan
+
+мурманск
+[мурманск] S,geo,m,nom,sg,inan
+[мурманск]а S,geo,m,gen,sg,inan
+[мурманск]у S,geo,m,dat,sg,inan
+[мурманск] S,geo,m,acc,sg,inan
+[мурманск]ом S,geo,m,ins,sg,inan
+[мурманск]е S,geo,m,abl,sg,inan
+
+белореченск
+[белореченск] S,geo,m,nom,sg,inan
+[белореченск]а S,geo,m,gen,sg,inan
+[белореченск]у S,geo,m,dat,sg,inan
+[белореченск] S,geo,m,acc,sg,inan
+[белореченск]ом S,geo,m,ins,sg,inan
+[белореченск]е S,geo,m,abl,sg,inan
+
+сталинск
+[сталинск] S,geo,m,nom,sg,inan
+[сталинск]а S,geo,m,gen,sg,inan
+[сталинск]у S,geo,m,dat,sg,inan
+[сталинск] S,geo,m,acc,sg,inan
+[сталинск]ом S,geo,m,ins,sg,inan
+[сталинск]е S,geo,m,abl,sg,inan
+
+ангарск
+[ангарск] S,geo,m,nom,sg,inan
+[ангарск]а S,geo,m,gen,sg,inan
+[ангарск]у S,geo,m,dat,sg,inan
+[ангарск] S,geo,m,acc,sg,inan
+[ангарск]ом S,geo,m,ins,sg,inan
+[ангарск]е S,geo,m,abl,sg,inan
+
+мичуринск
+[мичуринск] S,geo,m,nom,sg,inan
+[мичуринск]а S,geo,m,gen,sg,inan
+[мичуринск]у S,geo,m,dat,sg,inan
+[мичуринск] S,geo,m,acc,sg,inan
+[мичуринск]ом S,geo,m,ins,sg,inan
+[мичуринск]е S,geo,m,abl,sg,inan
+
+новоалтайск
+[новоалтайск] S,geo,m,nom,sg,inan
+[новоалтайск]а S,geo,m,gen,sg,inan
+[новоалтайск]у S,geo,m,dat,sg,inan
+[новоалтайск] S,geo,m,acc,sg,inan
+[новоалтайск]ом S,geo,m,ins,sg,inan
+[новоалтайск]е S,geo,m,abl,sg,inan
+
+южносахалинск
+[южносахалинск] S,geo,m,nom,sg,inan
+[южносахалинск]а S,geo,m,gen,sg,inan
+[южносахалинск]у S,geo,m,dat,sg,inan
+[южносахалинск] S,geo,m,acc,sg,inan
+[южносахалинск]ом S,geo,m,ins,sg,inan
+[южносахалинск]е S,geo,m,abl,sg,inan
+
+сальск
+[сальск] S,geo,m,nom,sg,inan
+[сальск]а S,geo,m,gen,sg,inan
+[сальск]у S,geo,m,dat,sg,inan
+[сальск] S,geo,m,acc,sg,inan
+[сальск]ом S,geo,m,ins,sg,inan
+[сальск]е S,geo,m,abl,sg,inan
+
+черкесск
+[черкесск] S,geo,m,nom,sg,inan
+[черкесск]а S,geo,m,gen,sg,inan
+[черкесск]у S,geo,m,dat,sg,inan
+[черкесск] S,geo,m,acc,sg,inan
+[черкесск]ом S,geo,m,ins,sg,inan
+[черкесск]е S,geo,m,abl,sg,inan
+
+ейск
+[ейск] S,geo,m,nom,sg,inan
+[ейск]а S,geo,m,gen,sg,inan
+[ейск]у S,geo,m,dat,sg,inan
+[ейск] S,geo,m,acc,sg,inan
+[ейск]ом S,geo,m,ins,sg,inan
+[ейск]е S,geo,m,abl,sg,inan
+
+климовск
+[климовск] S,geo,m,nom,sg,inan
+[климовск]а S,geo,m,gen,sg,inan
+[климовск]у S,geo,m,dat,sg,inan
+[климовск] S,geo,m,acc,sg,inan
+[климовск]ом S,geo,m,ins,sg,inan
+[климовск]е S,geo,m,abl,sg,inan
+
+невинномысск
+[невинномысск] S,geo,m,nom,sg,inan
+[невинномысск]а S,geo,m,gen,sg,inan
+[невинномысск]у S,geo,m,dat,sg,inan
+[невинномысск] S,geo,m,acc,sg,inan
+[невинномысск]ом S,geo,m,ins,sg,inan
+[невинномысск]е S,geo,m,abl,sg,inan
+
+рыбинск
+[рыбинск] S,geo,m,nom,sg,inan
+[рыбинск]а S,geo,m,gen,sg,inan
+[рыбинск]у S,geo,m,dat,sg,inan
+[рыбинск] S,geo,m,acc,sg,inan
+[рыбинск]ом S,geo,m,ins,sg,inan
+[рыбинск]е S,geo,m,abl,sg,inan
+
+абинск
+[абинск] S,geo,m,nom,sg,inan
+[абинск]а S,geo,m,gen,sg,inan
+[абинск]у S,geo,m,dat,sg,inan
+[абинск] S,geo,m,acc,sg,inan
+[абинск]ом S,geo,m,ins,sg,inan
+[абинск]е S,geo,m,abl,sg,inan
+
+нарофоминск
+[нарофоминск] S,geo,m,nom,sg,inan
+[нарофоминск]а S,geo,m,gen,sg,inan
+[нарофоминск]у S,geo,m,dat,sg,inan
+[нарофоминск] S,geo,m,acc,sg,inan
+[нарофоминск]ом S,geo,m,ins,sg,inan
+[нарофоминск]е S,geo,m,abl,sg,inan
+
+аткарск
+[аткарск] S,geo,m,nom,sg,inan
+[аткарск]а S,geo,m,gen,sg,inan
+[аткарск]у S,geo,m,dat,sg,inan
+[аткарск] S,geo,m,acc,sg,inan
+[аткарск]ом S,geo,m,ins,sg,inan
+[аткарск]е S,geo,m,abl,sg,inan
+
+братск
+[братск] S,geo,m,nom,sg,inan
+[братск]а S,geo,m,gen,sg,inan
+[братск]у S,geo,m,dat,sg,inan
+[братск] S,geo,m,acc,sg,inan
+[братск]ом S,geo,m,ins,sg,inan
+[братск]е S,geo,m,abl,sg,inan
+
+бердск
+[бердск] S,geo,m,nom,sg,inan
+[бердск]а S,geo,m,gen,sg,inan
+[бердск]у S,geo,m,dat,sg,inan
+[бердск] S,geo,m,acc,sg,inan
+[бердск]ом S,geo,m,ins,sg,inan
+[бердск]е S,geo,m,abl,sg,inan
+
+новошахтинск
+[новошахтинск] S,geo,m,nom,sg,inan
+[новошахтинск]а S,geo,m,gen,sg,inan
+[новошахтинск]у S,geo,m,dat,sg,inan
+[новошахтинск] S,geo,m,acc,sg,inan
+[новошахтинск]ом S,geo,m,ins,sg,inan
+[новошахтинск]е S,geo,m,abl,sg,inan
+
+горноалтайск
+[горноалтайск] S,geo,m,nom,sg,inan
+[горноалтайск]а S,geo,m,gen,sg,inan
+[горноалтайск]у S,geo,m,dat,sg,inan
+[горноалтайск] S,geo,m,acc,sg,inan
+[горноалтайск]ом S,geo,m,ins,sg,inan
+[горноалтайск]е S,geo,m,abl,sg,inan
+
+смоленск
+[смоленск] S,geo,m,nom,sg,inan
+[смоленск]а S,geo,m,gen,sg,inan
+[смоленск]у S,geo,m,dat,sg,inan
+[смоленск] S,geo,m,acc,sg,inan
+[смоленск]ом S,geo,m,ins,sg,inan
+[смоленск]е S,geo,m,abl,sg,inan
+
+шадринск
+[шадринск] S,geo,m,nom,sg,inan
+[шадринск]а S,geo,m,gen,sg,inan
+[шадринск]у S,geo,m,dat,sg,inan
+[шадринск] S,geo,m,acc,sg,inan
+[шадринск]ом S,geo,m,ins,sg,inan
+[шадринск]е S,geo,m,abl,sg,inan
+
+каменск
+[каменск] S,geo,m,nom,sg,inan
+[каменск]а S,geo,m,gen,sg,inan
+[каменск]у S,geo,m,dat,sg,inan
+[каменск] S,geo,m,acc,sg,inan
+[каменск]ом S,geo,m,ins,sg,inan
+[каменск]е S,geo,m,abl,sg,inan
+
+саранск
+[саранск] S,geo,m,nom,sg,inan
+[саранск]а S,geo,m,gen,sg,inan
+[саранск]у S,geo,m,dat,sg,inan
+[саранск] S,geo,m,acc,sg,inan
+[саранск]ом S,geo,m,ins,sg,inan
+[саранск]е S,geo,m,abl,sg,inan
+
+междуреченск
+[междуреченск] S,geo,m,nom,sg,inan
+[междуреченск]а S,geo,m,gen,sg,inan
+[междуреченск]у S,geo,m,dat,sg,inan
+[междуреченск] S,geo,m,acc,sg,inan
+[междуреченск]ом S,geo,m,ins,sg,inan
+[междуреченск]е S,geo,m,abl,sg,inan
+
+северск
+[северск] S,geo,m,nom,sg,inan
+[северск]а S,geo,m,gen,sg,inan
+[северск]у S,geo,m,dat,sg,inan
+[северск] S,geo,m,acc,sg,inan
+[северск]ом S,geo,m,ins,sg,inan
+[северск]е S,geo,m,abl,sg,inan
+
+лабинск
+[лабинск] S,geo,m,nom,sg,inan
+[лабинск]а S,geo,m,gen,sg,inan
+[лабинск]у S,geo,m,dat,sg,inan
+[лабинск] S,geo,m,acc,sg,inan
+[лабинск]ом S,geo,m,ins,sg,inan
+[лабинск]е S,geo,m,abl,sg,inan
+
+краснокамск
+[краснокамск] S,geo,m,nom,sg,inan
+[краснокамск]а S,geo,m,gen,sg,inan
+[краснокамск]у S,geo,m,dat,sg,inan
+[краснокамск] S,geo,m,acc,sg,inan
+[краснокамск]ом S,geo,m,ins,sg,inan
+[краснокамск]е S,geo,m,abl,sg,inan
+
+волгодонск
+[волгодонск] S,geo,m,nom,sg,inan
+[волгодонск]а S,geo,m,gen,sg,inan
+[волгодонск]у S,geo,m,dat,sg,inan
+[волгодонск] S,geo,m,acc,sg,inan
+[волгодонск]ом S,geo,m,ins,sg,inan
+[волгодонск]е S,geo,m,abl,sg,inan
+
+ульяновск
+[ульяновск] S,geo,m,nom,sg,inan
+[ульяновск]а S,geo,m,gen,sg,inan
+[ульяновск]у S,geo,m,dat,sg,inan
+[ульяновск] S,geo,m,acc,sg,inan
+[ульяновск]ом S,geo,m,ins,sg,inan
+[ульяновск]е S,geo,m,abl,sg,inan
+
+тимашевск
+[тимашевск] S,geo,m,nom,sg,inan
+[тимашевск]а S,geo,m,gen,sg,inan
+[тимашевск]у S,geo,m,dat,sg,inan
+[тимашевск] S,geo,m,acc,sg,inan
+[тимашевск]ом S,geo,m,ins,sg,inan
+[тимашевск]е S,geo,m,abl,sg,inan
+
+североморск
+[североморск] S,geo,m,nom,sg,inan
+[североморск]а S,geo,m,gen,sg,inan
+[североморск]у S,geo,m,dat,sg,inan
+[североморск] S,geo,m,acc,sg,inan
+[североморск]ом S,geo,m,ins,sg,inan
+[североморск]е S,geo,m,abl,sg,inan
+
+канск
+[канск] S,geo,m,nom,sg,inan
+[канск]а S,geo,m,gen,sg,inan
+[канск]у S,geo,m,dat,sg,inan
+[канск] S,geo,m,acc,sg,inan
+[канск]ом S,geo,m,ins,sg,inan
+[канск]е S,geo,m,abl,sg,inan
+
+курск
+[курск] S,geo,m,nom,sg,inan
+[курск]а S,geo,m,gen,sg,inan
+[курск]у S,geo,m,dat,sg,inan
+[курск] S,geo,m,acc,sg,inan
+[курск]ом S,geo,m,ins,sg,inan
+[курск]е S,geo,m,abl,sg,inan
+
+озерск
+[озерск] S,geo,m,nom,sg,inan
+[озерск]а S,geo,m,gen,sg,inan
+[озерск]у S,geo,m,dat,sg,inan
+[озерск] S,geo,m,acc,sg,inan
+[озерск]ом S,geo,m,ins,sg,inan
+[озерск]е S,geo,m,abl,sg,inan
+
+зеленодольск
+[зеленодольск] S,geo,m,nom,sg,inan
+[зеленодольск]а S,geo,m,gen,sg,inan
+[зеленодольск]у S,geo,m,dat,sg,inan
+[зеленодольск] S,geo,m,acc,sg,inan
+[зеленодольск]ом S,geo,m,ins,sg,inan
+[зеленодольск]е S,geo,m,abl,sg,inan
+
+волоколамск
+[волоколамск] S,geo,m,nom,sg,inan
+[волоколамск]а S,geo,m,gen,sg,inan
+[волоколамск]у S,geo,m,dat,sg,inan
+[волоколамск] S,geo,m,acc,sg,inan
+[волоколамск]ом S,geo,m,ins,sg,inan
+[волоколамск]е S,geo,m,abl,sg,inan
+
+красногорск
+[красногорск] S,geo,m,nom,sg,inan
+[красногорск]а S,geo,m,gen,sg,inan
+[красногорск]у S,geo,m,dat,sg,inan
+[красногорск] S,geo,m,acc,sg,inan
+[красногорск]ом S,geo,m,ins,sg,inan
+[красногорск]е S,geo,m,abl,sg,inan
+
+ногинск
+[ногинск] S,geo,m,nom,sg,inan
+[ногинск]а S,geo,m,gen,sg,inan
+[ногинск]у S,geo,m,dat,sg,inan
+[ногинск] S,geo,m,acc,sg,inan
+[ногинск]ом S,geo,m,ins,sg,inan
+[ногинск]е S,geo,m,abl,sg,inan
+
+михайловск
+[михайловск] S,geo,m,nom,sg,inan
+[михайловск]а S,geo,m,gen,sg,inan
+[михайловск]у S,geo,m,dat,sg,inan
+[михайловск] S,geo,m,acc,sg,inan
+[михайловск]ом S,geo,m,ins,sg,inan
+[михайловск]е S,geo,m,abl,sg,inan
+
+буденновск
+[буденновск] S,geo,m,nom,sg,inan
+[буденновск]а S,geo,m,gen,sg,inan
+[буденновск]у S,geo,m,dat,sg,inan
+[буденновск] S,geo,m,acc,sg,inan
+[буденновск]ом S,geo,m,ins,sg,inan
+[буденновск]е S,geo,m,abl,sg,inan
+
+омск
+[омск] S,geo,m,nom,sg,inan
+[омск]а S,geo,m,gen,sg,inan
+[омск]у S,geo,m,dat,sg,inan
+[омск] S,geo,m,acc,sg,inan
+[омск]ом S,geo,m,ins,sg,inan
+[омск]е S,geo,m,abl,sg,inan
+
+горно-алтайск
+[горно-алтайск] S,geo,m,nom,sg,inan
+[горно-алтайск]а S,geo,m,gen,sg,inan
+[горно-алтайск]у S,geo,m,dat,sg,inan
+[горно-алтайск] S,geo,m,acc,sg,inan
+[горно-алтайск]ом S,geo,m,ins,sg,inan
+[горно-алтайск]е S,geo,m,abl,sg,inan
+
+новокуйбышевск
+[новокуйбышевск] S,geo,m,nom,sg,inan
+[новокуйбышевск]а S,geo,m,gen,sg,inan
+[новокуйбышевск]у S,geo,m,dat,sg,inan
+[новокуйбышевск] S,geo,m,acc,sg,inan
+[новокуйбышевск]ом S,geo,m,ins,sg,inan
+[новокуйбышевск]е S,geo,m,abl,sg,inan
+
+нижнекамск
+[нижнекамск] S,geo,m,nom,sg,inan
+[нижнекамск]а S,geo,m,gen,sg,inan
+[нижнекамск]у S,geo,m,dat,sg,inan
+[нижнекамск] S,geo,m,acc,sg,inan
+[нижнекамск]ом S,geo,m,ins,sg,inan
+[нижнекамск]е S,geo,m,abl,sg,inan
+
+норильск
+[норильск] S,geo,m,nom,sg,inan
+[норильск]а S,geo,m,gen,sg,inan
+[норильск]у S,geo,m,dat,sg,inan
+[норильск] S,geo,m,acc,sg,inan
+[норильск]ом S,geo,m,ins,sg,inan
+[норильск]е S,geo,m,abl,sg,inan
+
+хантымансийск
+[хантымансийск] S,geo,m,nom,sg,inan
+[хантымансийск]а S,geo,m,gen,sg,inan
+[хантымансийск]у S,geo,m,dat,sg,inan
+[хантымансийск] S,geo,m,acc,sg,inan
+[хантымансийск]ом S,geo,m,ins,sg,inan
+[хантымансийск]е S,geo,m,abl,sg,inan
+
+батайск
+[батайск] S,geo,m,nom,sg,inan
+[батайск]а S,geo,m,gen,sg,inan
+[батайск]у S,geo,m,dat,sg,inan
+[батайск] S,geo,m,acc,sg,inan
+[батайск]ом S,geo,m,ins,sg,inan
+[батайск]е S,geo,m,abl,sg,inan
+
+георгиевск
+[георгиевск] S,geo,m,nom,sg,inan
+[георгиевск]а S,geo,m,gen,sg,inan
+[георгиевск]у S,geo,m,dat,sg,inan
+[георгиевск] S,geo,m,acc,sg,inan
+[георгиевск]ом S,geo,m,ins,sg,inan
+[георгиевск]е S,geo,m,abl,sg,inan
+
+магнитогорск
+[магнитогорск] S,geo,m,nom,sg,inan
+[магнитогорск]а S,geo,m,gen,sg,inan
+[магнитогорск]у S,geo,m,dat,sg,inan
+[магнитогорск] S,geo,m,acc,sg,inan
+[магнитогорск]ом S,geo,m,ins,sg,inan
+[магнитогорск]е S,geo,m,abl,sg,inan
+
+вольск
+[вольск] S,geo,m,nom,sg,inan
+[вольск]а S,geo,m,gen,sg,inan
+[вольск]у S,geo,m,dat,sg,inan
+[вольск] S,geo,m,acc,sg,inan
+[вольск]ом S,geo,m,ins,sg,inan
+[вольск]е S,geo,m,abl,sg,inan
+
+новороссийск
+[новороссийск] S,geo,m,nom,sg,inan
+[новороссийск]а S,geo,m,gen,sg,inan
+[новороссийск]у S,geo,m,dat,sg,inan
+[новороссийск] S,geo,m,acc,sg,inan
+[новороссийск]ом S,geo,m,ins,sg,inan
+[новороссийск]е S,geo,m,abl,sg,inan
+
+буйнакск
+[буйнакск] S,geo,m,nom,sg,inan
+[буйнакск]а S,geo,m,gen,sg,inan
+[буйнакск]у S,geo,m,dat,sg,inan
+[буйнакск] S,geo,m,acc,sg,inan
+[буйнакск]ом S,geo,m,ins,sg,inan
+[буйнакск]е S,geo,m,abl,sg,inan
+
+егорьевск
+[егорьевск] S,geo,m,nom,sg,inan
+[егорьевск]а S,geo,m,gen,sg,inan
+[егорьевск]у S,geo,m,dat,sg,inan
+[егорьевск] S,geo,m,acc,sg,inan
+[егорьевск]ом S,geo,m,ins,sg,inan
+[егорьевск]е S,geo,m,abl,sg,inan
+
+жигулевск
+[жигулевск] S,geo,m,nom,sg,inan
+[жигулевск]а S,geo,m,gen,sg,inan
+[жигулевск]у S,geo,m,dat,sg,inan
+[жигулевск] S,geo,m,acc,sg,inan
+[жигулевск]ом S,geo,m,ins,sg,inan
+[жигулевск]е S,geo,m,abl,sg,inan
+
+архангельск
+[архангельск] S,geo,m,nom,sg,inan
+[архангельск]а S,geo,m,gen,sg,inan
+[архангельск]у S,geo,m,dat,sg,inan
+[архангельск] S,geo,m,acc,sg,inan
+[архангельск]ом S,geo,m,ins,sg,inan
+[архангельск]е S,geo,m,abl,sg,inan
+
+прокопьевск
+[прокопьевск] S,geo,m,nom,sg,inan
+[прокопьевск]а S,geo,m,gen,sg,inan
+[прокопьевск]у S,geo,m,dat,sg,inan
+[прокопьевск] S,geo,m,acc,sg,inan
+[прокопьевск]ом S,geo,m,ins,sg,inan
+[прокопьевск]е S,geo,m,abl,sg,inan
+
+лениногорск
+[лениногорск] S,geo,m,nom,sg,inan
+[лениногорск]а S,geo,m,gen,sg,inan
+[лениногорск]у S,geo,m,dat,sg,inan
+[лениногорск] S,geo,m,acc,sg,inan
+[лениногорск]ом S,geo,m,ins,sg,inan
+[лениногорск]е S,geo,m,abl,sg,inan
+
+мск
+[мск] S,geo,m,nom,sg,inan
+[мск]а S,geo,m,gen,sg,inan
+[мск]у S,geo,m,dat,sg,inan
+[мск] S,geo,m,acc,sg,inan
+[мск]ом S,geo,m,ins,sg,inan
+[мск]е S,geo,m,abl,sg,inan
+
+усть-илимск
+[усть-илимск] S,geo,m,nom,sg,inan
+[усть-илимск]а S,geo,m,gen,sg,inan
+[усть-илимск]у S,geo,m,dat,sg,inan
+[усть-илимск] S,geo,m,acc,sg,inan
+[усть-илимск]ом S,geo,m,ins,sg,inan
+[усть-илимск]е S,geo,m,abl,sg,inan
+
+крымск
+[крымск] S,geo,m,nom,sg,inan
+[крымск]а S,geo,m,gen,sg,inan
+[крымск]у S,geo,m,dat,sg,inan
+[крымск] S,geo,m,acc,sg,inan
+[крымск]ом S,geo,m,ins,sg,inan
+[крымск]е S,geo,m,abl,sg,inan
+
+анжеросудженск
+[анжеросудженск] S,geo,m,nom,sg,inan
+[анжеросудженск]а S,geo,m,gen,sg,inan
+[анжеросудженск]у S,geo,m,dat,sg,inan
+[анжеросудженск] S,geo,m,acc,sg,inan
+[анжеросудженск]ом S,geo,m,ins,sg,inan
+[анжеросудженск]е S,geo,m,abl,sg,inan
+
+уссурийск
+[уссурийск] S,geo,m,nom,sg,inan
+[уссурийск]а S,geo,m,gen,sg,inan
+[уссурийск]у S,geo,m,dat,sg,inan
+[уссурийск] S,geo,m,acc,sg,inan
+[уссурийск]ом S,geo,m,ins,sg,inan
+[уссурийск]е S,geo,m,abl,sg,inan
+
+зеленогорск
+[зеленогорск] S,geo,m,nom,sg,inan
+[зеленогорск]а S,geo,m,gen,sg,inan
+[зеленогорск]у S,geo,m,dat,sg,inan
+[зеленогорск] S,geo,m,acc,sg,inan
+[зеленогорск]ом S,geo,m,ins,sg,inan
+[зеленогорск]е S,geo,m,abl,sg,inan
+
+подольск
+[подольск] S,geo,m,nom,sg,inan
+[подольск]а S,geo,m,gen,sg,inan
+[подольск]у S,geo,m,dat,sg,inan
+[подольск] S,geo,m,acc,sg,inan
+[подольск]ом S,geo,m,ins,sg,inan
+[подольск]е S,geo,m,abl,sg,inan
+
+наро-фоминск
+[наро-фоминск] S,geo,m,nom,sg,inan
+[наро-фоминск]а S,geo,m,gen,sg,inan
+[наро-фоминск]у S,geo,m,dat,sg,inan
+[наро-фоминск] S,geo,m,acc,sg,inan
+[наро-фоминск]ом S,geo,m,ins,sg,inan
+[наро-фоминск]е S,geo,m,abl,sg,inan
+
+нижневартовск
+[нижневартовск] S,geo,m,nom,sg,inan
+[нижневартовск]а S,geo,m,gen,sg,inan
+[нижневартовск]у S,geo,m,dat,sg,inan
+[нижневартовск] S,geo,m,acc,sg,inan
+[нижневартовск]ом S,geo,m,ins,sg,inan
+[нижневартовск]е S,geo,m,abl,sg,inan
+
+нефтеюганск
+[нефтеюганск] S,geo,m,nom,sg,inan
+[нефтеюганск]а S,geo,m,gen,sg,inan
+[нефтеюганск]у S,geo,m,dat,sg,inan
+[нефтеюганск] S,geo,m,acc,sg,inan
+[нефтеюганск]ом S,geo,m,ins,sg,inan
+[нефтеюганск]е S,geo,m,abl,sg,inan
+
+синбирск
+[синбирск] S,geo,m,nom,sg,inan
+[синбирск]а S,geo,m,gen,sg,inan
+[синбирск]у S,geo,m,dat,sg,inan
+[синбирск] S,geo,m,acc,sg,inan
+[синбирск]ом S,geo,m,ins,sg,inan
+[синбирск]е S,geo,m,abl,sg,inan
+
+воткинск
+[воткинск] S,geo,m,nom,sg,inan
+[воткинск]а S,geo,m,gen,sg,inan
+[воткинск]у S,geo,m,dat,sg,inan
+[воткинск] S,geo,m,acc,sg,inan
+[воткинск]ом S,geo,m,ins,sg,inan
+[воткинск]е S,geo,m,abl,sg,inan
+
+первоуральск
+[первоуральск] S,geo,m,nom,sg,inan
+[первоуральск]а S,geo,m,gen,sg,inan
+[первоуральск]у S,geo,m,dat,sg,inan
+[первоуральск] S,geo,m,acc,sg,inan
+[первоуральск]ом S,geo,m,ins,sg,inan
+[первоуральск]е S,geo,m,abl,sg,inan
+
+краснокаменск
+[краснокаменск] S,geo,m,nom,sg,inan
+[краснокаменск]а S,geo,m,gen,sg,inan
+[краснокаменск]у S,geo,m,dat,sg,inan
+[краснокаменск] S,geo,m,acc,sg,inan
+[краснокаменск]ом S,geo,m,ins,sg,inan
+[краснокаменск]е S,geo,m,abl,sg,inan
+
+каспийск
+[каспийск] S,geo,m,nom,sg,inan
+[каспийск]а S,geo,m,gen,sg,inan
+[каспийск]у S,geo,m,dat,sg,inan
+[каспийск] S,geo,m,acc,sg,inan
+[каспийск]ом S,geo,m,ins,sg,inan
+[каспийск]е S,geo,m,abl,sg,inan
+
+новомосковск
+[новомосковск] S,geo,m,nom,sg,inan
+[новомосковск]а S,geo,m,gen,sg,inan
+[новомосковск]у S,geo,m,dat,sg,inan
+[новомосковск] S,geo,m,acc,sg,inan
+[новомосковск]ом S,geo,m,ins,sg,inan
+[новомосковск]е S,geo,m,abl,sg,inan
+
+альметьевск
+[альметьевск] S,geo,m,nom,sg,inan
+[альметьевск]а S,geo,m,gen,sg,inan
+[альметьевск]у S,geo,m,dat,sg,inan
+[альметьевск] S,geo,m,acc,sg,inan
+[альметьевск]ом S,geo,m,ins,sg,inan
+[альметьевск]е S,geo,m,abl,sg,inan
+
+ноябрьск
+[ноябрьск] S,geo,m,nom,sg,inan
+[ноябрьск]а S,geo,m,gen,sg,inan
+[ноябрьск]у S,geo,m,dat,sg,inan
+[ноябрьск] S,geo,m,acc,sg,inan
+[ноябрьск]ом S,geo,m,ins,sg,inan
+[ноябрьск]е S,geo,m,abl,sg,inan
+
+иркутск
+[иркутск] S,geo,m,nom,sg,inan
+[иркутск]а S,geo,m,gen,sg,inan
+[иркутск]у S,geo,m,dat,sg,inan
+[иркутск] S,geo,m,acc,sg,inan
+[иркутск]ом S,geo,m,ins,sg,inan
+[иркутск]е S,geo,m,abl,sg,inan
+
+чапаевск
+[чапаевск] S,geo,m,nom,sg,inan
+[чапаевск]а S,geo,m,gen,sg,inan
+[чапаевск]у S,geo,m,dat,sg,inan
+[чапаевск] S,geo,m,acc,sg,inan
+[чапаевск]ом S,geo,m,ins,sg,inan
+[чапаевск]е S,geo,m,abl,sg,inan
+
+рубцовск
+[рубцовск] S,geo,m,nom,sg,inan
+[рубцовск]а S,geo,m,gen,sg,inan
+[рубцовск]у S,geo,m,dat,sg,inan
+[рубцовск] S,geo,m,acc,sg,inan
+[рубцовск]ом S,geo,m,ins,sg,inan
+[рубцовск]е S,geo,m,abl,sg,inan
+
+новониколаевск
+[новониколаевск] S,geo,m,nom,sg,inan
+[новониколаевск]а S,geo,m,gen,sg,inan
+[новониколаевск]у S,geo,m,dat,sg,inan
+[новониколаевск] S,geo,m,acc,sg,inan
+[новониколаевск]ом S,geo,m,ins,sg,inan
+[новониколаевск]е S,geo,m,abl,sg,inan
+
+усинск
+[усинск] S,geo,m,nom,sg,inan
+[усинск]а S,geo,m,gen,sg,inan
+[усинск]у S,geo,m,dat,sg,inan
+[усинск] S,geo,m,acc,sg,inan
+[усинск]ом S,geo,m,ins,sg,inan
+[усинск]е S,geo,m,abl,sg,inan
+
+орск
+[орск] S,geo,m,nom,sg,inan
+[орск]а S,geo,m,gen,sg,inan
+[орск]у S,geo,m,dat,sg,inan
+[орск] S,geo,m,acc,sg,inan
+[орск]ом S,geo,m,ins,sg,inan
+[орск]е S,geo,m,abl,sg,inan
+
+челябинск
+[челябинск] S,geo,m,nom,sg,inan
+[челябинск]а S,geo,m,gen,sg,inan
+[челябинск]у S,geo,m,dat,sg,inan
+[челябинск] S,geo,m,acc,sg,inan
+[челябинск]ом S,geo,m,ins,sg,inan
+[челябинск]е S,geo,m,abl,sg,inan
+
+горнозаводск
+[горнозаводск] S,geo,m,nom,sg,inan
+[горнозаводск]а S,geo,m,gen,sg,inan
+[горнозаводск]у S,geo,m,dat,sg,inan
+[горнозаводск] S,geo,m,acc,sg,inan
+[горнозаводск]ом S,geo,m,ins,sg,inan
+[горнозаводск]е S,geo,m,abl,sg,inan
+
+красноярск
+[красноярск] S,geo,m,nom,sg,inan
+[красноярск]а S,geo,m,gen,sg,inan
+[красноярск]у S,geo,m,dat,sg,inan
+[красноярск] S,geo,m,acc,sg,inan
+[красноярск]ом S,geo,m,ins,sg,inan
+[красноярск]е S,geo,m,abl,sg,inan
+
+якутск
+[якутск] S,geo,m,nom,sg,inan
+[якутск]а S,geo,m,gen,sg,inan
+[якутск]у S,geo,m,dat,sg,inan
+[якутск] S,geo,m,acc,sg,inan
+[якутск]ом S,geo,m,ins,sg,inan
+[якутск]е S,geo,m,abl,sg,inan
+
+воскресенск
+[воскресенск] S,geo,m,nom,sg,inan
+[воскресенск]а S,geo,m,gen,sg,inan
+[воскресенск]у S,geo,m,dat,sg,inan
+[воскресенск] S,geo,m,acc,sg,inan
+[воскресенск]ом S,geo,m,ins,sg,inan
+[воскресенск]е S,geo,m,abl,sg,inan
+
+новосибирск
+[новосибирск] S,geo,m,nom,sg,inan
+[новосибирск]а S,geo,m,gen,sg,inan
+[новосибирск]у S,geo,m,dat,sg,inan
+[новосибирск] S,geo,m,acc,sg,inan
+[новосибирск]ом S,geo,m,ins,sg,inan
+[новосибирск]е S,geo,m,abl,sg,inan
+
+устьилимск
+[устьилимск] S,geo,m,nom,sg,inan
+[устьилимск]а S,geo,m,gen,sg,inan
+[устьилимск]у S,geo,m,dat,sg,inan
+[устьилимск] S,geo,m,acc,sg,inan
+[устьилимск]ом S,geo,m,ins,sg,inan
+[устьилимск]е S,geo,m,abl,sg,inan
+
+южно-сахалинск
+[южно-сахалинск] S,geo,m,nom,sg,inan
+[южно-сахалинск]а S,geo,m,gen,sg,inan
+[южно-сахалинск]у S,geo,m,dat,sg,inan
+[южно-сахалинск] S,geo,m,acc,sg,inan
+[южно-сахалинск]ом S,geo,m,ins,sg,inan
+[южно-сахалинск]е S,geo,m,abl,sg,inan
+
+волжск
+[волжск] S,geo,m,nom,sg,inan
+[волжск]а S,geo,m,gen,sg,inan
+[волжск]у S,geo,m,dat,sg,inan
+[волжск] S,geo,m,acc,sg,inan
+[волжск]ом S,geo,m,ins,sg,inan
+[волжск]е S,geo,m,abl,sg,inan
+
+северодвинск
+[северодвинск] S,geo,m,nom,sg,inan
+[северодвинск]а S,geo,m,gen,sg,inan
+[северодвинск]у S,geo,m,dat,sg,inan
+[северодвинск] S,geo,m,acc,sg,inan
+[северодвинск]ом S,geo,m,ins,sg,inan
+[северодвинск]е S,geo,m,abl,sg,inan
+
+хабаровск
+[хабаровск] S,geo,m,nom,sg,inan
+[хабаровск]а S,geo,m,gen,sg,inan
+[хабаровск]у S,geo,m,dat,sg,inan
+[хабаровск] S,geo,m,acc,sg,inan
+[хабаровск]ом S,geo,m,ins,sg,inan
+[хабаровск]е S,geo,m,abl,sg,inan
+
+ижевск
+[ижевск] S,geo,m,nom,sg,inan
+[ижевск]а S,geo,m,gen,sg,inan
+[ижевск]у S,geo,m,dat,sg,inan
+[ижевск] S,geo,m,acc,sg,inan
+[ижевск]ом S,geo,m,ins,sg,inan
+[ижевск]е S,geo,m,abl,sg,inan
+
+свердловск
+[свердловск] S,geo,m,nom,sg,inan
+[свердловск]а S,geo,m,gen,sg,inan
+[свердловск]у S,geo,m,dat,sg,inan
+[свердловск] S,geo,m,acc,sg,inan
+[свердловск]ом S,geo,m,ins,sg,inan
+[свердловск]е S,geo,m,abl,sg,inan
+
+железногорск
+[железногорск] S,geo,m,nom,sg,inan
+[железногорск]а S,geo,m,gen,sg,inan
+[железногорск]у S,geo,m,dat,sg,inan
+[железногорск] S,geo,m,acc,sg,inan
+[железногорск]ом S,geo,m,ins,sg,inan
+[железногорск]е S,geo,m,abl,sg,inan
+
+черногорск
+[черногорск] S,geo,m,nom,sg,inan
+[черногорск]а S,geo,m,gen,sg,inan
+[черногорск]у S,geo,m,dat,sg,inan
+[черногорск] S,geo,m,acc,sg,inan
+[черногорск]ом S,geo,m,ins,sg,inan
+[черногорск]е S,geo,m,abl,sg,inan
+
+минусинск
+[минусинск] S,geo,m,nom,sg,inan
+[минусинск]а S,geo,m,gen,sg,inan
+[минусинск]у S,geo,m,dat,sg,inan
+[минусинск] S,geo,m,acc,sg,inan
+[минусинск]ом S,geo,m,ins,sg,inan
+[минусинск]е S,geo,m,abl,sg,inan
+
+лесосибирск
+[лесосибирск] S,geo,m,nom,sg,inan
+[лесосибирск]а S,geo,m,gen,sg,inan
+[лесосибирск]у S,geo,m,dat,sg,inan
+[лесосибирск] S,geo,m,acc,sg,inan
+[лесосибирск]ом S,geo,m,ins,sg,inan
+[лесосибирск]е S,geo,m,abl,sg,inan
+
+нефтекамск
+[нефтекамск] S,geo,m,nom,sg,inan
+[нефтекамск]а S,geo,m,gen,sg,inan
+[нефтекамск]у S,geo,m,dat,sg,inan
+[нефтекамск] S,geo,m,acc,sg,inan
+[нефтекамск]ом S,geo,m,ins,sg,inan
+[нефтекамск]е S,geo,m,abl,sg,inan
+
+тобольск
+[тобольск] S,geo,m,nom,sg,inan
+[тобольск]а S,geo,m,gen,sg,inan
+[тобольск]у S,geo,m,dat,sg,inan
+[тобольск] S,geo,m,acc,sg,inan
+[тобольск]ом S,geo,m,ins,sg,inan
+[тобольск]е S,geo,m,abl,sg,inan
+
+бийск
+[бийск] S,geo,m,nom,sg,inan
+[бийск]а S,geo,m,gen,sg,inan
+[бийск]у S,geo,m,dat,sg,inan
+[бийск] S,geo,m,acc,sg,inan
+[бийск]ом S,geo,m,ins,sg,inan
+[бийск]е S,geo,m,abl,sg,inan
+
+ханты-мансийск
+[ханты-мансийск] S,geo,m,nom,sg,inan
+[ханты-мансийск]а S,geo,m,gen,sg,inan
+[ханты-мансийск]у S,geo,m,dat,sg,inan
+[ханты-мансийск] S,geo,m,acc,sg,inan
+[ханты-мансийск]ом S,geo,m,ins,sg,inan
+[ханты-мансийск]е S,geo,m,abl,sg,inan
+
+белогорск
+[белогорск] S,geo,m,nom,sg,inan
+[белогорск]а S,geo,m,gen,sg,inan
+[белогорск]у S,geo,m,dat,sg,inan
+[белогорск] S,geo,m,acc,sg,inan
+[белогорск]ом S,geo,m,ins,sg,inan
+[белогорск]е S,geo,m,abl,sg,inan
+
+заринск
+[заринск] S,geo,m,nom,sg,inan
+[заринск]а S,geo,m,gen,sg,inan
+[заринск]у S,geo,m,dat,sg,inan
+[заринск] S,geo,m,acc,sg,inan
+[заринск]ом S,geo,m,ins,sg,inan
+[заринск]е S,geo,m,abl,sg,inan
+
+моршанск
+[моршанск] S,geo,m,nom,sg,inan
+[моршанск]а S,geo,m,gen,sg,inan
+[моршанск]у S,geo,m,dat,sg,inan
+[моршанск] S,geo,m,acc,sg,inan
+[моршанск]ом S,geo,m,ins,sg,inan
+[моршанск]е S,geo,m,abl,sg,inan
+
+кировск
+[кировск] S,geo,m,nom,sg,inan
+[кировск]а S,geo,m,gen,sg,inan
+[кировск]у S,geo,m,dat,sg,inan
+[кировск] S,geo,m,acc,sg,inan
+[кировск]ом S,geo,m,ins,sg,inan
+[кировск]е S,geo,m,abl,sg,inan
+
+благовещенск
+[благовещенск] S,geo,m,nom,sg,inan
+[благовещенск]а S,geo,m,gen,sg,inan
+[благовещенск]у S,geo,m,dat,sg,inan
+[благовещенск] S,geo,m,acc,sg,inan
+[благовещенск]ом S,geo,m,ins,sg,inan
+[благовещенск]е S,geo,m,abl,sg,inan
+
+новочебоксарск
+[новочебоксарск] S,geo,m,nom,sg,inan
+[новочебоксарск]а S,geo,m,gen,sg,inan
+[новочебоксарск]у S,geo,m,dat,sg,inan
+[новочебоксарск] S,geo,m,acc,sg,inan
+[новочебоксарск]ом S,geo,m,ins,sg,inan
+[новочебоксарск]е S,geo,m,abl,sg,inan
+
+соликамск
+[соликамск] S,geo,m,nom,sg,inan
+[соликамск]а S,geo,m,gen,sg,inan
+[соликамск]у S,geo,m,dat,sg,inan
+[соликамск] S,geo,m,acc,sg,inan
+[соликамск]ом S,geo,m,ins,sg,inan
+[соликамск]е S,geo,m,abl,sg,inan
+
+петрозаводск
+[петрозаводск] S,geo,m,nom,sg,inan
+[петрозаводск]а S,geo,m,gen,sg,inan
+[петрозаводск]у S,geo,m,dat,sg,inan
+[петрозаводск] S,geo,m,acc,sg,inan
+[петрозаводск]ом S,geo,m,ins,sg,inan
+[петрозаводск]е S,geo,m,abl,sg,inan
+
+иркуцк
+[иркуцк] S,geo,m,nom,sg,inan
+[иркуцк]а S,geo,m,gen,sg,inan
+[иркуцк]у S,geo,m,dat,sg,inan
+[иркуцк] S,geo,m,acc,sg,inan
+[иркуцк]ом S,geo,m,ins,sg,inan
+[иркуцк]е S,geo,m,abl,sg,inan
+
+урицк
+[урицк] S,geo,m,nom,sg,inan
+[урицк]а S,geo,m,gen,sg,inan
+[урицк]у S,geo,m,dat,sg,inan
+[урицк] S,geo,m,acc,sg,inan
+[урицк]ом S,geo,m,ins,sg,inan
+[урицк]е S,geo,m,abl,sg,inan
+
+кирово-чепецк
+[кирово-чепецк] S,geo,m,nom,sg,inan
+[кирово-чепецк]а S,geo,m,gen,sg,inan
+[кирово-чепецк]у S,geo,m,dat,sg,inan
+[кирово-чепецк] S,geo,m,acc,sg,inan
+[кирово-чепецк]ом S,geo,m,ins,sg,inan
+[кирово-чепецк]е S,geo,m,abl,sg,inan
+
+новокузнецк
+[новокузнецк] S,geo,m,nom,sg,inan
+[новокузнецк]а S,geo,m,gen,sg,inan
+[новокузнецк]у S,geo,m,dat,sg,inan
+[новокузнецк] S,geo,m,acc,sg,inan
+[новокузнецк]ом S,geo,m,ins,sg,inan
+[новокузнецк]е S,geo,m,abl,sg,inan
+
+кузнецк
+[кузнецк] S,geo,m,nom,sg,inan
+[кузнецк]а S,geo,m,gen,sg,inan
+[кузнецк]у S,geo,m,dat,sg,inan
+[кузнецк] S,geo,m,acc,sg,inan
+[кузнецк]ом S,geo,m,ins,sg,inan
+[кузнецк]е S,geo,m,abl,sg,inan
+
+новотроицк
+[новотроицк] S,geo,m,nom,sg,inan
+[новотроицк]а S,geo,m,gen,sg,inan
+[новотроицк]у S,geo,m,dat,sg,inan
+[новотроицк] S,geo,m,acc,sg,inan
+[новотроицк]ом S,geo,m,ins,sg,inan
+[новотроицк]е S,geo,m,abl,sg,inan
+
+троицк
+[троицк] S,geo,m,nom,sg,inan
+[троицк]а S,geo,m,gen,sg,inan
+[троицк]у S,geo,m,dat,sg,inan
+[троицк] S,geo,m,acc,sg,inan
+[троицк]ом S,geo,m,ins,sg,inan
+[троицк]е S,geo,m,abl,sg,inan
+
+белорецк
+[белорецк] S,geo,m,nom,sg,inan
+[белорецк]а S,geo,m,gen,sg,inan
+[белорецк]у S,geo,m,dat,sg,inan
+[белорецк] S,geo,m,acc,sg,inan
+[белорецк]ом S,geo,m,ins,sg,inan
+[белорецк]е S,geo,m,abl,sg,inan
+
+тихорецк
+[тихорецк] S,geo,m,nom,sg,inan
+[тихорецк]а S,geo,m,gen,sg,inan
+[тихорецк]у S,geo,m,dat,sg,inan
+[тихорецк] S,geo,m,acc,sg,inan
+[тихорецк]ом S,geo,m,ins,sg,inan
+[тихорецк]е S,geo,m,abl,sg,inan
+
+кировочепецк
+[кировочепецк] S,geo,m,nom,sg,inan
+[кировочепецк]а S,geo,m,gen,sg,inan
+[кировочепецк]у S,geo,m,dat,sg,inan
+[кировочепецк] S,geo,m,acc,sg,inan
+[кировочепецк]ом S,geo,m,ins,sg,inan
+[кировочепецк]е S,geo,m,abl,sg,inan
+
+павлово
+[павлов]о S,geo,n,nom,sg,inan
+[павлов]о S,geo,n,acc,sg,inan
+[павлов]ом S,geo,n,ins,sg,inan
+
+хорошево
+[хорошев]о S,geo,n,nom,sg,inan
+[хорошев]о S,geo,n,acc,sg,inan
+[хорошев]ом S,geo,n,ins,sg,inan
+
+ореховозуево
+[ореховозуев]о S,geo,n,nom,sg,inan
+[ореховозуев]а S,geo,n,gen,sg,inan
+[ореховозуев]у S,geo,n,dat,sg,inan
+[ореховозуев]о S,geo,n,acc,sg,inan
+[ореховозуев]ом S,geo,n,ins,sg,inan
+[ореховозуев]е S,geo,n,abl,sg,inan
+
+ярцево
+[ярцев]о S,geo,n,nom,sg,inan
+[ярцев]а S,geo,n,gen,sg,inan
+[ярцев]у S,geo,n,dat,sg,inan
+[ярцев]о S,geo,n,acc,sg,inan
+[ярцев]ом S,geo,n,ins,sg,inan
+[ярцев]е S,geo,n,abl,sg,inan
+
+орехово-борисово
+[орехово-борисов]о S,geo,n,nom,sg,inan
+[орехова-борисов]а S,geo,n,gen,sg,inan
+[орехову-борисов]у S,geo,n,dat,sg,inan
+[орехово-борисов]о S,geo,n,acc,sg,inan
+[ореховом-борисов]ом S,geo,n,ins,sg,inan
+[орехове-борисов]е S,geo,n,abl,sg,inan
+
+орехово
+[орехов]о S,geo,n,nom,sg,inan
+[орехов]о S,geo,n,acc,sg,inan
+[орехов]ом S,geo,n,ins,sg,inan
+
+щекино
+[щекин]о S,geo,n,nom,sg,inan
+[щекин]о S,geo,n,acc,sg,inan
+[щекин]ом S,geo,n,ins,sg,inan
+
+ватутино
+[ватутин]о S,geo,n,nom,sg,inan
+[ватутин]о S,geo,n,acc,sg,inan
+[ватутин]ом S,geo,n,ins,sg,inan
+
+бирюлево
+[бирюлев]о S,geo,n,nom,sg,inan
+[бирюлев]а S,geo,n,gen,sg,inan
+[бирюлев]у S,geo,n,dat,sg,inan
+[бирюлев]о S,geo,n,acc,sg,inan
+[бирюлев]ом S,geo,n,ins,sg,inan
+[бирюлев]е S,geo,n,abl,sg,inan
+
+нововладыкино
+[нововладыкин]о S,geo,n,nom,sg,inan
+[нововладыкин]а S,geo,n,gen,sg,inan
+[нововладыкин]у S,geo,n,dat,sg,inan
+[нововладыкин]о S,geo,n,acc,sg,inan
+[нововладыкин]ом S,geo,n,ins,sg,inan
+[нововладыкин]е S,geo,n,abl,sg,inan
+
+купчино
+[купчин]о S,geo,n,nom,sg,inan
+[купчин]о S,geo,n,acc,sg,inan
+[купчин]ом S,geo,n,ins,sg,inan
+
+уварово
+[уваров]о S,geo,n,nom,sg,inan
+[уваров]о S,geo,n,acc,sg,inan
+[уваров]ом S,geo,n,ins,sg,inan
+
+бусиново
+[бусинов]о S,geo,n,nom,sg,inan
+[бусинов]о S,geo,n,acc,sg,inan
+[бусинов]ом S,geo,n,ins,sg,inan
+
+кстово
+[кстов]о S,geo,n,nom,sg,inan
+[кстов]а S,geo,n,gen,sg,inan
+[кстов]у S,geo,n,dat,sg,inan
+[кстов]о S,geo,n,acc,sg,inan
+[кстов]ом S,geo,n,ins,sg,inan
+[кстов]е S,geo,n,abl,sg,inan
+
+юнтолово
+[юнтолов]о S,geo,n,nom,sg,inan
+[юнтолов]а S,geo,n,gen,sg,inan
+[юнтолов]у S,geo,n,dat,sg,inan
+[юнтолов]о S,geo,n,acc,sg,inan
+[юнтолов]ом S,geo,n,ins,sg,inan
+[юнтолов]е S,geo,n,abl,sg,inan
+
+новоховрино
+[новоховрин]о S,geo,n,nom,sg,inan
+[новоховрин]а S,geo,n,gen,sg,inan
+[новоховрин]у S,geo,n,dat,sg,inan
+[новоховрин]о S,geo,n,acc,sg,inan
+[новоховрин]ом S,geo,n,ins,sg,inan
+[новоховрин]е S,geo,n,abl,sg,inan
+
+кожухово
+[кожухов]о S,geo,n,nom,sg,inan
+[кожухов]о S,geo,n,acc,sg,inan
+[кожухов]ом S,geo,n,ins,sg,inan
+
+аксиньино
+[аксиньин]о S,geo,n,nom,sg,inan
+[аксиньин]о S,geo,n,acc,sg,inan
+[аксиньин]ом S,geo,n,ins,sg,inan
+
+царицино
+[царицин]о S,geo,n,nom,sg,inan
+[царицин]а S,geo,n,gen,sg,inan
+[царицин]у S,geo,n,dat,sg,inan
+[царицин]о S,geo,n,acc,sg,inan
+[царицин]ом S,geo,n,ins,sg,inan
+[царицин]е S,geo,n,abl,sg,inan
+
+пушкино
+[пушкин]о S,geo,n,nom,sg,inan
+[пушкин]о S,geo,n,acc,sg,inan
+[пушкин]ом S,geo,n,ins,sg,inan
+
+иваново
+[иванов]о S,geo,n,nom,sg,inan
+[иванов]о S,geo,n,acc,sg,inan
+[иванов]ом S,geo,n,ins,sg,inan
+
+ступино
+[ступин]о S,geo,n,nom,sg,inan
+[ступин]о S,geo,n,acc,sg,inan
+[ступин]ом S,geo,n,ins,sg,inan
+
+козеево
+[козеев]о S,geo,n,nom,sg,inan
+[козеев]о S,geo,n,acc,sg,inan
+[козеев]ом S,geo,n,ins,sg,inan
+
+назарово
+[назаров]о S,geo,n,nom,sg,inan
+[назаров]о S,geo,n,acc,sg,inan
+[назаров]ом S,geo,n,ins,sg,inan
+
+белово
+[белов]о S,geo,n,nom,sg,inan
+[белов]о S,geo,n,acc,sg,inan
+[белов]ом S,geo,n,ins,sg,inan
+
+абдулино
+[абдулин]о S,geo,n,nom,sg,inan
+[абдулин]о S,geo,n,acc,sg,inan
+[абдулин]ом S,geo,n,ins,sg,inan
+
+новомаклаково
+[новомаклаков]о S,geo,n,nom,sg,inan
+[новомаклаков]а S,geo,n,gen,sg,inan
+[новомаклаков]у S,geo,n,dat,sg,inan
+[новомаклаков]о S,geo,n,acc,sg,inan
+[новомаклаков]ом S,geo,n,ins,sg,inan
+[новомаклаков]е S,geo,n,abl,sg,inan
+
+гуково
+[гуков]о S,geo,n,nom,sg,inan
+[гуков]о S,geo,n,acc,sg,inan
+[гуков]ом S,geo,n,ins,sg,inan
+
+одинцово
+[одинцов]о S,geo,n,nom,sg,inan
+[одинцов]а S,geo,n,gen,sg,inan
+[одинцов]у S,geo,n,dat,sg,inan
+[одинцов]о S,geo,n,acc,sg,inan
+[одинцов]ом S,geo,n,ins,sg,inan
+[одинцов]е S,geo,n,abl,sg,inan
+
+глазов
+[глазов] S,geo,m,nom,sg,inan
+[глазов] S,geo,m,acc,sg,inan
+[глазов]ом S,geo,m,ins,sg,inan
+
+лукоянов
+[лукоянов] S,geo,m,nom,sg,inan
+[лукоянов] S,geo,m,acc,sg,inan
+[лукоянов]ом S,geo,m,ins,sg,inan
+
+азов
+[азов] S,geo,m,nom,sg,inan
+[азов]а S,geo,m,gen,sg,inan
+[азов]у S,geo,m,dat,sg,inan
+[азов] S,geo,m,acc,sg,inan
+[азов]ом S,geo,m,ins,sg,inan
+[азов]е S,geo,m,abl,sg,inan
+
+ростов
+[ростов] S,geo,m,nom,sg,inan
+[ростов]а S,geo,m,gen,sg,inan
+[ростов]у S,geo,m,dat,sg,inan
+[ростов] S,geo,m,acc,sg,inan
+[ростов]ом S,geo,m,ins,sg,inan
+[ростов]е S,geo,m,abl,sg,inan
+
+ковров
+[ковров] S,geo,m,nom,sg,inan
+[ковров] S,geo,m,acc,sg,inan
+[ковров]ом S,geo,m,ins,sg,inan
+
+шпаковское
+[шпаковск]ое S,geo,n,nom,sg,inan
+[шпаковск]ого S,geo,n,gen,sg,inan
+[шпаковск]ому S,geo,n,dat,sg,inan
+[шпаковск]ое S,geo,n,acc,sg,inan
+[шпаковск]им S,geo,n,ins,sg,inan
+[шпаковск]ом S,geo,n,abl,sg,inan
+
+покровское
+[покровск]ое S,geo,n,nom,sg,inan
+[покровск]ого S,geo,n,gen,sg,inan
+[покровск]ому S,geo,n,dat,sg,inan
+[покровск]ое S,geo,n,acc,sg,inan
+[покровск]им S,geo,n,ins,sg,inan
+[покровск]ом S,geo,n,abl,sg,inan
+
+усольесибирское
+[усольесибирск]ое S,geo,n,nom,sg,inan
+[усольесибирск]ого S,geo,n,gen,sg,inan
+[усольесибирск]ому S,geo,n,dat,sg,inan
+[усольесибирск]ое S,geo,n,acc,sg,inan
+[усольесибирск]им S,geo,n,ins,sg,inan
+[усольесибирск]ом S,geo,n,abl,sg,inan
+
+дачное
+[дачн]ое S,geo,n,nom,sg,inan
+[дачн]ого S,geo,n,gen,sg,inan
+[дачн]ому S,geo,n,dat,sg,inan
+[дачн]ое S,geo,n,acc,sg,inan
+[дачн]ым S,geo,n,ins,sg,inan
+[дачн]ом S,geo,n,abl,sg,inan
+
+очаковоматвеевское
+[очаковоматвеевск]ое S,geo,n,nom,sg,inan
+[очаковоматвеевск]ого S,geo,n,gen,sg,inan
+[очаковоматвеевск]ому S,geo,n,dat,sg,inan
+[очаковоматвеевск]ое S,geo,n,acc,sg,inan
+[очаковоматвеевск]им S,geo,n,ins,sg,inan
+[очаковоматвеевск]ом S,geo,n,abl,sg,inan
+
+видное
+[видн]ое S,geo,n,nom,sg,inan
+[видн]ого S,geo,n,gen,sg,inan
+[видн]ому S,geo,n,dat,sg,inan
+[видн]ое S,geo,n,acc,sg,inan
+[видн]ым S,geo,n,ins,sg,inan
+[видн]ом S,geo,n,abl,sg,inan
+
+светлановское
+[светлановск]ое S,geo,n,nom,sg,inan
+[светлановск]ого S,geo,n,gen,sg,inan
+[светлановск]ому S,geo,n,dat,sg,inan
+[светлановск]ое S,geo,n,acc,sg,inan
+[светлановск]им S,geo,n,ins,sg,inan
+[светлановск]ом S,geo,n,abl,sg,inan
+
+усолье-сибирское
+[усолье-сибирск]ое S,geo,n,nom,sg,inan
+[усолье-сибирск]ого S,geo,n,gen,sg,inan
+[усолье-сибирск]ому S,geo,n,dat,sg,inan
+[усолье-сибирск]ое S,geo,n,acc,sg,inan
+[усолье-сибирск]им S,geo,n,ins,sg,inan
+[усолье-сибирск]ом S,geo,n,abl,sg,inan
+
+рыбатское
+[рыбатск]ое S,geo,n,nom,sg,inan
+[рыбатск]ого S,geo,n,gen,sg,inan
+[рыбатск]ому S,geo,n,dat,sg,inan
+[рыбатск]ое S,geo,n,acc,sg,inan
+[рыбатск]им S,geo,n,ins,sg,inan
+[рыбатск]ом S,geo,n,abl,sg,inan
+
+семеновское
+[семеновск]ое S,geo,n,nom,sg,inan
+[семеновск]ого S,geo,n,gen,sg,inan
+[семеновск]ому S,geo,n,dat,sg,inan
+[семеновск]ое S,geo,n,acc,sg,inan
+[семеновск]им S,geo,n,ins,sg,inan
+[семеновск]ом S,geo,n,abl,sg,inan
+
+чепецк
+[чепецк] S,geo,m,nom,sg,inan
+[чепецк]а S,geo,m,gen,sg,inan
+[чепецк]у S,geo,m,dat,sg,inan
+[чепецк] S,geo,m,acc,sg,inan
+[чепецк]ом S,geo,m,ins,sg,inan
+[чепецк]е S,geo,m,abl,sg,inan
+
+илимск
+[илимск] S,geo,m,nom,sg,inan
+[илимск]а S,geo,m,gen,sg,inan
+[илимск]у S,geo,m,dat,sg,inan
+[илимск] S,geo,m,acc,sg,inan
+[илимск]ом S,geo,m,ins,sg,inan
+[илимск]е S,geo,m,abl,sg,inan
+
+сахалинск
+[сахалинск] S,geo,m,nom,sg,inan
+[сахалинск]а S,geo,m,gen,sg,inan
+[сахалинск]у S,geo,m,dat,sg,inan
+[сахалинск] S,geo,m,acc,sg,inan
+[сахалинск]ом S,geo,m,ins,sg,inan
+[сахалинск]е S,geo,m,abl,sg,inan
+
+мансийск
+[мансийск] S,geo,m,nom,sg,inan
+[мансийск]а S,geo,m,gen,sg,inan
+[мансийск]у S,geo,m,dat,sg,inan
+[мансийск] S,geo,m,acc,sg,inan
+[мансийск]ом S,geo,m,ins,sg,inan
+[мансийск]е S,geo,m,abl,sg,inan
+
+алтайск
+[алтайск] S,geo,m,nom,sg,inan
+[алтайск]а S,geo,m,gen,sg,inan
+[алтайск]у S,geo,m,dat,sg,inan
+[алтайск] S,geo,m,acc,sg,inan
+[алтайск]ом S,geo,m,ins,sg,inan
+[алтайск]е S,geo,m,abl,sg,inan
+
+судженск
+[судженск] S,geo,m,nom,sg,inan
+[судженск]а S,geo,m,gen,sg,inan
+[судженск]у S,geo,m,dat,sg,inan
+[судженск] S,geo,m,acc,sg,inan
+[судженск]ом S,geo,m,ins,sg,inan
+[судженск]е S,geo,m,abl,sg,inan
+
+сысольск
+[сысольск] S,geo,m,nom,sg,inan
+[сысольск]а S,geo,m,gen,sg,inan
+[сысольск]у S,geo,m,dat,sg,inan
+[сысольск] S,geo,m,acc,sg,inan
+[сысольск]ом S,geo,m,ins,sg,inan
+[сысольск]е S,geo,m,abl,sg,inan
+
+фоминск
+[фоминск] S,geo,m,nom,sg,inan
+[фоминск]а S,geo,m,gen,sg,inan
+[фоминск]у S,geo,m,dat,sg,inan
+[фоминск] S,geo,m,acc,sg,inan
+[фоминск]ом S,geo,m,ins,sg,inan
+[фоминск]е S,geo,m,abl,sg,inan
+
+петропавловск
+[петропавловск] S,geo,m,nom,sg,inan
+[петропавловск]а S,geo,m,gen,sg,inan
+[петропавловск]у S,geo,m,dat,sg,inan
+[петропавловск] S,geo,m,acc,sg,inan
+[петропавловск]ом S,geo,m,ins,sg,inan
+[петропавловск]е S,geo,m,abl,sg,inan
+
+кузнецкий
+[кузнецк]ий S,geo,m,nom,sg,inan
+[кузнецк]ого S,geo,m,gen,sg,inan
+[кузнецк]ому S,geo,m,dat,sg,inan
+[кузнецк]ий S,geo,m,acc,sg,inan
+[кузнецк]им S,geo,m,ins,sg,inan
+[кузнецк]ом S,geo,m,abl,sg,inan
+
+ленинск-кузнецкий
+[ленинск-кузнецк]ий S,geo,m,nom,sg,inan
+[ленинска-кузнецк]ого S,geo,m,gen,sg,inan
+[ленинску-кузнецк]ому S,geo,m,dat,sg,inan
+[ленинск-кузнецк]ий S,geo,m,acc,sg,inan
+[ленинском-кузнецк]им S,geo,m,ins,sg,inan
+[ленинске-кузнецк]ом S,geo,m,abl,sg,inan
+
+каменск-шахтинский
+[каменск-шахтинск]ий S,geo,m,nom,sg,inan
+[каменска-шахтинск]ого S,geo,m,gen,sg,inan
+[каменску-шахтинск]ому S,geo,m,dat,sg,inan
+[каменск-шахтинск]ий S,geo,m,acc,sg,inan
+[каменским-шахтинск]им S,geo,m,ins,sg,inan
+[каменске-шахтинск]ом S,geo,m,abl,sg,inan
+
+шахтинский
+[шахтинск]ий S,geo,m,nom,sg,inan
+[шахтинск]ого S,geo,m,gen,sg,inan
+[шахтинск]ому S,geo,m,dat,sg,inan
+[шахтинск]ий S,geo,m,acc,sg,inan
+[шахтинск]им S,geo,m,ins,sg,inan
+[шахтинск]ом S,geo,m,abl,sg,inan
+
+камчатский
+[камчатск]ий S,geo,m,nom,sg,inan
+[камчатск]ого S,geo,m,gen,sg,inan
+[камчатск]ому S,geo,m,dat,sg,inan
+[камчатск]ий S,geo,m,acc,sg,inan
+[камчатск]им S,geo,m,ins,sg,inan
+[камчатск]ом S,geo,m,abl,sg,inan
+
+уральский
+[уральск]ий S,geo,m,nom,sg,inan
+[уральск]ого S,geo,m,gen,sg,inan
+[уральск]ому S,geo,m,dat,sg,inan
+[уральск]ий S,geo,m,acc,sg,inan
+[уральск]им S,geo,m,ins,sg,inan
+[уральск]ом S,geo,m,abl,sg,inan
+
+верх-нейвинский
+[верх-нейвинск]ий S,geo,m,nom,sg,inan
+[верх-нейвинск]ого S,geo,m,gen,sg,inan
+[верх-нейвинск]ому S,geo,m,dat,sg,inan
+[верх-нейвинск]ий S,geo,m,acc,sg,inan
+[верх-нейвинск]им S,geo,m,ins,sg,inan
+[верх-нейвинск]ом S,geo,m,abl,sg,inan
+
+нейвинский
+[нейвинск]ий S,geo,m,nom,sg,inan
+[нейвинск]ого S,geo,m,gen,sg,inan
+[нейвинск]ому S,geo,m,dat,sg,inan
+[нейвинск]ий S,geo,m,acc,sg,inan
+[нейвинск]им S,geo,m,ins,sg,inan
+[нейвинск]ом S,geo,m,abl,sg,inan
+
+борисово
+[борисов]о S,geo,n,nom,sg,inan
+[борисов]о S,geo,n,acc,sg,inan
+[борисов]ом S,geo,n,ins,sg,inan
+
+стрешнево
+[стрешнев]о S,geo,n,nom,sg,inan
+[стрешнев]о S,geo,n,acc,sg,inan
+[стрешнев]ом S,geo,n,ins,sg,inan
+
+переделкино
+[переделкин]о S,geo,n,nom,sg,inan
+[переделкин]а S,geo,n,gen,sg,inan
+[переделкин]у S,geo,n,dat,sg,inan
+[переделкин]о S,geo,n,acc,sg,inan
+[переделкин]ом S,geo,n,ins,sg,inan
+[переделкин]е S,geo,n,abl,sg,inan
+
+зуево
+[зуев]о S,geo,n,nom,sg,inan
+[зуев]о S,geo,n,acc,sg,inan
+[зуев]ом S,geo,n,ins,sg,inan
+
+дегунино
+[дегунин]о S,geo,n,nom,sg,inan
+[дегунин]о S,geo,n,acc,sg,inan
+[дегунин]ом S,geo,n,ins,sg,inan
+
+юрга
+[юрг]а S,geo,f,nom,sg,inan
+[юрг]и S,geo,f,gen,sg,inan
+[юрг]е S,geo,f,dat,sg,inan
+[юрг]у S,geo,f,acc,sg,inan
+[юрг]ой S,geo,f,ins,sg,inan
+[юрг]е S,geo,f,abl,sg,inan
+
+луга
+[луг]а S,geo,f,nom,sg,inan
+[луг]и S,geo,f,gen,sg,inan
+[луг]е S,geo,f,dat,sg,inan
+[луг]у S,geo,f,acc,sg,inan
+[луг]ой S,geo,f,ins,sg,inan
+[луг]е S,geo,f,abl,sg,inan
+
+абаза
+[абаз]а S,geo,f,nom,sg,inan
+[абаз]ы S,geo,f,gen,sg,inan
+[абаз]е S,geo,f,dat,sg,inan
+[абаз]у S,geo,f,acc,sg,inan
+[абаз]ой S,geo,f,ins,sg,inan
+[абаз]е S,geo,f,abl,sg,inan
+
+чусовой
+[чусов]ой S,geo,m,nom,sg,inan
+[чусов]ого S,geo,m,gen,sg,inan
+[чусов]ому S,geo,m,dat,sg,inan
+[чусов]ой S,geo,m,acc,sg,inan
+[чусов]ым S,geo,m,ins,sg,inan
+[чусов]ом S,geo,m,abl,sg,inan
+
+полевской
+[полевск]ой S,geo,m,nom,sg,inan
+[полевск]ого S,geo,m,gen,sg,inan
+[полевск]ому S,geo,m,dat,sg,inan
+[полевск]ой S,geo,m,acc,sg,inan
+[полевск]им S,geo,m,ins,sg,inan
+[полевск]ом S,geo,m,abl,sg,inan
+
+апатиты
+[апатит]ы S,geo,n,nom,pl,inan
+[апатит]ов S,geo,n,gen,pl,inan
+[апатит]ам S,geo,n,dat,pl,inan
+[апатит]и S,geo,n,acc,pl,inan
+[апатит]ами S,geo,n,ins,pl,inan
+[апатит]ах S,geo,n,abl,pl,inan
+
+березники
+[березник]и S,geo,n,nom,pl,inan
+[березник]ов S,geo,n,gen,pl,inan
+[березник]ам S,geo,n,dat,pl,inan
+[березник]и S,geo,n,acc,pl,inan
+[березник]ами S,geo,n,ins,pl,inan
+[березник]ах S,geo,n,abl,pl,inan
+
+дубна
+[дубн]а S,geo,f,nom,sg,inan
+[дубн]ы S,geo,f,gen,sg,inan
+[дубн]е S,geo,f,dat,sg,inan
+[дубн]у S,geo,f,acc,sg,inan
+[дубн]ой S,geo,f,ins,sg,inan
+[дубн]е S,geo,f,abl,sg,inan
+
+боровичи
+[борович]и S,geo,n,nom,pl,inan
+[борович]ей S,geo,n,gen,pl,inan
+[борович]ам S,geo,n,dat,pl,inan
+[борович]и S,geo,n,acc,pl,inan
+[борович]ами S,geo,n,ins,pl,inan
+[борович]ах S,geo,n,abl,pl,inan
+
+камышин
+[камышин] S,geo,m,nom,sg,inan
+[камышин] S,geo,m,acc,sg,inan
+[камышин]ом S,geo,m,ins,sg,inan
+
+губкин
+[губкин] S,geo,m,nom,sg,inan
+[губкин] S,geo,m,acc,sg,inan
+[губкин]ом S,geo,m,ins,sg,inan
+
+бор
+[бор] S,geo,m,nom,sg,inan
+[бор]а S,geo,m,gen,sg,inan
+[бор]у S,geo,m,dat,sg,inan
+[бор] S,geo,m,acc,sg,inan
+[бор]ом S,geo,m,ins,sg,inan
+[бор]е S,geo,m,abl,sg,inan
+[бор]у S,geo,m,loc,sg,inan
+
+феодосия
+[феодоси]я S,geo,f,nom,sg,inan
+[феодоси]и S,geo,f,gen,sg,inan
+[феодоси]и S,geo,f,dat,sg,inan
+[феодоси]ю S,geo,f,acc,sg,inan
+[феодоси]ей S,geo,f,ins,sg,inan
+[феодоси]и S,geo,f,abl,sg,inan
+
+узловая
+[узлов]ая S,geo,f,nom,sg,inan
+[узлов]ой S,geo,f,gen,sg,inan
+[узлов]ой S,geo,f,dat,sg,inan
+[узлов]ую S,geo,f,acc,sg,inan
+[узлов]ой S,geo,f,ins,sg,inan
+[узлов]ой S,geo,f,abl,sg,inan
+
+орджоникидзевская
+[орджоникидзевск]ая S,geo,f,nom,sg,inan
+[орджоникидзевск]ой S,geo,f,gen,sg,inan
+[орджоникидзевск]ой S,geo,f,dat,sg,inan
+[орджоникидзевск]ую S,geo,f,acc,sg,inan
+[орджоникидзевск]ой S,geo,f,ins,sg,inan
+[орджоникидзевск]ой S,geo,f,abl,sg,inan
+
+минск
+[минск] S,geo,m,nom,sg,inan
+[минск]а S,geo,m,gen,sg,inan
+[минск]у S,geo,m,dat,sg,inan
+[минск] S,geo,m,acc,sg,inan
+[минск]ом S,geo,m,ins,sg,inan
+[минск]е S,geo,m,abl,sg,inan
+
+днепропетровск
+[днепропетровск] S,geo,m,nom,sg,inan
+[днепропетровск]а S,geo,m,gen,sg,inan
+[днепропетровск]у S,geo,m,dat,sg,inan
+[днепропетровск] S,geo,m,acc,sg,inan
+[днепропетровск]ом S,geo,m,ins,sg,inan
+[днепропетровск]е S,geo,m,abl,sg,inan
+
+донецк
+[донецк] S,m,nom,sg,geo,inan
+[донецк]а S,m,gen,sg,geo,inan
+[донецк]у S,m,dat,sg,geo,inan
+[донецк] S,m,acc,sg,geo,inan
+[донецк]ом S,m,ins,sg,geo,inan
+[донецк]е S,m,abl,sg,geo,inan
+
+ата
+[ат]а S,f,nom,sg,geo,inan
+[ат]ы S,f,gen,sg,geo,inan
+[ат]е S,f,dat,sg,geo,inan
+[ат]у S,f,acc,sg,geo,inan
+[ат]ой S,f,ins,sg,geo,inan
+[ат]е S,f,abl,sg,geo,inan
+
+выхино-жулебино
+[выхино-жулебин]о S,n,nom,sg,geo,inan
+[выхина-жулебин]а S,n,gen,sg,geo,inan
+[выхину-жулебин]у S,n,dat,sg,geo,inan
+[выхино-жулебин]о S,n,acc,sg,geo,inan
+[выхином-жулебин]ом S,n,ins,sg,geo,inan
+[выхине-жулебин]е S,n,abl,sg,geo,inan
+
+косино
+[косин]о S,geo,n,nom,sg,inan
+[косин]о S,geo,n,acc,sg,inan
+[косин]ом S,geo,n,ins,sg,inan
+
+осетия-алания
+[осетия-алан]ия S,geo,f,nom,sg,inan
+[осетии-алан]ии S,geo,f,gen,sg,inan
+[осетии-алан]ии S,geo,f,dat,sg,inan
+[осетию-алан]ию S,geo,f,acc,sg,inan
+[осетией-алан]ией S,geo,f,ins,sg,inan
+[осетии-алан]ии S,geo,f,abl,sg,inan
+
+шиянь
+[шиян]ь S,f,nom,sg,geo,inan
+[шиян]и S,f,gen,sg,geo,inan
+[шиян]и S,f,dat,sg,geo,inan
+[шиян]ь S,f,acc,sg,geo,inan
+[шиян]ью S,f,ins,sg,geo,inan
+[шиян]е S,f,abl,sg,geo,inan
+
+загреб
+[загреб] S,m,nom,sg,geo,inan
+[загреб]а S,m,gen,sg,geo,inan
+[загреб]у S,m,dat,sg,geo,inan
+[загреб] S,m,acc,sg,geo,inan
+[загреб]ом S,m,ins,sg,geo,inan
+[загреб]е S,m,abl,sg,geo,inan
+
+матола
+[матол]а S,f,nom,sg,geo,inan
+[матол]ы S,f,gen,sg,geo,inan
+[матол]е S,f,dat,sg,geo,inan
+[матол]у S,f,acc,sg,geo,inan
+[матол]ой S,f,ins,sg,geo,inan
+[матол]е S,f,abl,sg,geo,inan
+
+контажен
+[контажен] S,m,nom,sg,geo,inan
+[контажен]а S,m,gen,sg,geo,inan
+[контажен]у S,m,dat,sg,geo,inan
+[контажен] S,m,acc,sg,geo,inan
+[контажен]ом S,m,ins,sg,geo,inan
+[контажен]е S,m,abl,sg,geo,inan
+
+решт
+[решт] S,m,nom,sg,geo,inan
+[решт]а S,m,gen,sg,geo,inan
+[решт]у S,m,dat,sg,geo,inan
+[решт] S,m,acc,sg,geo,inan
+[решт]ом S,m,ins,sg,geo,inan
+[решт]е S,m,abl,sg,geo,inan
+
+бремен
+[бремен] S,m,nom,sg,geo,inan
+[бремен]а S,m,gen,sg,geo,inan
+[бремен]у S,m,dat,sg,geo,inan
+[бремен] S,m,acc,sg,geo,inan
+[бремен]ом S,m,ins,sg,geo,inan
+[бремен]е S,m,abl,sg,geo,inan
+
+шах-алам
+[шах-алам] S,m,nom,sg,geo,inan
+[шах-алам]а S,m,gen,sg,geo,inan
+[шах-алам]у S,m,dat,sg,geo,inan
+[шах-алам] S,m,acc,sg,geo,inan
+[шах-алам]ом S,m,ins,sg,geo,inan
+[шах-алам]е S,m,abl,sg,geo,inan
+
+шахалам
+[шахалам] S,m,nom,sg,geo,inan
+[шахалам]а S,m,gen,sg,geo,inan
+[шахалам]у S,m,dat,sg,geo,inan
+[шахалам] S,m,acc,sg,geo,inan
+[шахалам]ом S,m,ins,sg,geo,inan
+[шахалам]е S,m,abl,sg,geo,inan
+
+кербела
+[кербел]а S,f,nom,sg,geo,inan
+[кербел]ы S,f,gen,sg,geo,inan
+[кербел]е S,f,dat,sg,geo,inan
+[кербел]у S,f,acc,sg,geo,inan
+[кербел]ой S,f,ins,sg,geo,inan
+[кербел]е S,f,abl,sg,geo,inan
+
+тонала
+[тонал]а S,f,nom,sg,geo,inan
+[тонал]ы S,f,gen,sg,geo,inan
+[тонал]е S,f,dat,sg,geo,inan
+[тонал]у S,f,acc,sg,geo,inan
+[тонал]ой S,f,ins,sg,geo,inan
+[тонал]е S,f,abl,sg,geo,inan
+
+кассала
+[кассал]а S,f,nom,sg,geo,inan
+[кассал]ы S,f,gen,sg,geo,inan
+[кассал]е S,f,dat,sg,geo,inan
+[кассал]у S,f,acc,sg,geo,inan
+[кассал]ой S,f,ins,sg,geo,inan
+[кассал]е S,f,abl,sg,geo,inan
+
+касива
+[касив]а S,f,nom,sg,geo,inan
+[касив]ы S,f,gen,sg,geo,inan
+[касив]е S,f,dat,sg,geo,inan
+[касив]у S,f,acc,sg,geo,inan
+[касив]ой S,f,ins,sg,geo,inan
+[касив]е S,f,abl,sg,geo,inan
+
+косигая
+[косиг]ая S,f,nom,sg,geo,inan
+[косиг]аи S,f,gen,sg,geo,inan
+[косиг]ае S,f,dat,sg,geo,inan
+[косиг]аю S,f,acc,sg,geo,inan
+[косиг]аей S,f,ins,sg,geo,inan
+[косиг]ае S,f,abl,sg,geo,inan
+
+байчен
+[байчен] S,m,nom,sg,geo,inan
+[байчен]а S,m,gen,sg,geo,inan
+[байчен]у S,m,dat,sg,geo,inan
+[байчен] S,m,acc,sg,geo,inan
+[байчен]ом S,m,ins,sg,geo,inan
+[байчен]е S,m,abl,sg,geo,inan
+
+минна
+[минн]а S,f,nom,sg,geo,inan
+[минн]ы S,f,gen,sg,geo,inan
+[минн]е S,f,dat,sg,geo,inan
+[минн]у S,f,acc,sg,geo,inan
+[минн]ой S,f,ins,sg,geo,inan
+[минн]е S,f,abl,sg,geo,inan
+
+мбея
+[мбе]я S,f,nom,sg,geo,inan
+[мбе]и S,f,gen,sg,geo,inan
+[мбе]е S,f,dat,sg,geo,inan
+[мбе]ю S,f,acc,sg,geo,inan
+[мбе]ей S,f,ins,sg,geo,inan
+[мбе]е S,f,abl,sg,geo,inan
+
+сузано
+[сузано] S,n,nom,sg,geo,inan
+[сузано] S,n,gen,sg,geo,inan
+[сузано] S,n,dat,sg,geo,inan
+[сузано] S,n,acc,sg,geo,inan
+[сузано] S,n,ins,sg,geo,inan
+[сузано] S,n,abl,sg,geo,inan
+
+чикапа
+[чикап]а S,f,nom,sg,geo,inan
+[чикап]ы S,f,gen,sg,geo,inan
+[чикап]е S,f,dat,sg,geo,inan
+[чикап]у S,f,acc,sg,geo,inan
+[чикап]ой S,f,ins,sg,geo,inan
+[чикап]е S,f,abl,sg,geo,inan
+
+попаян
+[попаян] S,m,nom,sg,geo,inan
+[попаян]а S,m,gen,sg,geo,inan
+[попаян]у S,m,dat,sg,geo,inan
+[попаян] S,m,acc,sg,geo,inan
+[попаян]ом S,m,ins,sg,geo,inan
+[попаян]е S,m,abl,sg,geo,inan
+
+кумана
+[куман]а S,f,nom,sg,geo,inan
+[куман]ы S,f,gen,sg,geo,inan
+[куман]е S,f,dat,sg,geo,inan
+[куман]у S,f,acc,sg,geo,inan
+[куман]ой S,f,ins,sg,geo,inan
+[куман]е S,f,abl,sg,geo,inan
+
+фукуй
+[фукуй] S,m,nom,sg,geo,inan
+[фукуй] S,m,gen,sg,geo,inan
+[фукуй] S,m,dat,sg,geo,inan
+[фукуй] S,m,acc,sg,geo,inan
+[фукуй] S,m,ins,sg,geo,inan
+[фукуй] S,m,abl,sg,geo,inan
+
+хульяка
+[хульяк]а S,f,nom,sg,geo,inan
+[хульяк]и S,f,gen,sg,geo,inan
+[хульяк]е S,f,dat,sg,geo,inan
+[хульяк]у S,f,acc,sg,geo,inan
+[хульяк]ой S,f,ins,sg,geo,inan
+[хульяк]е S,f,abl,sg,geo,inan
+
+чула-виста
+[чула-вист]а S,f,nom,sg,geo,inan
+[чула-вист]ы S,f,gen,sg,geo,inan
+[чула-вист]е S,f,dat,sg,geo,inan
+[чула-вист]у S,f,acc,sg,geo,inan
+[чула-вист]ой S,f,ins,sg,geo,inan
+[чула-вист]е S,f,abl,sg,geo,inan
+
+чулависта
+[чулавист]а S,f,nom,sg,geo,inan
+[чулавист]ы S,f,gen,sg,geo,inan
+[чулавист]е S,f,dat,sg,geo,inan
+[чулавист]у S,f,acc,sg,geo,inan
+[чулавист]ой S,f,ins,sg,geo,inan
+[чулавист]е S,f,abl,sg,geo,inan
+
+кадуна
+[кадун]а S,f,nom,sg,geo,inan
+[кадун]ы S,f,gen,sg,geo,inan
+[кадун]е S,f,dat,sg,geo,inan
+[кадун]у S,f,acc,sg,geo,inan
+[кадун]ой S,f,ins,sg,geo,inan
+[кадун]е S,f,abl,sg,geo,inan
+
+кукута
+[кукут]а S,f,nom,sg,geo,inan
+[кукут]ы S,f,gen,sg,geo,inan
+[кукут]е S,f,dat,sg,geo,inan
+[кукут]у S,f,acc,sg,geo,inan
+[кукут]ой S,f,ins,sg,geo,inan
+[кукут]е S,f,abl,sg,geo,inan
+
+толука
+[толук]а S,f,nom,sg,geo,inan
+[толук]и S,f,gen,sg,geo,inan
+[толук]е S,f,dat,sg,geo,inan
+[толук]у S,f,acc,sg,geo,inan
+[толук]ой S,f,ins,sg,geo,inan
+[толук]е S,f,abl,sg,geo,inan
+
+илоило
+[илоило] S,n,nom,sg,geo,inan
+[илоило] S,n,gen,sg,geo,inan
+[илоило] S,n,dat,sg,geo,inan
+[илоило] S,n,acc,sg,geo,inan
+[илоило] S,n,ins,sg,geo,inan
+[илоило] S,n,abl,sg,geo,inan
+
+баучи
+[баучи] S,n,nom,sg,geo,inan
+[баучи] S,n,gen,sg,geo,inan
+[баучи] S,n,dat,sg,geo,inan
+[баучи] S,n,acc,sg,geo,inan
+[баучи] S,n,ins,sg,geo,inan
+[баучи] S,n,abl,sg,geo,inan
+
+тегал
+[тегал] S,m,nom,sg,geo,inan
+[тегал]а S,m,gen,sg,geo,inan
+[тегал]у S,m,dat,sg,geo,inan
+[тегал] S,m,acc,sg,geo,inan
+[тегал]ом S,m,ins,sg,geo,inan
+[тегал]е S,m,abl,sg,geo,inan
+
+винстон-салем
+[винстон-салем] S,m,nom,sg,geo,inan
+[винстон-салем]а S,m,gen,sg,geo,inan
+[винстон-салем]у S,m,dat,sg,geo,inan
+[винстон-салем] S,m,acc,sg,geo,inan
+[винстон-салем]ом S,m,ins,sg,geo,inan
+[винстон-салем]е S,m,abl,sg,geo,inan
+
+винстонсалем
+[винстонсалем] S,m,nom,sg,geo,inan
+[винстонсалем]а S,m,gen,sg,geo,inan
+[винстонсалем]у S,m,dat,sg,geo,inan
+[винстонсалем] S,m,acc,sg,geo,inan
+[винстонсалем]ом S,m,ins,sg,geo,inan
+[винстонсалем]е S,m,abl,sg,geo,inan
+
+карнал
+[карнал] S,m,nom,sg,geo,inan
+[карнал]а S,m,gen,sg,geo,inan
+[карнал]у S,m,dat,sg,geo,inan
+[карнал] S,m,acc,sg,geo,inan
+[карнал]ом S,m,ins,sg,geo,inan
+[карнал]е S,m,abl,sg,geo,inan
+
+импхал
+[импхал] S,m,nom,sg,geo,inan
+[импхал]а S,m,gen,sg,geo,inan
+[импхал]у S,m,dat,sg,geo,inan
+[импхал] S,m,acc,sg,geo,inan
+[импхал]ом S,m,ins,sg,geo,inan
+[импхал]е S,m,abl,sg,geo,inan
+
+ла-пинтана
+[ла-пинтан] S,f,nom,sg,geo,inan
+[ла-пинтан]а S,f,gen,sg,geo,inan
+[ла-пинтан]у S,f,dat,sg,geo,inan
+[ла-пинтан] S,f,acc,sg,geo,inan
+[ла-пинтан]ом S,f,ins,sg,geo,inan
+[ла-пинтан]е S,f,abl,sg,geo,inan
+
+лапинтана
+[лапинтан]а S,f,nom,sg,geo,inan
+[лапинтан]ы S,f,gen,sg,geo,inan
+[лапинтан]е S,f,dat,sg,geo,inan
+[лапинтан]у S,f,acc,sg,geo,inan
+[лапинтан]ой S,f,ins,sg,geo,inan
+[лапинтан]е S,f,abl,sg,geo,inan
+
+чианг-май
+[чианг-ма]й S,m,nom,sg,geo,inan
+[чианг-ма]я S,m,gen,sg,geo,inan
+[чианг-ма]ю S,m,dat,sg,geo,inan
+[чианг-ма]й S,m,acc,sg,geo,inan
+[чианг-ма]ем S,m,ins,sg,geo,inan
+[чианг-ма]е S,m,abl,sg,geo,inan
+
+чиангмай
+[чиангма]й S,m,nom,sg,geo,inan
+[чиангма]я S,m,gen,sg,geo,inan
+[чиангма]ю S,m,dat,sg,geo,inan
+[чиангма]й S,m,acc,sg,geo,inan
+[чиангма]ем S,m,ins,sg,geo,inan
+[чиангма]е S,m,abl,sg,geo,inan
+
+бербера
+[бербер]а S,f,nom,sg,geo,inan
+[бербер]ы S,f,gen,sg,geo,inan
+[бербер]е S,f,dat,sg,geo,inan
+[бербер]у S,f,acc,sg,geo,inan
+[бербер]ой S,f,ins,sg,geo,inan
+[бербер]е S,f,abl,sg,geo,inan
+
+оля
+[ол]я S,f,nom,sg,persn,anim
+[ол]и S,f,gen,sg,persn,anim
+[ол]е S,f,dat,sg,persn,anim
+[ол]ю S,f,acc,sg,persn,anim
+[ол]ей S,f,ins,sg,persn,anim
+[ол]е S,f,abl,sg,persn,anim
+
+эля
+[эл]я S,f,nom,sg,persn,anim
+[эл]и S,f,gen,sg,persn,anim
+[эл]е S,f,dat,sg,persn,anim
+[эл]ю S,f,acc,sg,persn,anim
+[эл]ей S,f,ins,sg,persn,anim
+[эл]е S,f,abl,sg,persn,anim
+
+гуля
+[гул]я S,f,nom,sg,persn,anim
+[гул]и S,f,gen,sg,persn,anim
+[гул]е S,f,dat,sg,persn,anim
+[гул]ю S,f,acc,sg,persn,anim
+[гул]ей S,f,ins,sg,persn,anim
+[гул]е S,f,abl,sg,persn,anim
+
+тоня
+[тон]я S,f,nom,sg,persn,anim
+[тон]и S,f,gen,sg,persn,anim
+[тон]е S,f,dat,sg,persn,anim
+[тон]ю S,f,acc,sg,persn,anim
+[тон]ей S,f,ins,sg,persn,anim
+[тон]е S,f,abl,sg,persn,anim
+
+леся
+[лес]я S,f,nom,sg,persn,anim
+[лес]и S,f,gen,sg,persn,anim
+[лес]е S,f,dat,sg,persn,anim
+[лес]ю S,f,acc,sg,persn,anim
+[лес]ей S,f,ins,sg,persn,anim
+[лес]е S,f,abl,sg,persn,anim
+
+аля
+[ал]я S,f,nom,sg,persn,anim
+[ал]и S,f,gen,sg,persn,anim
+[ал]е S,f,dat,sg,persn,anim
+[ал]ю S,f,acc,sg,persn,anim
+[ал]ей S,f,ins,sg,persn,anim
+[ал]е S,f,abl,sg,persn,anim
+
+лана
+[лан]а S,f,nom,sg,persn,anim
+[лан]ы S,f,gen,sg,persn,anim
+[лан]е S,f,dat,sg,persn,anim
+[лан]у S,f,acc,sg,persn,anim
+[лан]ой S,f,ins,sg,persn,anim
+[лан]е S,f,abl,sg,persn,anim
+
+инесса
+[инесс]а S,f,nom,sg,persn,anim
+[инесс]ы S,f,gen,sg,persn,anim
+[инесс]е S,f,dat,sg,persn,anim
+[инесс]у S,f,acc,sg,persn,anim
+[инесс]ой S,f,ins,sg,persn,anim
+[инесс]е S,f,abl,sg,persn,anim
+
+саня
+[сан]я S,mf,nom,sg,persn,anim
+[сан]и S,mf,gen,sg,persn,anim
+[сан]е S,mf,dat,sg,persn,anim
+[сан]ю S,mf,acc,sg,persn,anim
+[сан]ей S,mf,ins,sg,persn,anim
+[сан]е S,mf,abl,sg,persn,anim
+
+жека
+[жек]а S,mf,nom,sg,persn,anim
+[жек]и S,mf,gen,sg,persn,anim
+[жек]е S,mf,dat,sg,persn,anim
+[жек]у S,mf,acc,sg,persn,anim
+[жек]ой S,mf,ins,sg,persn,anim
+[жек]е S,mf,abl,sg,persn,anim
+
+рома
+[ром]а S,m,nom,sg,persn,anim
+[ром]ы S,m,gen,sg,persn,anim
+[ром]е S,m,dat,sg,persn,anim
+[ром]у S,m,acc,sg,persn,anim
+[ром]ой S,m,ins,sg,persn,anim
+[ром]е S,m,abl,sg,persn,anim
+
+валера
+[валер]а S,mf,nom,sg,persn,anim
+[валер]ы S,mf,gen,sg,persn,anim
+[валер]е S,mf,dat,sg,persn,anim
+[валер]у S,mf,acc,sg,persn,anim
+[валер]ой S,mf,ins,sg,persn,anim
+[валер]е S,mf,abl,sg,persn,anim
+
+жора
+[жор]а S,m,nom,sg,persn,anim
+[жор]ы S,m,gen,sg,persn,anim
+[жор]е S,m,dat,sg,persn,anim
+[жор]у S,m,acc,sg,persn,anim
+[жор]ой S,m,ins,sg,persn,anim
+[жор]е S,m,abl,sg,persn,anim
+
+боря
+[бор]я S,m,nom,sg,persn,anim
+[бор]и S,m,gen,sg,persn,anim
+[бор]е S,m,dat,sg,persn,anim
+[бор]ю S,m,acc,sg,persn,anim
+[бор]ей S,m,ins,sg,persn,anim
+[бор]е S,m,abl,sg,persn,anim
+
+станислав
+[станислав] S,m,nom,sg,persn,anim
+[станислав]а S,m,gen,sg,persn,anim
+[станислав]у S,m,dat,sg,persn,anim
+[станислав]а S,m,acc,sg,persn,anim
+[станислав]ом S,m,ins,sg,persn,anim
+[станислав]е S,m,abl,sg,persn,anim
+
+святослав
+[святослав] S,m,nom,sg,persn,anim
+[святослав]а S,m,gen,sg,persn,anim
+[святослав]у S,m,dat,sg,persn,anim
+[святослав]а S,m,acc,sg,persn,anim
+[святослав]ом S,m,ins,sg,persn,anim
+[святослав]е S,m,abl,sg,persn,anim
+
+марк
+[марк] S,m,nom,sg,persn,anim
+[марк]а S,m,gen,sg,persn,anim
+[марк]у S,m,dat,sg,persn,anim
+[марк]а S,m,acc,sg,persn,anim
+[марк]ом S,m,ins,sg,persn,anim
+[марк]е S,m,abl,sg,persn,anim
+
+ренат
+[ренат] S,m,nom,sg,persn,anim
+[ренат]а S,m,gen,sg,persn,anim
+[ренат]у S,m,dat,sg,persn,anim
+[ренат]а S,m,acc,sg,persn,anim
+[ренат]ом S,m,ins,sg,persn,anim
+[ренат]е S,m,abl,sg,persn,anim
+
+арсений
+[арсени]й S,m,nom,sg,persn,anim
+[арсени]я S,m,gen,sg,persn,anim
+[арсени]ю S,m,dat,sg,persn,anim
+[арсени]я S,m,acc,sg,persn,anim
+[арсени]ем S,m,ins,sg,persn,anim
+[арсени]и S,m,abl,sg,persn,anim
+
+дамир
+[дамир] S,m,nom,sg,persn,anim
+[дамир]а S,m,gen,sg,persn,anim
+[дамир]у S,m,dat,sg,persn,anim
+[дамир]а S,m,acc,sg,persn,anim
+[дамир]ом S,m,ins,sg,persn,anim
+[дамир]е S,m,abl,sg,persn,anim
+
+рамиль
+[рамиль] S,m,nom,sg,persn,anim
+[рамил]я S,m,gen,sg,persn,anim
+[рамил]ю S,m,dat,sg,persn,anim
+[рамил]я S,m,acc,sg,persn,anim
+[рамил]ем S,m,ins,sg,persn,anim
+[рамил]е S,m,abl,sg,persn,anim
+
+ильнур
+[ильнур] S,m,nom,sg,persn,anim
+[ильнур]а S,m,gen,sg,persn,anim
+[ильнур]у S,m,dat,sg,persn,anim
+[ильнур]а S,m,acc,sg,persn,anim
+[ильнур]ом S,m,ins,sg,persn,anim
+[ильнур]е S,m,abl,sg,persn,anim
+
+ден
+[ден] S,m,nom,sg,persn,anim
+[ден]а S,m,gen,sg,persn,anim
+[ден]у S,m,dat,sg,persn,anim
+[ден]а S,m,acc,sg,persn,anim
+[ден]ом S,m,ins,sg,persn,anim
+[ден]е S,m,abl,sg,persn,anim
+
+данил
+[данил] S,m,nom,sg,persn,anim
+[данил]а S,m,gen,sg,persn,anim
+[данил]у S,m,dat,sg,persn,anim
+[данил]а S,m,acc,sg,persn,anim
+[данил]ом S,m,ins,sg,persn,anim
+[данил]е S,m,abl,sg,persn,anim
+
+оленька
+[оленьк]а S,f,nom,sg,persn,anim
+[оленьк]и S,f,gen,sg,persn,anim
+[оленьк]е S,f,dat,sg,persn,anim
+[оленьк]у S,f,acc,sg,persn,anim
+[оленьк]ой S,f,ins,sg,persn,anim
+[оленьк]е S,f,abl,sg,persn,anim
+
+света
+[свет]а S,f,nom,sg,persn,anim
+[свет]ы S,f,gen,sg,persn,anim
+[свет]е S,f,dat,sg,persn,anim
+[свет]у S,f,acc,sg,persn,anim
+[свет]ой S,f,ins,sg,persn,anim
+[свет]е S,f,abl,sg,persn,anim
+
+толик
+[толик] S,m,nom,sg,persn,anim
+[толик]а S,m,gen,sg,persn,anim
+[толик]у S,m,dat,sg,persn,anim
+[толик]а S,m,acc,sg,persn,anim
+[толик]ом S,m,ins,sg,persn,anim
+[толик]е S,m,abl,sg,persn,anim
+
+коля
+[коля] S,m,nom,sg,persn,anim
+[кол]и S,m,gen,sg,persn,anim
+[кол]е S,m,dat,sg,persn,anim
+[кол]ю S,m,acc,sg,persn,anim
+[кол]ей S,m,ins,sg,persn,anim
+[кол]е S,m,abl,sg,persn,anim
+
+олька
+[ольк]а S,f,nom,sg,persn,anim
+[ольк]и S,f,gen,sg,persn,anim
+[ольк]е S,f,dat,sg,persn,anim
+[ольк]у S,f,acc,sg,persn,anim
+[ольк]ой S,f,ins,sg,persn,anim
+[ольк]е S,f,abl,sg,persn,anim
+
+ленуська
+[ленуськ]а S,f,nom,sg,persn,anim
+[ленуськ]и S,f,gen,sg,persn,anim
+[ленуськ]е S,f,dat,sg,persn,anim
+[ленуськ]у S,f,acc,sg,persn,anim
+[ленуськ]ой S,f,ins,sg,persn,anim
+[ленуськ]е S,f,abl,sg,persn,anim
+
+янв
+[янв] S,m,nom,sg,inan
+
+мар
+[мар] S,m,nom,sg,inan
+
+июл
+[июл] S,m,nom,sg,inan
+
+сен
+[сен] S,m,nom,sg,inan
+
+ноя
+[ноя] S,m,nom,sg,inan
+
+дек
+[дек] S,m,nom,sg,inan

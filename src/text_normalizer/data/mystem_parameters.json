@@ -1,0 +1,11 @@
+{
+  "fixlist_file": "mystem_files/fixlist.txt",
+  "binaries": {
+    "win32": "mystem.exe",
+    "linux": "/usr/local/bin/mystem",
+    "darwin": "/usr/local/bin/mystem"},
+  "grammar_info": true,
+  "disambiguation": true,
+  "entire_input": true,
+  "input_format_json": true
+}

@@ -1,0 +1,58 @@
+version: '3.8'
+
+networks:
+  ipc:
+
+services:
+  rtn:
+    image: 'ivr:tn'
+    working_dir: /app
+    stop_signal: sigint
+    restart: on-failure
+    cap_add:
+      - SYS_PTRACE  # enables processes remote profiling with tools like, "pyspy"
+    ports:
+    - "3000:3000"
+    env_file:
+      - .env
+    networks:
+      - ipc
+    entrypoint: ['python', '-m', 'text_normalizer.api.ipc.server', '--all']
+
+  tn:
+    build:
+      context: .
+    image: 'ivr:tn'
+    working_dir: /app
+    stop_signal: sigint
+    env_file:
+      - .env
+    networks:
+      - ipc
+    entrypoint: ['python', '-m', 'text_normalizer']
+
+  test:
+    depends_on:
+      - rtn
+    build:
+      context: .
+      args:
+        MODE: DEV
+    image: 'ivr:tn-test'
+    working_dir: /app
+    networks:
+      - ipc
+    environment:
+      - PYTHONBUFFERED=1
+      - PYTHONPATH=/app:/app/src
+      - NLTK_DATA=/usr/local/share/nltk_data
+      - MYSTEM_BIN=/usr/local/bin/mystem
+      - RTN_TIMEOUT=100
+    volumes:
+      - ../src:/app/src
+      - ../tests:/app/tests
+      - ../.pytest_cache:/app/.pytest_cache
+      - ../pytest.ini:/app/pytest.ini
+      - ../benchmark.ini:/app/benchmark.ini
+      - ../coverage:/app/coverage
+    entrypoint: ['pytest']

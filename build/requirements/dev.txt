@@ -1,0 +1,13 @@
+-r base.txt
+nltk==3.5
+pymystem3==0.2.0
+setuptools_scm
+guppy3
+line_profiler
+memory_profiler
+mock
+psutil
+py-spy
+pytest-cov
+pytest
+pytest-benchmark
